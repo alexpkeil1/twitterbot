@@ -100,7 +100,7 @@ api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCE
 
 print("Tweeting about " + outtext)
     
-file = open(outfile, 'rb')
-data = file.read()
-r = api.request('statuses/update_with_media', {'status': 'Machines speaking machine: ' + outtext}, {'media[]':data})
-print(r.status_code)    
+with open(outfile, 'rb') as file:
+    data = file.read()
+    r = api.request('statuses/update_with_media', {'status': 'Machines speaking machine: ' + outtext}, {'media[]':data})
+    print(r.status_code)    
