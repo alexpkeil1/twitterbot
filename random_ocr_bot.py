@@ -78,7 +78,7 @@ while len(mydict)<1:
     numletters = np.random.randint(6)+6
     x,y,ltr = random_walker(p, totl=numletters, plotter=True)
     outtext = process_local_image(outdir + 'rwfig.jpg')
-    if ((outtext.upper() in english) & (outtext != '')):
+    if ((outtext.upper() in english) & (len(outtext) == numletters)):
         if outtext not in mydict:
             mydict[outtext] = (x,y)
         outfile = outdir + 'rwfigs/' + outtext + '.jpg'
