@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# send a tweet with an OCR word using the TwitterAPI module
 # -*- coding: utf-8 -*-
  
 import mybotapi as mpi
@@ -10,11 +11,17 @@ import requests
 import matplotlib.pyplot as plt
 import string
 import os
+from TwitterAPI import TwitterAPI
+
+
 
 outdir = '/tmp/'
 #outdir = ''
 
-os.mkdir(outdir+'rwfigs')
+try:
+    os.mkdir(outdir+'rwfigs')
+except FileExistsError:
+    print("Directory exists")
 
 resp = requests.get("https://raw.githubusercontent.com/jonbcard/scrabble-bot/master/src/dictionary.txt")
 english = {}
@@ -85,7 +92,13 @@ while len(mydict)<1:
                  (np.random.random()-1) * split + (1 - split)*p[1])
 
 
-api = mpi.api
+
+# dictionary with private keys (not in public repository)
+t_keys = mpi.get_keys()
+
+api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
+
+print("Tweeting about " + outtext)
     
 file = open(outfile, 'rb')
 data = file.read()
