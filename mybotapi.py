@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#two possible APIs to use, tweepy and TwitterAPI
+
  
 import tweepy
 import time
@@ -20,4 +22,3 @@ auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 tweepyapi = tweepy.API(auth)
 
 api = TwitterAPI(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET)
- 
