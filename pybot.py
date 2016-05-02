@@ -36,7 +36,7 @@ with open(first_tweet, 'r') as f:
 
 if quote.find('wom') < 0:
     print('tweeting: ' + quote)
-    #api.update_status(quote)
+    tweet = api.update_status(quote)
 else: 
     print('not tweeting')
 
