@@ -6,6 +6,9 @@
 import mybotapi as mpi
 import tweepy
 
+
+t_keys = mpi.get_keys()
+
 auth = tweepy.OAuthHandler(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'])
 auth.set_access_token(t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
 api = tweepy.API(auth)
