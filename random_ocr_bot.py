@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# python 2 required
+# 
 # send a tweet with an OCR word using the TwitterAPI module
 # -*- coding: utf-8 -*-
  
@@ -33,7 +33,7 @@ for word in resp.text.split('\n'):
 
 def process_local_image(path):
     image = Image.open(path)
-    image.filter(ImageFilter.SHARPEN)
+    image.filter(ImageFilter.SHARPEN) # required when running on osx
     return pytesseract.image_to_string(image, config="-psm 8")
 
 
