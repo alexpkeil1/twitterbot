@@ -78,7 +78,7 @@ p = (np.random.random()*2, np.random.random()*2)
 mydict = {}
 split = 0.8
 while len(mydict)<1:
-    numletters = np.random.randint(6)+6
+    numletters = np.random.randint(6)+4
     x,y,ltr = random_walker(p, totl=numletters, plotter=True)
     outtext = process_local_image(outdir + 'rwfig.jpg')
     if ((outtext.upper() in english) & (len(outtext) == numletters)):
