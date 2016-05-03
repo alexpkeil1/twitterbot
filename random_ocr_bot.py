@@ -1,10 +1,12 @@
 #!/usr/bin/env python
+# python 2 required
 # send a tweet with an OCR word using the TwitterAPI module
 # -*- coding: utf-8 -*-
  
 import mybotapi as mpi
 import pytesseract
 from PIL import Image #py 3 version (pillow)
+from PIL import ImageFilter
 from subprocess import call
 import numpy as np
 import requests
@@ -16,7 +18,7 @@ from TwitterAPI import TwitterAPI
 
 
 outdir = '/tmp/'
-#outdir = ''
+#outdir = '/Users/akeil/temp'
 
 try:
     os.mkdir(outdir+'rwfigs')
@@ -31,6 +33,7 @@ for word in resp.text.split('\n'):
 
 def process_local_image(path):
     image = Image.open(path)
+    image.filter(ImageFilter.SHARPEN)
     return pytesseract.image_to_string(image, config="-psm 8")
 
 
