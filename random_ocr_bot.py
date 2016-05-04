@@ -25,10 +25,11 @@ try:
 except FileExistsError:
     print("Directory exists")
 
-resp = requests.get("https://raw.githubusercontent.com/jonbcard/scrabble-bot/master/src/dictionary.txt")
+resp = requests.get("http://ejohn.org/files/dict/ospd4.txt")
+#resp = requests.get("https://raw.githubusercontent.com/jonbcard/scrabble-bot/master/src/dictionary.txt")
 english = {}
 for word in resp.text.split('\n'):
-    english[word] = 1
+    english[word.upper()] = 1
 
 
 def process_local_image(path):
