@@ -67,10 +67,8 @@ urlList = ["http://www.cdc.gov/mmwr/index.html",
            "https://www.nlm.nih.gov/medlineplus/groupfeeds/nih.xml"
            "https://www.nlm.nih.gov/medlineplus/groupfeeds/new.xml"
            "https://en.wikiquote.org/wiki/David_Hume"
-           "http://rescomp.stanford.edu/~cheshire/EinsteinQuotes.html"]
-
-urlList = ["http://rescomp.stanford.edu/~cheshire/EinsteinQuotes.html"]
-
+           "http://rescomp.stanford.edu/~cheshire/EinsteinQuotes.html",
+           "http://izquotes.com/author/dennis-lindley"]
 
 
 pasttweets = lookuptweets()
