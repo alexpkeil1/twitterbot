@@ -1,7 +1,7 @@
 # twitterbot
 Using twitter API to create tweets. Examples include Tweepy and TwitterAPI modules. See [dottodot] (http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/) for a quick introduction.
 
-[Here](https://twitter.com/PyBotMcBotface) is my somewhat odd example of an arbitrary mixture of these programs at work.
+[Here](https://twitter.com/PyBotMcBotface) is my somewhat odd example of an arbitrary mixture of these programs at work, using launchd (OS-X) and cron (Xubuntu) to automate it.
 
 I use a file called mybotapi that holds my private Twitter info, it is structured roughly like this:
 ```python
