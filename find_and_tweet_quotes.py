@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 ##############################################################################
 # Author: Alex Keil
 # Program: find_and_tweet_quotes.py
@@ -17,14 +19,15 @@ from numpy import random
 import os 
 
 
+if os.sys.platform == 'darwin':
+    base = "/Users/akeil/"
+else:
+    base = "/home/akeil/"
+
 def maketweet(tweetit):
     '''
     Tweet the contents of a string variable
     '''
-    if os.sys.platform == 'darwin':
-        base = "/Users/akeil/"
-    else:
-        base = "/home/akeil/"
     os.chdir(base + "Documents/programming_examples/python/twitterbot/")
     import mybotapi as mpi  # need to cd into this directory
     t_keys = mpi.get_keys()
