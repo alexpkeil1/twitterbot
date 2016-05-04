@@ -1,8 +1,15 @@
 #!/usr/bin/env python
-# 
-# send a tweet with an OCR word using the TwitterAPI module
 # -*- coding: utf-8 -*-
- 
+##############################################################################
+# Author: Alex Keil
+# Program: random_ocr_bot.py
+# Language: Python 3.5 (Tested on OS-X, Xubuntu)
+# Date: Wednesday, May 4, 2016 at 6:23:09 PM
+# Project: twitter bot
+# Description: send a tweet with an OCR word using the TwitterAPI module
+# Keywords:
+# Released under GNU Gen. Pub. Lic.: http://www.gnu.org/copyleft/gpl.html
+##############################################################################
 import pytesseract
 from PIL import Image #py 3 version (pillow)
 from PIL import ImageFilter
@@ -15,18 +22,18 @@ import os
 from TwitterAPI import TwitterAPI
 import os
 if os.sys.platform == 'darwin':
-    os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
+    base = "/Users/akeil/"
 else:
-    os.chdir("/home/akeil/Documents/programming_examples/python/twitterbot/")
+    base = "/home/akeil/"
+os.chdir(base + "Documents/programming_examples/python/twitterbot/")
+import mybotapi as mpi  # need to cd into this directory
 import mybotapi as mpi # need to cd into this directory
 
+
 t_keys = mpi.get_keys()
-
-
-
 outdir = '/tmp/'
-#outdir = '/Users/akeil/temp'
 
+# some testing of version
 try:
     os.mkdir(outdir+'rwfigs')
 except OSError:
@@ -34,14 +41,17 @@ except OSError:
 except FileExistsError:
     print("Directory exists")
 
+# find all words in english dictionary - read into python dictionary
 resp = requests.get("http://ejohn.org/files/dict/ospd4.txt")
-#resp = requests.get("https://raw.githubusercontent.com/jonbcard/scrabble-bot/master/src/dictionary.txt")
 english = {}
 for word in resp.text.split('\n'):
     english[word.upper()] = 1
 
 
 def process_local_image(path):
+    '''
+    Sharpen image for OCR. Perform OCR and output rendered text.
+    '''
     image = Image.open(path)
     image.filter(ImageFilter.SHARPEN) # required when running on osx
     return pytesseract.image_to_string(image, config="-psm 8")
@@ -49,6 +59,10 @@ def process_local_image(path):
 
 #random drawing algorithm
 def random_walker(parms = (1, 1), totl = 5, plotter=True):
+    '''
+    Draw a set of characters of lenght totl using a random walk.
+    (optionally) turn the figure into an image for OCR
+    '''
     x, y, ltr = [1], [1], [1]
     lastxstep, lastystep = 0, 0
     nlines = 20
@@ -84,6 +98,8 @@ def random_walker(parms = (1, 1), totl = 5, plotter=True):
     return x, y, ltr
 
 
+# Finding computer language by brute force
+# repeat the creation of letters until a recognizable word occurs
 p = (np.random.random()*2, np.random.random()*2)
 mydict = {}
 split = 0.8
@@ -106,10 +122,10 @@ while len(mydict)<1:
 
 
 
+
+# now tweet the result
 # dictionary with private keys (not in public repository)
-
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
-
 print("Tweeting about " + outtext)
     
 with open(outfile, 'rb') as file:
