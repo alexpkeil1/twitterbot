@@ -3,7 +3,6 @@
 # send a tweet with an OCR word using the TwitterAPI module
 # -*- coding: utf-8 -*-
  
-import mybotapi as mpi
 import pytesseract
 from PIL import Image #py 3 version (pillow)
 from PIL import ImageFilter
@@ -14,6 +13,14 @@ import matplotlib.pyplot as plt
 import string
 import os
 from TwitterAPI import TwitterAPI
+import os
+if os.sys.platform == 'darwin':
+    os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
+else:
+    os.chdir("/home/akeil/Documents/programming_examples/python/twitterbot/")
+import mybotapi as mpi # need to cd into this directory
+
+t_keys = mpi.get_keys()
 
 
 
@@ -98,7 +105,6 @@ while len(mydict)<1:
 
 
 # dictionary with private keys (not in public repository)
-t_keys = mpi.get_keys()
 
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
 

@@ -6,7 +6,10 @@ import os
 
 
 def maketweet(tweetit):
-    os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
+    if os.sys.platform == 'darwin':
+        os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
+    else:
+        os.chdir("/home/akeil/Documents/programming_examples/python/twitterbot/")
     import mybotapi as mpi # need to cd into this directory
     t_keys = mpi.get_keys()
     auth = tweepy.OAuthHandler(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'])

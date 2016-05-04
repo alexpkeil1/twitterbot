@@ -6,6 +6,9 @@
 import mybotapi as mpi
 import tweepy
 import requests
+import os
+os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
+import mybotapi as mpi # need to cd into this directory
 
 
 first_tweet = 'test_tweet.txt'

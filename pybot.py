@@ -4,10 +4,15 @@
 
 # -*- coding: utf-8 -*-
  
-import mybotapi as mpi
 import tweepy
 import requests
 from lxml import html
+import os
+if os.sys.platform == 'darwin':
+    os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
+else:
+    os.chdir("/home/akeil/Documents/programming_examples/python/twitterbot/")
+import mybotapi as mpi # need to cd into this directory
 
 t_keys = mpi.get_keys()
 
