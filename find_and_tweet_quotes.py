@@ -32,7 +32,7 @@ def addtweettolist(tweetit):
 
 
 def find_tweet():
-    classes = ['span', 'a', 'li', 'title', 'h1', 'p', 'guid', 'LI']
+    classes = ['span', 'a', 'li', 'title', 'h1', 'p', 'guid', 'LI', 'BR']
     curtxt = ''
     for j in classes:
         for i in theHTML.cssselect(j):
@@ -71,7 +71,10 @@ urlList = ["http://www.cdc.gov/mmwr/index.html",
            "https://www.nlm.nih.gov/medlineplus/groupfeeds/new.xml"
            "https://en.wikiquote.org/wiki/David_Hume"
            "http://rescomp.stanford.edu/~cheshire/EinsteinQuotes.html",
-           "http://izquotes.com/author/dennis-lindley"]
+           "http://izquotes.com/author/dennis-lindley",
+           "http://www.math.utah.edu/~cherk/mathjokes.html",
+           "http://www.jupiterscientific.org/sciinfo/jokes/physicsjokes.html",
+           "http://www.se16.info/hgb/statjoke.htm"]
 
 
 pasttweets = lookuptweets()
