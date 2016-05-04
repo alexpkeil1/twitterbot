@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 
 
@@ -6,6 +7,17 @@ os.chdir("/home/akeil/Documents/programming_examples/python/twitterbot")
 
 #enter the corresponding information from your Twitter application:
  
+=======
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#two possible APIs to use, tweepy and TwitterAPI
+
+ 
+
+  
+#enter the corresponding information from your Twitter application:
+
+>>>>>>> 1446a88cd0e55a0a199c86b8874078e15ac418a3
 def get_keys():
     dict = {}
     dict['CONSUMER_KEY'] = 'Pg5QBoiOOKD0rv1wkJWSvCape'#keep the quotes, replace this with your consumer key
@@ -13,3 +25,8 @@ def get_keys():
     dict['ACCESS_KEY'] = '726821204334628864-lvFIom98ak8BuRFM2knxHXPkefyo9fZ'#keep the quotes, replace this with your access token
     dict['ACCESS_SECRET'] = 't4kRFCyXwtGCaIg7ySEV0zI1HSFzozd1UsOSBouE0liTz'#keep the quotes, replace this with your access token secret
     return dict
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1446a88cd0e55a0a199c86b8874078e15ac418a3
