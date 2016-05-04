@@ -5,7 +5,6 @@ from numpy import random
 import os 
 
 
-
 def maketweet(tweetit):
     os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
     import mybotapi as mpi # need to cd into this directory
@@ -16,6 +15,48 @@ def maketweet(tweetit):
     tweet = api.update_status(tweetit)
 
 
+def lookuptweets():
+    pasttweets = {}
+    with open("/Users/akeil/Documents/programming_examples/python/twitterbot/tweets.txt", 'r', encoding='utf-8') as f:
+        for l in f.readlines():
+            pasttweets[l.strip().replace('\n', '  ')] = 1
+    return pasttweets
+
+
+def addtweettolist(tweetit):
+    with open("/Users/akeil/Documents/programming_examples/python/twitterbot/tweets.txt", 'a', encoding = 'utf-8') as f:
+        f.writelines(tweetit + '\n')
+
+
+def find_tweet():
+    classes = ['span', 'a', 'li', 'title', 'h1', 'p', 'guid', 'LI']
+    curtxt = ''
+    for j in classes:
+        for i in theHTML.cssselect(j):
+            skip = 0
+            try:
+                silent = len(i.text)
+            except TypeError:
+                skip = 1     
+            if skip == 0:
+                cond1 = (len(i.text.strip()) > len(curtxt))
+                cond2 = (len(i.text.strip()) <= 140)
+                cond3 = (i.text.find("@a") == -1)
+                cond4 = (i.text.find("you") == -1)
+                cond5 = (random.rand() > 0.5)
+                cond6 = (i.text.find("sorry") == -1)
+                cond7 = (i.text.find("404") == -1)
+                if (cond1 & 
+                    cond2 & 
+                    cond3 & 
+                    cond4 & 
+                    cond5 & 
+                    cond6 & 
+                    cond7 & 
+                    True  ):
+                    curtxt = i.text.strip().replace('\n', '  ')
+    return curtxt[0:140]
+
 
 urlList = ["http://www.cdc.gov/mmwr/index.html", 
            "http://www.nytimes.com/",
@@ -24,45 +65,25 @@ urlList = ["http://www.cdc.gov/mmwr/index.html",
            "http://www.npr.org/rss/rss.php?id=1001",
            "https://www.nlm.nih.gov/medlineplus/feeds/news_en.xml"
            "https://www.nlm.nih.gov/medlineplus/groupfeeds/nih.xml"
-           "https://www.nlm.nih.gov/medlineplus/groupfeeds/new.xml"]
+           "https://www.nlm.nih.gov/medlineplus/groupfeeds/new.xml"
+           "https://en.wikiquote.org/wiki/David_Hume"
+           "http://rescomp.stanford.edu/~cheshire/EinsteinQuotes.html"]
 
-theURL = urlList[random.randint(len(urlList))]
-print(theURL)
-
-resp = requests.get(theURL)
-
-
-theHTML = html.fromstring(resp.text)
-
-curtxt = ''
-for j in ['span', 'a', 'li', 'title', 'h1', 'p', 'guid']:
-    for i in theHTML.cssselect(j):
-        skip = 0
-        try:
-            silent = len(i.text)
-        except TypeError:
-            skip = 1     
-        if skip == 0:
-            if ((len(i.text.strip()) > len(curtxt)) & 
-                (len(i.text.strip()) <= 140) & 
-                (i.text.find("@a") == -1) & 
-                (i.text.find("you") == -1) & 
-                (random.rand() > 0.5)):
-                curtxt = i.text.strip()
+urlList = ["http://rescomp.stanford.edu/~cheshire/EinsteinQuotes.html"]
 
 
-tweetit = curtxt[0:140]
-print(tweetit)
-pasttweets = {}
-with open("/Users/akeil/Documents/programming_examples/python/twitterbot/tweets.txt", 'r') as f:
-    for l in f.readlines():
-        pasttweets[l.strip()] = 1
+
+pasttweets = lookuptweets()
+tweetit = [key for i, key in enumerate(pasttweets.keys()) if i<1][0]
 
 
-with open("/Users/akeil/Documents/programming_examples/python/twitterbot/tweets.txt", 'a') as f:
-    f.writelines(tweetit + '\n')
+while tweetit in pasttweets:
+    theURL = urlList[random.randint(len(urlList))]
+    resp = requests.get(theURL)
+    theHTML = html.fromstring(resp.text)
+    tweetit = find_tweet()
+    print(theURL,'\n', tweetit)
 
-
-if tweetit not in pasttweets:
-    maketweet(tweetit)
+maketweet(tweetit)
+addtweettolist(tweetit)
 
