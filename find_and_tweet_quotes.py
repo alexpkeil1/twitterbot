@@ -4,13 +4,12 @@ from lxml import html
 from numpy import random
 import os 
 
-os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
-import mybotapi as mpi # need to cd into this directory
 
 
 def maketweet(tweetit):
+    os.chdir("/Users/akeil/Documents/programming_examples/python/twitterbot/")
+    import mybotapi as mpi # need to cd into this directory
     t_keys = mpi.get_keys()
-
     auth = tweepy.OAuthHandler(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'])
     auth.set_access_token(t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
     api = tweepy.API(auth)
