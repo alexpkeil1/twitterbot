@@ -173,6 +173,7 @@ def get_newpages(theURL='', n=3, currlist=urlList):
                     (page.find('rss') == -1) &
                     (page.find('rss') == -1) &
                     (page.find('download') == -1) &
+                    (page.find('ads') == -1) &
                     (page.find('\\x') == -1) &
                     (page not in currlist)
                     ]))
