@@ -1,6 +1,5 @@
-# twitterbot
-
 ![logo](https://raw.githubusercontent.com/alexpkeil1/twitterbot/master/bleepboopbeep.jpeg)
+# twitterbot
 
 Using twitter API to create tweets. Examples include Tweepy and TwitterAPI modules. See [dottodot] (http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/) for a quick introduction.
 
