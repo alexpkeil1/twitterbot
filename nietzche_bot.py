@@ -43,7 +43,7 @@ with open(first_tweet, 'r') as f:
 
 if quote.find('wom') < 0:
     print('tweeting: ' + quote)
-    tweet = api.update_status(quote)
+    tweet = api.update_status(quote.strip() + ' (Nietzsche)')
 else: 
     print('not tweeting')
 
