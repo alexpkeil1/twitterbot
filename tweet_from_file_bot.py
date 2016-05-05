@@ -28,7 +28,7 @@ joke_urls = ['http://www.textfiles.com/humor/TAGLINES/cookie.' +
 joke_urls.append("http://www.textfiles.com/humor/TAGLINES/quotes.frt")
 
 
-def get_jokes(joke_urls)
+def get_jokes(joke_urls):
     random.shuffle(joke_urls)
     jokepage = ''.join(requests.get(
         joke_urls.pop()
