@@ -96,7 +96,9 @@ def find_tweet(theHTML):
 # list of URLs to search for tweetable text 
 urlList = ["http://www.cdc.gov/mmwr/index.html", 
            "http://www.nytimes.com/",
-           "http://www.cdc.gov/",
+           "http://www.sciencemag.org/",
+           "http://www.pnas.org/",
+           "http://www.economist.com/",
            "http://www.newsobserver.com/news/local/community/chapel-hill-news/",
            "https://www.nlm.nih.gov/medlineplus/feeds/news_en.xml"
            "https://www.nlm.nih.gov/medlineplus/groupfeeds/nih.xml"
@@ -104,15 +106,15 @@ urlList = ["http://www.cdc.gov/mmwr/index.html",
            "https://en.wikiquote.org/wiki/David_Hume"
            "http://rescomp.stanford.edu/~cheshire/EinsteinQuotes.html",
            "http://www.commondreams.org",
-           "http://www.unc.edu",
            "http://www-cs.stanford.edu/",
            "http://bayes.cs.ucla.edu/",
            "http://www.sph.unc.edu",
-           "http://www.harvard.edu",
            "https://en.wikipedia.org/wiki/Epidemiology",
+           "https://en.wikipedia.org/wiki/Causal_inference",
            "http://www.hsph.harvard.edu/",
            "http://izquotes.com/author/dennis-lindley",
            "http://www.math.utah.edu/~cherk/mathjokes.html",
+           "http://library.umassmed.edu/ebpph/top25.cfm",
            "http://www.se16.info/hgb/statjoke.htm"]
 
 def lookupURLs():
@@ -158,7 +160,7 @@ def get_newpages(theURL='', n=3, currlist=urlList):
     Follow n random external links from the page
     '''
     try:
-        resp = requests.get(theURL)
+        resp = requests.get(theURL, timeout=5)
     except:
          newpages = ['']
     else:
@@ -166,8 +168,15 @@ def get_newpages(theURL='', n=3, currlist=urlList):
         hrefs = [a.get('href') for a in theHTML.cssselect('a') if a.get('href') is not None]
         if len(hrefs)>0:
             newpages = list(set([page for page in hrefs if 
-                    (page.find('http:') == 0) & 
+                    (page.find('http') == 0) & 
                     (page.find('#') == -1) &
+                    (page.find('donate') == -1) &
+                    (page.find('twitter.com') == -1) &
+                    (page.find('t.co/') == -1) &
+                    (page.find('...') == -1) &
+                    (page.find('youtube') == -1) &
+                    (page.find('facebook') == -1) &
+                    (page.find('amazon') == -1) &
                     (page.find('.pdf') == -1) &
                     (page.find('.zip') == -1) &
                     (page.find('rss') == -1) &
@@ -194,7 +203,7 @@ if random.random() > 0.95:
 
 # use default list until the lookup list from past sites is large
 filelist = list(lookupURLs())
-if(len(filelist)>5000):
+if(len(filelist)>900):
     urlList = filelist
 
 # Search listed sites at random until a block of text is suitably tweetable
@@ -206,7 +215,7 @@ while tweetit in pasttweets:
     possibleTweets = []
     for url in allpages:
         try:
-            theText = requests.get(url).text
+            theText = requests.get(url, timeout=5).text
         except:
             True
         else:
@@ -227,6 +236,11 @@ while tweetit in pasttweets:
             print('Tweeting: ', tweetit)
         except:
             print('Exeption here: ', tweetit)
+            try:
+                possibleTweets.pop() # if this is empty, re-populate the list of URLs
+            except IndexError:
+                allpages = get_newpages(theURL, 15, currlist=filelist)
+                break
         else:
             break
 
