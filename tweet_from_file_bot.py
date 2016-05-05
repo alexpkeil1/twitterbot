@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # send a tweet from a text file using the Tweepy module
+# now is a joke bot
 
 # -*- coding: utf-8 -*-
  
@@ -14,11 +15,28 @@ else:
 
 os.chdir(base + "/Documents/programming_examples/python/twitterbot/")
 import mybotapi as mpi # need to cd into this directory
+t_keys = mpi.get_keys()
+outdir = '/tmp/'
 
 
 first_tweet = base + "/Documents/programming_examples/python/twitterbot/" + 'test_tweet.txt'
 joke_tweet = base + "/Documents/programming_examples/python/twitterbot/" + 'jokes.txt'
+joke_file = outdir + 'jokefile'
 
+joke_urls = ['http://www.textfiles.com/humor/TAGLINES/cookie.' + 
+                str(i) for i in range(2, 8)]
+joke_urls.append("http://www.textfiles.com/humor/TAGLINES/quotes.frt")
+
+
+def get_jokes(joke_urls)
+    random.shuffle(joke_urls)
+    jokepage = ''.join(requests.get(
+        joke_urls.pop()
+        ).text).replace('\n', '').replace('\r', '')
+    with open(joke_file, 'w+') as f:
+        for joke in jokepage.split('%%'):
+            if joke.strip() is not '':
+                f.writelines(joke.strip().replace('\t', ' ') + '\n')
 
 def tweet(textfile):
     auth = tweepy.OAuthHandler(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'])
@@ -29,6 +47,10 @@ def tweet(textfile):
         for l in f:
             lines.append(l.decode('utf-8').strip())
     random.shuffle(lines)
-    api.update_status(lines.pop())
+    twt = ' '*180
+    while len(twt) > 140:
+        twt = lines.pop()
+    api.update_status(twt)
 
-tweet(joke_tweet)
+get_jokes(joke_urls)
+tweet(joke_file)
