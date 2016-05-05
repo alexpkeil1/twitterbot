@@ -147,9 +147,9 @@ def sortURLs():
               'r', encoding='utf-8') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
-    sortedList = sorted(list(pastURLs))
+    sortedList = sorted(list(set(pastURLs)))
     with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
-              'a', encoding='utf-8') as f:
+              'w', encoding='utf-8') as f:
         for URL in sortedList:
             f.writelines(URL + '\n')
 
