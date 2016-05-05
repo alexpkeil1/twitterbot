@@ -1621,7 +1621,6 @@ http://www.wiley.com//college/custom/index.html
 http://www.wpro.who.int/
 http://www.wpro.who.int/wpsar/en/
 http://www.xs4all.nl/~jcdverha/scijokes/
-http://www.youtube.com/user/HarvardPublicHealth
 http://www2.cscc.unc.edu/home/
 http://www2c.cdc.gov/podcasts
 http://www2c.cdc.gov/podcasts/
@@ -1646,8 +1645,6 @@ http://wwwnc.cdc.gov/travel/diseases/
 http://wwwnc.cdc.gov/travel/notices/
 http://wwwnc.cdc.gov/travel/page/find-clinic/
 http://wwwnc.cdc.gov/travel/page/yellowbook-home-2014/
-http://youtube.com/harvard
-http://youtube.com/sciencemag
 https://appleid.apple.com/us/
 https://aprecruit.berkeley.edu/apply/JPF01006
 https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F1054139X
@@ -1938,3 +1935,8 @@ http://www.epidemiologicalnews.com/contact%20us.htm
 http://www.epidemiologicalnews.com/archives.htm
 http://www.linkedin.com/groups?gid=4034930&trk=hb_side_g
 http://www.epidemiologicalnews.com/editorial.htm
+http://sph.unc.edu/students/student-services-managers/
+http://sph.unc.edu/students/life-in-chapel-hill/
+http://help.unc.edu/help/olhr/
+http://sph.unc.edu/students/how-to-apply/
+http://uncodum.qualtrics.com/WRQualtricsSurveyEngine/?SID=SV_2nV55Ck24pYjIj2&SVID=Prod
