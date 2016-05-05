@@ -27,7 +27,6 @@ else:
     base = "/home/akeil/"
 os.chdir(base + "Documents/programming_examples/python/twitterbot/")
 import mybotapi as mpi  # need to cd into this directory
-import mybotapi as mpi # need to cd into this directory
 
 
 t_keys = mpi.get_keys()
