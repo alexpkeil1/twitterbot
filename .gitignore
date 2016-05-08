@@ -1,5 +1,9 @@
+# temporary
+kindspider_bot.py
+
 # secret files
 mybotapi.py
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
