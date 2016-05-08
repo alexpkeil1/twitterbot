@@ -164,7 +164,7 @@ def get_newpages(theURL='', n=3, currlist=urlList):
     except:
          newpages = ['']
     else:
-        theHTML = html.fromstring(resp.text)
+        theHTML = html.fromstring(resp.text.encode('utf-8'))
         hrefs = [a.get('href') for a in theHTML.cssselect('a') if a.get('href') is not None]
         if len(hrefs)>0:
             newpages = list(set([page for page in hrefs if 
@@ -220,11 +220,11 @@ while tweetit in pasttweets:
             True
         else:
             try: 
-                theHTML = html.fromstring(theText)
+                theHTML = html.fromstring(theText.encode('utf-8'))
             except: 
                 theHTML = html.fromstring('''
                     <head></head><body><p>Something happened </p></body>
-                    ''')
+                    '''.encode('utf-8'))
             twt = find_tweet(theHTML)
             time.sleep(0.1)
             if len(twt) > 40:

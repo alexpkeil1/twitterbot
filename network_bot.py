@@ -11,7 +11,7 @@
 # Released under GNU Gen. Pub. Lic.: http://www.gnu.org/copyleft/gpl.html
 ###########################################################################
 # -*- coding: utf-8 -*-
- 
+import time
 import requests
 import os
 import pygraphviz as pgv
@@ -20,6 +20,8 @@ from urllib.parse import urljoin
 from urllib.parse import urlparse
 from lxml import html
 from numpy import random
+
+tic = time.time()
 
 # ask if OSX
 if os.sys.platform == 'darwin':
@@ -62,7 +64,7 @@ def valid_html(url, verify=True, allow_redirects=False):
     return valid
 
 
-def find_links(base_url = 'http://www.unc.edu/', pr=True, debug=False):
+def find_links(base_url = 'http://www.unc.edu/', pr=1, debug=False):
     '''
     Make a set of all unique (valid HTML) links from a single web page
     '''
@@ -70,6 +72,7 @@ def find_links(base_url = 'http://www.unc.edu/', pr=True, debug=False):
         vfy = False
     else:
         vfy = True
+    if pr == 1: print('Finding links connected to ' + base_url + '. This may take a while.')
     links = set([])
     try:
         page = requests.get(base_url, verify=vfy, allow_redirects=False)
@@ -80,7 +83,7 @@ def find_links(base_url = 'http://www.unc.edu/', pr=True, debug=False):
         if debug: print(base_url, 'Bad request, skipping')
     else:
         try:
-            doc = html.fromstring(page.text)
+            doc = html.fromstring(page.text.encode('utf-8'))
         except:
             if debug: print(base_url, 'not HTML or no response, skipping')
         else:
@@ -95,33 +98,39 @@ def find_links(base_url = 'http://www.unc.edu/', pr=True, debug=False):
                         url = ln
                     else:
                         url = urljoin(base_url, ln)
-                if valid_html(url, verify=vfy, allow_redirects=False):
-                    if url not in links: links.add(url)
-                if pr: print(url)
+                if url not in links: 
+                    if valid_html(url, verify=vfy, allow_redirects=False): 
+                        links.add(url)
+                        if pr == 2: print(url)
+    if pr == 1: print("Found", str(len(links)), "Links")
     return(links)
 
 
-def get_levels(base_url = 'http://andrewgelman.com/', level = 0):
+def get_levels(base_url = 'http://andrewgelman.com/', level = 0, pr=0):
     '''
     Todo: implement *something* to avoid spider traps
     '''
     # level 0, create a set of all the links from the base url
+    print('Finding 1 degree links for first url...')
     relDB = {}
     relDB[base_url] = find_links(base_url)
     # level 1, add a node for all subnodes of base url, add link sets for each
     if level > 0:
+        print('Finding 2 degree links to first url...')
         for subnode in relDB[base_url]:
-            relDB[subnode] = find_links(subnode)
+            relDB[subnode] = find_links(subnode, pr=pr)
     # level 2+, for each set of links for each subnode, create or add to existing
     #  nodes
+    ct = 3
     while level > 1:
+        print('Finding ', ct , ' degree links to first url...')
+        ct += 1
         for node in relDB.copy():
             for subnode in relDB[node].copy():
-                if find_links(subnode) is not None:
-                    if subnode not in relDB:
-                        relDB[subnode] = find_links(subnode)
-                    else:
-                        relDB[subnode] |= find_links(subnode)
+                if subnode not in relDB:
+                    fl = find_links(subnode, pr=pr)
+                    if fl is not None:
+                        relDB[subnode] = fl
         level -= 1
     return relDB
 
@@ -189,7 +198,7 @@ def get_all_edges(DB):
 
 
 
-def network_plot(startURL, DB):
+def network_plot(startURL, DB, neatoloc = '/usr/local/bin'):
     # using pygraphviz
     G = pgv.AGraph(strict=False, directed=True)
     G.add_node(site_root(startURL))
@@ -205,35 +214,35 @@ def network_plot(startURL, DB):
     # edges
     G.edge_attr['color'] = 'blue'
     # plot it
-    outfile = '/tmp/img.png'
+    outfile = os.environ['TMPDIR'] + '/img.png'
+    if outfile == 'img.png': outfile = '/tmp' + outfile
+    os.environ['PATH'] += ":" + neatoloc  # need to find neato, this brings in the correct path
     G.draw(outfile, prog='neato')
+    print('image at: ' + outfile)
     return outfile
     
 
-urls = ['https://www.gop.com/',
-        'https://democrats.org/',
-        'http://www.foxnews.com/',
-        'http://www.msnbc.com/',
-        'http://www.who.int/en/',
-        'http://www.un.org/en/index.html',
-        'http://www.kochind.com/',
-        'http://www.greenpeace.org/usa/']
+# urls = ['https://www.gop.com/', 'https://democrats.org/']
 
 
-#urls = list(lookupURLs())
+# pick a URL at random, form a relational database
+urls = list(lookupURLs())
 random.shuffle(urls)
-
 startURL = urls[0]
-#startURL = 'https://www.gop.com/'
-relationalDB = get_levels(base_url = startURL, level = 2)
+# startURL = 'https://www.gop.com/'
+relationalDB = get_levels(base_url = startURL, level = 1, pr=0)
 countDB, trimmedDB = trim_db(relationalDB)
 
 
-outfile = network_plot(startURL, trimmedDB)
+outfile = network_plot(startURL, trimmedDB, neatoloc = '/usr/local/bin')
 
 
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
 with open(outfile, 'rb') as file:
     data = file.read()
     r = api.request('statuses/update_with_media', {'status': '2-degree network: ' + startURL}, {'media[]':data})
-    print(r.status_code) 
+    if r.status_code == 200: print("Success")
+    else: print("Sadly, this went untweeted")
+
+toc = time.time()
+print("total minutes runtime: " + str(round((toc-tic)/60, 3)))
