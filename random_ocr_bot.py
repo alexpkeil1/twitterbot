@@ -21,6 +21,7 @@ import string
 import os
 from TwitterAPI import TwitterAPI
 import os
+import time
 if os.sys.platform == 'darwin':
     base = "/Users/akeil/"
 else:
@@ -100,10 +101,15 @@ def random_walker(parms = (1, 1), totl = 5, plotter=True):
 p = (np.random.random()*2, np.random.random()*2)
 mydict = {}
 split = 0.8
+print('starting ocr ' + time.localtime())
+ct = 0
 while len(mydict)<1:
     numletters = np.random.randint(3)+5
     x,y,ltr = random_walker(p, totl=numletters, plotter=True)
     outtext = process_local_image(outdir + 'rwfig.jpg')
+    while not ct:
+      print('First ocr done')
+      ct +=1
     if ((outtext.upper() in english) & (len(outtext) == numletters)):
         if outtext not in mydict:
             mydict[outtext] = (x,y)
