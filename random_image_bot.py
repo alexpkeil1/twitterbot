@@ -61,6 +61,26 @@ def make_png(loc):
     image.save(newloc, format='png')
     return newloc
 
+def tweet_with_image(tweet_text, png_file):
+    # now tweet it
+    # ask if OSX
+    if os.sys.platform == 'darwin':
+        base ="/Users/akeil/"
+    else:
+        base = "/home/akeil/"
+    root = base + "Documents/programming_examples/python/twitterbot/"
+    os.chdir(root)
+    # set twitter api parameters
+    import mybotapi as mpi # need to cd into this directory
+    t_keys = mpi.get_keys()
+    api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
+    with open(png_file, 'rb') as file:
+        data = file.read()
+        r = api.request('statuses/update_with_media', {'status': tweet_text}, {'media[]':data})
+        if r.status_code == 200: 
+            print("Success; Tweeted: " + tweet_text)
+        else: print("Sadly, this went untweeted")
+
 
 if __name__=="__main__":
     #get English dictionary
@@ -68,39 +88,17 @@ if __name__=="__main__":
     english = {}
     for word in resp.text.split('\n'):
         english[word.upper()] = 1
-
-
-    #tweet_text = rand_words(random.choice([1,2,3]), english)
-    tweet_text = rand_words(1, english)
+    tweet_text = rand_words(random.choice([1,2]), english)
+    #tweet_text = rand_words(1, english)
     searchURL = image_search_url(tweet_text)
     thePage = process_search(searchURL)
     imgs = get_img_urls(thePage)
     tweet_image = random.choice(imgs)
     img = requests.get(tweet_image, stream=True)
     path = dl_image(img)
-    pngfile = make_png(path)
-
-
-
-    # now tweet it
-    # ask if OSX
-    if os.sys.platform == 'darwin':
-        base ="/Users/akeil/"
-    else:
-        base = "/home/akeil/"
-
-    root = base + "Documents/programming_examples/python/twitterbot/"
-    os.chdir(root)
-    
+    png_file = make_png(path)
+    print(png_file)
     print(searchURL)
-    
-    # set twitter api parameters
-    import mybotapi as mpi # need to cd into this directory
-    t_keys = mpi.get_keys()
-    api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
-    with open(pngfile, 'rb') as file:
-        data = file.read()
-        r = api.request('statuses/update_with_media', {'status': tweet_text}, {'media[]':data})
-        if r.status_code == 200: 
-            print("Success; Tweeted: " + tweet_text)
-        else: print("Sadly, this went untweeted")
+    tweet_with_image(tweet_text, png_file)
+
+
