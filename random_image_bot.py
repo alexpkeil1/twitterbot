@@ -5,8 +5,6 @@ import requests
 from PIL import Image
 import random
 from lxml import html
-from urllib.parse import urljoin
-from urllib.parse import urlparse
 import shutil
 import os
 from TwitterAPI import TwitterAPI
