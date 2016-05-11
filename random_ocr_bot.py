@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.5
 # -*- coding: utf-8 -*-
 ##############################################################################
 # Author: Alex Keil
@@ -27,7 +27,7 @@ else:
     base = "/home/akeil/"
 os.chdir(base + "Documents/programming_examples/python/twitterbot/")
 import mybotapi as mpi  # need to cd into this directory
-
+os.environ['PATH'] += "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
 t_keys = mpi.get_keys()
 outdir = '/tmp/'
