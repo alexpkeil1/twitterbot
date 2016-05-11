@@ -89,8 +89,8 @@ def find_tweet(theHTML):
                 cond += (i.text.find("server") == -1)
                 cond += (i.text.find("404") == -1)
                 if (cond >= 12):
-                    curtxt = i.text.strip().replace('\n', '  ').replace('\r', '  ')
-    return curtxt.encode().decode('utf-8')
+                    curtxt = i.text.encode().decode('utf-8')
+    return curtxt.strip().replace('\n', '  ').replace('\r', '  ')
 
 
 # list of URLs to search for tweetable text 
