@@ -2,10 +2,14 @@
 kindspider_bot.py
 test_bot.py
 
+
 # secret files
 mybotapi.py
 *.pkl
-
+*.cron
+*~
+*pip.py
+*-swp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

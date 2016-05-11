@@ -35,9 +35,7 @@ outdir = '/tmp/'
 # some testing of version
 try:
     os.mkdir(outdir+'rwfigs')
-except OSError:
-    print("Directory exists")
-except FileExistsError:
+except:
     print("Directory exists")
 
 # find all words in english dictionary - read into python dictionary
