@@ -91,7 +91,7 @@ def random_walker(parms = (1, 1), totl = 5, plotter=True):
         plt.xlim((min(x), max(x)))
         plt.ylim((min(y), max(y)))
         plt.axis('off')
-        plt.savefig(outdir + 'rwfig.jpg', dpi=100)
+        plt.savefig(outdir + 'rwfig.png', dpi=100)
         fig.clf(1)
     return x, y, ltr
 
@@ -101,12 +101,12 @@ def random_walker(parms = (1, 1), totl = 5, plotter=True):
 p = (np.random.random()*2, np.random.random()*2)
 mydict = {}
 split = 0.8
-print('starting ocr ' + time.localtime())
+print('starting ocr ' + ':'.join([str(i) for i  in time.localtime()]))
 ct = 0
 while len(mydict)<1:
     numletters = np.random.randint(3)+5
     x,y,ltr = random_walker(p, totl=numletters, plotter=True)
-    outtext = process_local_image(outdir + 'rwfig.jpg')
+    outtext = process_local_image(outdir + 'rwfig.png')
     while not ct:
       print('First ocr done')
       ct +=1
