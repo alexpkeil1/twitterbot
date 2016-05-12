@@ -61,6 +61,7 @@ def make_png(loc):
     image.save(newloc, format='png')
     return newloc
 
+
 def tweet_with_image(tweet_text, png_file):
     # now tweet it
     # ask if OSX

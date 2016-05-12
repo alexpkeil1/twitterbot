@@ -31,7 +31,7 @@ resp = requests.get("http://www.nietzschefamilycircus.com")
 
 rt = html.fromstring(resp.text)
 divs = rt.cssselect('div')
-quote = [i.text for i in divs][7].replace('\n', '').replace('\t', '')
+quote = [a.text for a in rt.cssselect('div.quote')][0].replace('\n', '').replace('\t', '')
 
 
 first_tweet = base + '/Documents/programming_examples/python/twitterbot/Nietzsche_tweet.txt'
