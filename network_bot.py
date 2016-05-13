@@ -227,12 +227,14 @@ def network_plot(startURL, DB, neatoloc = '/usr/local/bin'):
 
 
 # pick a URL at random, form a relational database
-urls = list(lookupURLs())
-random.shuffle(urls)
-startURL = urls[0]
-# startURL = 'https://www.gop.com/'
-relationalDB = get_levels(base_url = startURL, level = 1, pr=0)
-countDB, trimmedDB = trim_db(relationalDB)
+countDB = {}
+while len(countDB) < 10:
+    urls = list(lookupURLs())
+    random.shuffle(urls)
+    startURL = urls[0]
+    # startURL = 'https://www.gop.com/'
+    relationalDB = get_levels(base_url = startURL, level = 1, pr=0)
+    countDB, trimmedDB = trim_db(relationalDB)
 
 
 outfile = network_plot(startURL, trimmedDB, neatoloc = '/usr/local/bin')

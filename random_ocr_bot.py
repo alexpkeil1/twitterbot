@@ -113,8 +113,8 @@ while len(mydict)<1:
     if ((outtext.upper() in english) & (len(outtext) == numletters)):
         if outtext not in mydict:
             mydict[outtext] = (x,y)
-        outfile = outdir + 'rwfigs/' + outtext + '.jpg'
-        call(['cp', outdir + 'rwfig.jpg',  outfile])
+        outfile = outdir + 'rwfigs/' + outtext + '.png'
+        call(['cp', outdir + 'rwfig.png',  outfile])
     else:
         if np.random.random() > 0.9:
             p = ((np.random.random()-1) * (1 - split) + split*p[0],
