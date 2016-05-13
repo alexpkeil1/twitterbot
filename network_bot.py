@@ -122,6 +122,11 @@ def get_levels(base_url = 'http://andrewgelman.com/', level = 0, pr=0):
             relDB[subnode] = find_links(subnode, pr=pr)
     # level 2+, for each set of links for each subnode, create or add to existing
     #  nodes
+    #add some more if there are not many
+    if(len(relDB) < 8):
+        level += 1
+    if(len(relDB) < 4):
+        level += 1
     ct = 3
     while level > 1:
         print('Finding ', ct , ' degree links to first url...')
