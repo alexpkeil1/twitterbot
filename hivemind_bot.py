@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from TwitterAPI import TwitterAPI
-from mpl_toolkits.basemap import Basemap
+from mpl_toolkits.basemap import Basemap, cm
 import matplotlib.pyplot as plt
 import os
 import numpy as np
@@ -32,7 +32,8 @@ def process_search(searchURL):
         thePage = html.fromstring(resp.text.encode("ascii","ignore"))
     except: 
         print('failed at converting html... oh well')
-    return thePage
+    else:
+        return thePage
 
 
 def bad_words():
@@ -67,25 +68,43 @@ def get_word():
     return random.choice(list(english))
 
 
-def plot_tweets(lat, long, text):
+def plot_tweets(lat=[0], long=[0], text='', heat=False):
     plt.style.use('ggplot')
-    lon_0 = min(long) + 1*np.sign(long[0]) #further west if negative, further east if not
-    lon_1 = max(long) - 1*np.sign(long[0])
-    lat_0 = min(lat) - 1*np.sign(lat[0])
-    lat_1 = max(lat) + 1*np.sign(lat[0])
+    lon_0 = -125 #further west if negative, further east if not
+    lon_1 = -66
+    lat_0 = 25
+    lat_1 = 52
     # create figure and axes instances
     plt.clf()
-    fig = plt.figure(figsize=(8,8))
-    ax = fig.add_subplot(111)
+    dim = 6
+    fig = plt.figure(figsize=(dim,(225/494)*dim))
+    #ax = fig.add_subplot(111)
+    ax = fig.add_axes([0,0 ,1,1])
     # create polar stereographic Basemap instance.
-    m = Basemap(llcrnrlat=lat_0,urcrnrlat=lat_1, llcrnrlon=lon_0,urcrnrlon=lon_1, resolution='l')
+    m = Basemap(llcrnrlat=lat_0,urcrnrlat=lat_1, llcrnrlon=lon_0, urcrnrlon=lon_1, resolution='l')
     m.drawcoastlines()
     m.drawcountries()
-    m.drawstates()
-    p = ax.plot(long, lat, 'p')
+    if random.random() > 0.5: 
+        m.fillcontinents(color='tan')
+    elif random.random() > 0.5: 
+        m.bluemarble()
+    elif random.random() > 0.5: 
+        m.shadedrelief()
+    elif random.random() > 0.5: 
+        m.etopo()
+    elif random.random() > 0.5: 
+        m.drawmapboundary(fill_color='aqua')
+    if heat:
+        for i, l in enumerate(lat):
+            lat[i] = lat[i] + random.random()*0.1
+            long[i] = long[i] + random.random()*0.1
+            p = ax.plot(long, lat, 'p')
+    else:
+        p = ax.plot(long, lat, 'p')
     if text is not None:
         for i, ht in enumerate(text):
-            ax.annotate(ht, (long[i], lat[i]))
+            if len(lat) > i:
+                ax.annotate(ht, (long[i], lat[i]))
     plt.savefig('/tmp/twitmap.png')
 
 
@@ -97,21 +116,22 @@ def locationator(r = {}, ntweets=10):
             silent = False
             lat.append(tweet['coordinates']['coordinates'][1])
             long.append(tweet['coordinates']['coordinates'][0])
+            hash.append(tweet['entities']['hashtags'][0]['text'])
+            hash.append(tweet['entities']['hashtags'][0]['text'])
         except:
             silent = True
+            while len(hash) > len(long):
+                hash = hash[::-1][1:][::-1]
+            while len(hash) < len(long):
+                hash.append('')
         else:
-            if not silent:
-                count += 1
-                try:
-                    hash.append(tweet['entities']['hashtags'][0]['text'])
-                    hash.append(tweet['entities']['hashtags'][0]['text'])
-                except:
-                    silent = True
-                else:
-                    print(tweet['text'], str(count))
-                    hash.append('')
+            count += 1
+            print(tweet['text'], str(count))
+            while len(hash) > len(long):
+                hash = hash[::-1][1:][::-1]
+            while len(hash) < len(long):
+                hash.append('')
             if len(lat) > ntweets:
-                hash = hash[::-1][1:]
                 print(len(lat), len(long), len(hash))
                 break
     return lat,long,hash,tweet
@@ -124,11 +144,12 @@ def tweet_fig(outtext):
         return r.status_code
 
 def tweet_text(outtext):
+    True
     r = api.request('statuses/update', {'status': outtext})
     return r.status_code
 
 
-api_choice = random.choice(3)
+api_choice = random.choice(4)
 
 
 if api_choice == 0:
@@ -136,7 +157,7 @@ if api_choice == 0:
     which_api = 'statuses/filter' 
     terms =  {'locations':'-130,30,-60,47'}
     r = api.request(which_api,terms)
-    lat,long,hash,tweet = locationator(r)
+    lat,long,hash,tweet = locationator(r, 25)
     badwords = bad_words()
     for i,w in enumerate(hash.copy()):
         if w in badwords:
@@ -151,9 +172,14 @@ elif api_choice == 1:
     which_api = 'statuses/filter' 
     terms =  {'track': rand_word, 'locations':'-130,30,-60,47'}
     r = api.request(which_api,terms)
-    lat,long,hash,tweet = locationator(r,10)
+    lat,long,hash,tweet = locationator(r,20)
+    badwords = bad_words()
+    for i,t in enumerate(tweet.copy()):
+        for w in t:
+            if w in badwords:
+                tweet[i] = ''
     if len(lat) == 0:
-        outtext = '*sigh* Nobody tweets about ' + rand_word + ' anymore'
+        outtext = '*sigh* Nobody talks about "' + rand_word + '" anymore'
         tweet_text(outtext)
     else:
         outtext = 'Tweets about ' + rand_word
@@ -167,14 +193,34 @@ elif api_choice == 2:
     terms = {'q': rand_word, 'result_type': 'recent',
                              'count': '100','locations':'-130,30,-60,47'}
     r = api.request(which_api,terms)
-    lat,long,hash,tweet = locationator(r,10)
+    lat,long,hash,tweet = locationator(r,100)
+    badwords = bad_words()
+    for i,t in enumerate(tweet.copy()):
+        for w in t:
+            if w in badwords:
+                tweet[i] = ''
     if len(lat) == 0:
-        outtext = '*sigh* Nobody tweets about ' + rand_word + ' anymore'
+        outtext = 'Nobody talks about "' + rand_word + '." Except me. #'  + rand_word
         tweet_text(outtext)
     else:
         outtext = 'Tweets about ' + rand_word
         plot_tweets(lat, long, None)
         tweet_fig(outtext)
+
+if api_choice == 3:
+    print('All the tweets')
+    which_api = 'statuses/filter' 
+    terms =  {'locations':'-130,30,-60,47'}
+    r = api.request(which_api,terms)
+    numtweets = 500
+    lat,long,hash,tweet = locationator(r, numtweets)
+    badwords = bad_words()
+    for i,w in enumerate(hash.copy()):
+        if w in badwords:
+            hash[i] = ''
+    outtext = 'The last ' + str(numtweets)
+    plot_tweets(lat, long, None, True)
+    tweet_fig(outtext)
 
 
 print(str(api_choice),outtext)
