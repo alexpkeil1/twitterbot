@@ -104,7 +104,7 @@ def plot_tweets(lat=[0], long=[0], text='', heat=False):
     if text is not None:
         for i, ht in enumerate(text):
             if len(lat) > i:
-                ax.annotate(ht, (long[i], lat[i]))
+                ax.annotate(ht, (long[i], lat[i]), rotation=random.random()*45.)
     plt.savefig('/tmp/twitmap.png')
 
 
@@ -163,7 +163,7 @@ if api_choice == 0:
         if w in badwords:
             hash[i] = ''
     outtext = '#hashtagmap'
-    plot_tweets(lat, long, hash)
+    plot_tweets(lat, long, hash, True)
     tweet_fig(outtext)
 
 elif api_choice == 1:
