@@ -44,7 +44,7 @@ def lookuptweets():
     '''
     pasttweets = {}
     with open(base + "Documents/programming_examples/python/twitterbot/tweets.txt", 
-              'r', encoding='utf-8') as f:
+              'r') as f:
         for l in f.readlines():
             pasttweets[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
     return pasttweets
@@ -55,7 +55,7 @@ def addtweettolist(tweetit):
     Add the newest tweet to the file with old tweets
     '''
     with open(base + "Documents/programming_examples/python/twitterbot/tweets.txt", 
-              'a', encoding='utf-8') as f:
+              'a') as f:
         f.writelines(tweetit + '\n')
 
 
@@ -89,7 +89,7 @@ def find_tweet(theHTML):
                 cond += (i.text.find("server") == -1)
                 cond += (i.text.find("404") == -1)
                 if (cond >= 12):
-                    curtxt = i.text.encode().decode('utf-8')
+                    curtxt = i.text.encode('ascii', 'ignore').decode('utf-8')
     return curtxt.strip().replace('\n', '  ').replace('\r', '  ')
 
 
@@ -123,7 +123,7 @@ def lookupURLs():
     '''
     pastURLs = {}
     with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
-              'r', encoding='utf-8') as f:
+              'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
     return set(pastURLs)
@@ -135,7 +135,7 @@ def addURLstolist(URLlist):
     '''
     URLset = set(URLlist)
     with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
-              'a', encoding='utf-8') as f:
+              'a') as f:
         for URL in URLset:
             f.writelines(URL + '\n')
 
@@ -146,12 +146,12 @@ def sortURLs():
     '''
     pastURLs = {}
     with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
-              'r', encoding='utf-8') as f:
+              'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
     sortedList = sorted(list(set(pastURLs)))
     with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
-              'w', encoding='utf-8') as f:
+              'w') as f:
         for URL in sortedList:
             f.writelines(URL + '\n')
 
@@ -164,7 +164,7 @@ def get_newpages(theURL='', n=3, currlist=urlList):
     except:
          newpages = ['']
     else:
-        theHTML = html.fromstring(resp.text.encode('utf-8'))
+        theHTML = html.fromstring(resp.text.encode('ascii', 'ignore'))
         hrefs = [a.get('href') for a in theHTML.cssselect('a') if a.get('href') is not None]
         if len(hrefs)>0:
             newpages = list(set([page for page in hrefs if 
@@ -220,11 +220,11 @@ while tweetit in pasttweets:
             True
         else:
             try: 
-                theHTML = html.fromstring(theText.encode('utf-8'))
+                theHTML = html.fromstring(theText.encode('ascii', 'ignore'))
             except: 
                 theHTML = html.fromstring('''
                     <head></head><body><p>Something happened </p></body>
-                    '''.encode('utf-8'))
+                    '''.encode('ascii', 'ignore'))
             twt = find_tweet(theHTML)
             time.sleep(0.1)
             if len(twt) > 40:
