@@ -175,6 +175,7 @@ sty = random.choice(plt.style.available)
 plt.style.use(sty)
 fig = plt.figure(figsize=(6,4))
 ax = plt.axes(xlim=xlim, ylim=ylim)
+plt.axis('off')
 line, = ax.plot([],[], lw=2, color = (random.random(), random.random(), random.random()))
 
 anim = animation.FuncAnimation(fig, anim_plot, init_func=init_plot,

@@ -138,6 +138,7 @@ def get_levels(base_url = 'http://andrewgelman.com/', level = 0, pr=0):
                     if fl is not None:
                         relDB[subnode] = fl
         level -= 1
+    addURLstolist(list(relDB.keys())) # add main links to master list
     return relDB
 
 
@@ -176,6 +177,17 @@ def lookupURLs():
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
     return set(pastURLs)
+
+
+def addURLstolist(URLlist):
+    '''
+    Add the newest URLs to the file with old URLs
+    '''
+    URLset = set(URLlist)
+    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+              'a', encoding='utf-8') as f:
+        for URL in URLset:
+            f.writelines(URL + '\n')
 
 
 def get_all_nodes(DB):
