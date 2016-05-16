@@ -23,7 +23,7 @@ t_keys = mpi.get_keys()
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
 
 def process_search(searchURL):
-    headers = {'user-agent': 'random_image_bot/0.10'}
+    headers = {'user-agent': 'hivemind_bot/0.10'}
     try:
         resp = requests.get(searchURL, headers=headers)
     except: 
