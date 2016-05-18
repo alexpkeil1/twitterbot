@@ -2792,3 +2792,17 @@ http://www.nytimes.com/ref/membercenter/help/privacysummary.html
 http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html
 http://nytmarketing.whsites.net/mediakit/
 https://myaccount.nytimes.com/auth/hdlogin?URI=https://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome
+http://sph.unc.edu/event/yoga-tuesday/all/
+http://sph.unc.edu/event/exam-day-5/
+http://sph.unc.edu/event/mindful-relaxation-monday/all/
+http://sph.unc.edu/events-calendar/category/students/
+http://sph.unc.edu/event/reading-day-5/
+http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=321+South+Columbia+St+Chapel+Hill+NC+27514+United+States
+http://sph.unc.edu/events-calendar/category/school-calendar/
+http://sph.unc.edu/location/g100-bondurant-hall/
+http://sph.unc.edu/event/hettleman-lecture-by-powell/?ical=1
+http://www.google.com/calendar/event?action=TEMPLATE&text=Hettleman+Lecture+by+Dichter%2C+Powell&dates=20160502T130000/20160502T153000&details=The+Hettleman+Lecture+will+be+presented+by+two+of+UNC-Chapel+Hill%E2%80%99s+most+distinguished+young+scholars+and+winners+of+the+2015+Phillip+and+Ruth+Hettleman+Prizes+for+Artistic+and+Scholarly+Achievement.+%0AThe+first+presenter+will+be+Gabriel+S.+Dichter%2C+PhD%2C+associate+professor+in+the+Department+of+Psychiatry+and+investigator+in+the+Carolina+Institute+for+Developmental+Disability.+Dr.+Dichter%E2%80%99s+presentation+is+titled%2C+%26%238220%3BReward+Processing+in+Autism.%26%238221%3B+%0AThe+second+presenter+%28starting+at+2+p.m.%29+will+be+Wizdom+Powell%2C+PhD%2C+associate+professor+in+the+Department+of+Health+Behavior.+Dr.+Powell%E2%80%99s+presentation+is+titled%2C%C2%A0%26%238220%3BDisrupting+the+Single+Story+About+Black+Male+Health+Equity%3A+The+Power+of+Whole+Truths+and+Engaged+Scholarship+Agendas.%26%238221%3B+%0A&location=321+South+Columbia+St%2C+Chapel+Hill%2C+NC%2C+27514%2C+United+States&trp=false&sprop=website:http://sph.unc.edu&ctz=America%2FNew_York
+http://sph.unc.edu/event/mindful-relaxation-monday/2016-06-13/
+http://sph.unc.edu/event/water-and-health-conference-2/
+http://sph.unc.edu/events-calendar/category/hb-events/
+http://sph.unc.edu/event/yoga-tuesday/2016-08-17/
