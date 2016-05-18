@@ -2911,3 +2911,5 @@ http://help.unc.edu/subject/web/cloudapps-web/
 http://help.unc.edu/subject/educational-technology/
 http://help.unc.edu/subject/mobiledevices/ios/
 http://help.unc.edu/subject/educational-technology/e-learning-educational-technology/
+https://sph.unc.edu/adv_profile/molly-okeefe/
+https://sph.unc.edu/adv_profile/justin-woodard-jd/
