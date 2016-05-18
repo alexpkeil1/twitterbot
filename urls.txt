@@ -2836,3 +2836,12 @@ https://support.nlm.nih.gov/ics/support/ticketnewwizard.asp?style=classic&deptID
 http://www.locatorplus.gov/help.html
 http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html 
 http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/content/help/front.html&pos=Bar1&sn2=441f061c/ce402720&sn1=a57293da/7248b2c7&camp=inyt2015_bar1_digi_usd_4L9UF&ad=bar1_button_inyt_usd_4L9UF&goto=http%3A%2F%2Finternational%2Enytimes%2Ecom%2Fsubscriptions%2Finyt%2Flp87JWF%2Ehtml%3Fadxc%3D277474%26adxa%3D413757%26page%3Dwww.nytimes.com/content/help/front.html%26pos%3DBar1%26campaignId%3D4L9UF
+http://www.nytimes.com/2016/05/15/jobs/a-side-order-of-creativity-for-a-part-time-diner-waitress.html?rref=collection%2Fcolumn%2FVocations
+http://nyti.ms/1Nbo3Ij
+https://s100.copyright.com/AppDispatchServlet?contentID=http%3A%2F%2Fwww.nytimes.com%2F2016%2F05%2F01%2Fjobs%2Fa-young-logger-with-deep-roots-in-the-california-timberlands.html&publisherName=The+New+York+Times&publication=nytimes.com&token=&orderBeanReset=true&postType=&wordCount=426&title=A+Young+Logger+With+Deep+Roots+in+the+California+Timberlands&publicationDate=April+30%2C+2016&author=As told to Patricia R. Olsen
+http://mobile.nytimes.com/2016/05/01/jobs/a-young-logger-with-deep-roots-in-the-california-timberlands.html
+http://www.nytimes.com/2016/04/03/jobs/big-love-for-little-monkeys-that-help-people-with-limited-mobility.html?rref=collection%2Fcolumn%2FVocations
+http://www.nytimes.com/2016/04/10/jobs/scouring-the-dark-web-to-keep-tabs-on-terrorists.html?rref=collection%2Fcolumn%2FVocations
+http://www.nytimes.com/2016/04/17/jobs/wielding-a-soldering-gun-to-give-panes-their-brains.html?rref=collection%2Fcolumn%2FVocations
+http://www.nytimes.com/2016/04/24/jobs/an-etsy-product-managers-do-it-yourself-career-path.html?rref=collection%2Fcolumn%2FVocations
+http://www.nytimes.com/column/vocations
