@@ -2782,3 +2782,13 @@ http://www.nytimes.com/interactive/2016/04/19/us/elections/new-york-primary-demo
 http://www.nytimes.com/interactive/2016/us/elections/john-kasich-on-the-issues.html?inline=nyt-per
 http://www.nytimes.com/interactive/2016/us/elections/bernie-sanders-on-the-issues.html?inline=nyt-per
 http://www.nytimes.com/2016/04/21/us/politics/donald-trump-new-york.html
+https://www.nytimes.com/gst/forgot.html
+http://www.nytimes.com/email
+https://itunes.apple.com/us/app/pressreader/id313904711?mt=8
+https://www.nytimesathome.com/hd/165
+http://listings.nytimes.com/classifiedsmarketplace
+http://nytimes.newspaperdirect.com/epaper/helpandsupport.aspx?subpage=PDReaderDownload
+http://www.nytimes.com/ref/membercenter/help/privacysummary.html
+http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html
+http://nytmarketing.whsites.net/mediakit/
+https://myaccount.nytimes.com/auth/hdlogin?URI=https://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome
