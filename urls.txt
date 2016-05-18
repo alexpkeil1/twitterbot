@@ -2742,3 +2742,13 @@ http://itunes.apple.com/us/podcast/edward-tufte-art-and-science/id297775181
 http://vimeo.com/et
 http://1.usa.gov/1QBp0aE
 http://www.dhhs.gov/
+http://investor.apple.com
+http://www.apple.com/itunes/video/
+https://itunes.apple.com/us/genre/podcasts-social-sciences/id1479?mt=2
+https://itunes.apple.com/us/podcast/interviews-from-national-academy/id301625343?mt=2
+https://itunes.apple.com/us/artist/nature/id293009177?mt=2
+https://itunes.apple.com/us/podcast/science-signaling-podcast/id272714233?mt=2
+https://itunes.apple.com/app/apple-store/id375380948?mt=8
+https://itunes.apple.com/us/podcast/nature-immunology-podcast/id413508236?mt=2
+https://itunes.apple.com/us/artist/the-national-academies/id307415140?mt=2
+http://www.apple.com/itunes/overview/
