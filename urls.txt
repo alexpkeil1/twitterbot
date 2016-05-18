@@ -2738,3 +2738,5 @@ https://news.google.com/nwshp?hl=en&tab=8n
 https://www.google.com/url?q=http://www.genevedesign.com&sa=D&usg=AFQjCNGaIAUP_hObrVuIbjfAuCfpMXpdzA
 https://drive.google.com/?tab=8o
 https://support.google.com/googleplay/?p=report_content
+http://itunes.apple.com/us/podcast/edward-tufte-art-and-science/id297775181
+http://vimeo.com/et
