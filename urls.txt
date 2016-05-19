@@ -3286,3 +3286,11 @@ http://www.nytimes.com/content/help/rights/terms/terms-of-service.html?nytmobile
 https://myaccount.nytimes.com/get-started?campaignId=4Y8UY&ftv=v2&OC=20000561421&return_url=http%3A%2F%2Fmobile.nytimes.com%2F2016%2F05%2F05%2Fupshot%2Fwhat-i-got-wrong-about-donald-trump.html
 http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html?nytmobile=0
 http://www.nytimes.com/mowweb/siteftnonregi?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2F2016%2F05%2F05%2Fupshot%2Fwhat-i-got-wrong-about-donald-trump.html
+http://www.springerreference.com/
+http://link.springer.com/
+http://www.springer.com/gp/adis/products-services/adisinsight-databases/clinical-trials-insight
+http://www.springer.com/gp/adis/products-services/adisinsight-databases/pharmacovigilance
+http://www.springer.com/gp/adis/products-services/new-adisinsight/adisinsight-deals
+http://rd.springer.com/
+http://www.springer.com/gp/adis/products-services/new-adisinsight
+http://www.springer.com/gp/adis/products-services/adisinsight-databases/r-d-insight
