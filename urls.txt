@@ -3193,3 +3193,13 @@ http://ccinfo.unc.edu/online-employee-tax-forms/
 http://its.unc.edu/connectcarolina-mobile-now-available-in-carolinago-app/
 https://secure.touchnet.com/C21551_tsa/web/index.jsp
 https://itsapps.unc.edu/account/register/alumni
+http://t.cdc.gov/ecards/browse.aspx?category=175
+http://www.cdc.gov/ncird/index.html
+http://gis.cdc.gov/grasp/fluview/flu_by_age_virus.html
+http://gis.cdc.gov/grasp/fluview/FluHospChars.html
+https://tools.cdc.gov/syndication/pages.aspx?topicId=26829
+http://gis.cdc.gov/GRASP/Fluview/FluHospRates.html
+http://gis.cdc.gov/GRASP/Fluview/PedFluDeath.html
+http://gis.cdc.gov/grasp/fluview/main.html
+http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+http://www.cdc.gov/cancer/flu/
