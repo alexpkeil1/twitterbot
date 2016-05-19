@@ -3394,3 +3394,6 @@ http://stke.sciencemag.org/content/9/428/ra49.abstract
 http://membercentral.aaas.org
 http://advances.sciencemag.org/
 http://www.sciencemag.org/journals/
+https://support.nlm.nih.gov/ics/support/ticketnewwizard.asp?style=classic&deptID=28054&category=medlineplus&from=
+https://www.nlm.nih.gov/medlineplus
+https://support.nlm.nih.gov/ics/support/ticketnewwizard.asp?style=classic&deptID=28054&category=medlineplus&from=//www.nlm.nih.gov/medlineplus/anatomyvideos.html
