@@ -3584,3 +3584,8 @@ https://www.nlm.nih.gov/medlineplus/feeds/news_en.xml
 https://www.nlm.nih.gov/medlineplus/nutrition.html
 https://support.nlm.nih.gov/ics/support/ticketnewwizard.asp?style=classic&deptID=28054&category=medlineplus&from=https://www.nlm.nih.gov/medlineplus/news/fullstory_158878.html
 http://www.healthday.com/
+http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome
+http://www.nytimes.com/subscriptions/Multiproduct/lp87JHJ.html?campaignId=466K8
+https://myaccount.nytimes.com/membercenter/myaccount.html
+http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html 
+http://www.nytimes.com/pages/crosswords/index.html
