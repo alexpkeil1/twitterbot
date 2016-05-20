@@ -3473,3 +3473,8 @@ http://carolinaconnections.web.unc.edu/
 http://uncnews.unc.edu/experts/
 https://uncnewsarchives.sites.unc.edu/
 https://alumni.unc.edu/
+https://www.nlm.nih.gov/medlineplus/news/fullstory_158650.html
+https://support.nlm.nih.gov/ics/support/ticketnewwizard.asp?style=classic&deptID=28054&category=medlineplus_spanish&lang=es&from=https://www.nlm.nih.gov/medlineplus/spanish/news/fullstory_158696.html
+https://www.addthis.com/bookmark.php?pub=medlineplus&lng=es&title=Los%20robots%20ganan%20terreno%20en%20el%20quir%26oacute%3Bfano%3A%20MedlinePlus%20en%20espa%C3%B1ol
+https://www.nlm.nih.gov/medlineplus/spanish/surgery.html
+https://www.nlm.nih.gov/medlineplus/feeds/news_es.xml
