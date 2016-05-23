@@ -4216,3 +4216,11 @@ http://www.nytimes.com/video/world/americas/100000003996534/hurricane-patricia-m
 http://www.nytimes.com/2016/05/17/nyregion/dune-divides-montauk-beaches-as-well-as-residents.html
 http://www.nytimes.com/2016/04/29/nyregion/new-jersey-congressman-citing-fraud-calls-on-congress-to-investigate-fema.html
 http://www.nytimes.com/2016/04/05/science/nasa-is-facing-a-climate-change-countdown.html
+http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html 
+https://www.nytimesathome.com/hd/101?MediaCode=W48AC&CMP=378R9&SPTR_ID=hdNYT
+http://www.nytimes.com/content/help/site/registration/regihelp/regihelp.html
+https://myaccount.nytimes.com/register
+https://myaccount.nytimes.com/auth/login
+http://www.nytimes.com/ref/membercenter/help/siteindex.html
+http://www.nytimes.com/ref/membercenter/nytarchive.html
+http://www.nytimes.com/content/help/homedelivery/homedelivery.html
