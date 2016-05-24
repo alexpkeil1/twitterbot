@@ -4506,3 +4506,9 @@ http://fa.unc.edu/enterprises/photocopiers/
 https://onecard.unc.edu
 http://fa.unc.edu/enterprises/
 
+https://payments.google.com/legaldocument?family=0.privacynotice&hl=en
+https://play.google.com/intl/en_us/about/play-terms.html
+https://www.google.com/android/devicemanager?hl=en
+https://www.google.com/webhp?hl=en&tab=8w
+https://payments.google.com/termsOfService?hl=en
+http://www.google.com/intl/en_us/policies/privacy/
