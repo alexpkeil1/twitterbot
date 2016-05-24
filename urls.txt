@@ -4268,3 +4268,6 @@ https://extremetracking.com/?myaccount
 https://extremetracking.com/?free
 https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside
 http://www.rbsworldpay.com/
+https://secure.actblue.com/system/sitetexts
+https://secure.actblue.com/my-actblue
+https://secure.actblue.com/sources/myprofile
