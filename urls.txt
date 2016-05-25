@@ -4642,3 +4642,10 @@ http://reuters.mediastorehouse.com/dmcs_requests.html
 http://www.mediastorehouse.com
 https://reuters.mediastorehouse.com/dmcs_my_account.html
 http://online.thomsonreuters.com/reuterspictures/
+https://plus.google.com/share?url=http%3A//www.sciencemag.org/projects/data-stories
+http://www.sciencemag.org/projects/data-stories/winners
+http://www.sciencemag.org/author/marcia-mcnutt
+http://www.sciencemag.org/projects/data-stories/official-rules-data-stories-contest
+http://www.sciencemag.org/projects/data-stories/peopleschoice
+http://www.sciencemag.org/author/alberto-cairo
+http://www.sciencemag.org/author/alberto-cuadra
