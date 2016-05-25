@@ -4776,3 +4776,11 @@ http://go.unc.edu/CampusBoxLookup
 https://www.nlm.nih.gov/medlineplus/news/fullstory_159005.html
 https://www.nlm.nih.gov/medlineplus/news/fullstory_159009.html
 https://www.nlm.nih.gov/medlineplus/news/fullstory_159013.html
+http://membercentral.aaas.org/members/login?destination=node%2F84
+https://www.supportaaas.org/sslpage.aspx?pid=298
+http://www.aaas.org/terms_of_use.shtml
+http://www.linkedin.com/groups?gid=27230&trk=myg_ugrp_ovr
+https://pubs.aaas.org/MembershipRenewal/new_ren_setup_rd.asp?effort=X&_ga=1.211531477.1911899238.1342128049
+https://plus.google.com/100084397260907623014/posts
+https://pubs.aaas.org/MembershipRenewal/new_ren_setup_rd.asp?effort=X
+http://www.aaas.org/privacy.shtml
