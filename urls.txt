@@ -4799,3 +4799,16 @@ http://www.med.unc.edu/ahs/clinical
 http://history.unc.edu/
 http://chip.unc.edu/
 http://www.bio.unc.edu/
+http://www.nytimes.com/mowweb/hdr?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Fstyle%2F
+http://www.nytimes.com/interactive/2016/05/25/fashion/100000004436328.mobile.html
+http://www.nytimes.com/interactive/2016/05/25/fashion/100000004436621.mobile.html
+http://www.nytimes.com/interactive/2016/05/23/fashion/100000004431348.mobile.html
+https://myaccount.nytimes.com/mobile/login/smart/index.html?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Fstyle%2F
+https://myaccount.nytimes.com/get-started?campaignId=4Y8U8&ftv=v1&OC=20000561421&return_url=http%3A%2F%2Fmobile.nytimes.com%2Fstyle%2F
+https://myaccount.nytimes.com/mobile/login/smart/index.html?EXIT_URI=http%253A%252F%252Fmobile.nytimes.com%252Fstyle%252F
+http://www.nytimes.com/interactive/2016/05/25/fashion/100000004436665.mobile.html
+http://www.nytimes.com/mowweb/siteftnonregi?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Fstyle%2F
+http://www.nytimes.com/video/fashion/100000004428373/bill-cunningham-peacocking.html
+https://myaccount.nytimes.com/get-started?campaignId=4Y8UY&ftv=v2&OC=20000561421&return_url=http%3A%2F%2Fmobile.nytimes.com%2Fstyle%2F
+http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=4Y8RL&EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Fstyle%2F
+http://www.nytimes.com/mowweb/ftnotlog?EXIT_URI=http%253A%252F%252Fmobile.nytimes.com%252Fstyle%252F
