@@ -4590,3 +4590,14 @@ http://dps.unc.edu/daily-crime-log/
 http://dps.unc.edu/recruitment/reserve/
 http://www.unc.edu/social/
 http://itunes.unc.edu/
+https://www.sciencedirect.com/science/register-new-user
+http://www.sciencedirect.com/science?_ob=ReminderURL&_method=display&md5=4a97631c25ac81c09ad2f961106e9da2
+http://www.sciencedirect.com/science?_ob=ShoppingCartURL&_method=display&_zone=TopNavBar&_origin=journal&md5=844325c591b0706bae0fd501ddcfb5ff
+http://www.sciencedirect.com/science/search
+http://www.sciencedirect.com/science?_ob=HomePageURL&_method=userHomePage&_fl=y&md5=6dada1fb726164470bad9e40bbc4d7fa
+http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser
+http://www.sciencedirect.com/science/journals
+http://ees.elsevier.com/issn/01679236
+https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F01679236%2F86
+http://www.elsevier.com/locate/issn/01679236
+http://www.sciencedirect.com/science/journal/01679236/81
