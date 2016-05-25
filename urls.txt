@@ -4773,3 +4773,6 @@ http://fa.unc.edu/enterprises/mail/campus-box-form/
 http://fa.unc.edu/enterprises/mail/off-campus-mail-vendors/
 http://fa.unc.edu/about/
 http://go.unc.edu/CampusBoxLookup 
+https://www.nlm.nih.gov/medlineplus/news/fullstory_159005.html
+https://www.nlm.nih.gov/medlineplus/news/fullstory_159009.html
+https://www.nlm.nih.gov/medlineplus/news/fullstory_159013.html
