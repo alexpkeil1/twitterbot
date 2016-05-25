@@ -4539,3 +4539,13 @@ http://www.newsobserver.com/adperfect/Employment/classification/Schools+%26+Inst
 http://www.careerbuilder.com?lr=cbmc_no&SiteID=mc_notja
 http://www.trianglejobs.com/contactus/
 http://jobs.careerbuilder.com/Default.aspx?lr=cbmc_no&siteid=cbmc_no011
+https://myaccount.nytimes.com/mobile/login/smart/index.html?EXIT_URI=http%253A%252F%252Fmobile.nytimes.com%252Finternational%252F
+https://myaccount.nytimes.com/get-started?campaignId=4Y8UY&ftv=v2&OC=20000561421&return_url=http%3A%2F%2Fmobile.nytimes.com%2Finternational%2F
+http://www.nytimes.com/crosswords/game/mini?embed=mw
+http://www.nytimes.com/mowweb/ftnotlog?EXIT_URI=http%253A%252F%252Fmobile.nytimes.com%252Finternational%252F
+http://www.nytimes.com/interactive/2016/05/25/us/politics/100000004390557.mobile.html
+http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=4Y8RL&EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Finternational%2F
+http://www.nytimes.com/mowweb/hdr?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Finternational%2F
+https://myaccount.nytimes.com/get-started?campaignId=4Y8U8&ftv=v1&OC=20000561421&return_url=http%3A%2F%2Fmobile.nytimes.com%2Finternational%2F
+https://myaccount.nytimes.com/mobile/login/smart/index.html?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Finternational%2F
+http://www.nytimes.com/mowweb/siteftnonregi?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Finternational%2F
