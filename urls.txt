@@ -16873,3 +16873,5 @@ http://www.trumba.com
 
 
 https://pbs.twimg.com/profile_images/642107319145340930/zRtH2gZx.jpg
+https://plus.google.com/share?url=http%3A//www.sciencemag.org/librarians-form/recommend-subscription-your-library
+http://www.sciencemag.org/site/subscriptions/inst_trial_quote.xhtml?ccode=R
