@@ -4857,3 +4857,16 @@ http://giving.unc.edu/
 http://www.unc.edu
 http://its.unc.edu/
 http://www.unc.edu/health/
+http://www.linkedin.com/companies/annual-reviews
+http://dx.doi.org/10.1097/j.pain.0000000000000493
+https://www.annualreviews.org/action/ecommerce?addToCart=true&offerId=51226%2C10.1146%2Fannurev.publhealth.22.1.189&backUri=%2Fdoi%2Ffull%2F10.1146%2Fannurev.publhealth.22.1.189
+http://dx.doi.org/10.1111/apps.12053
+https://www.annualreviews.org/action/showCart
+https://www.annualreviews.org/action/registration
+https://www.annualreviews.org/action/showLogin?redirectUri=%2Fdoi%2Ffull%2F10.1146%2Fannurev.publhealth.22.1.189
+http://dx.doi.org/10.1016/j.diabres.2015.10.019
+http://dx.doi.org/10.1002/mdc3.12286
+http://www.research4life.org/
+http://www.atypon.com/
+http://www.annualreviews.org/page/eprints
+http://dx.doi.org/10.1016/j.drugalcdep.2016.01.020
