@@ -6233,3 +6233,14 @@ https://itunes.apple.com/us/podcast/the-needle-the-mouse/id552850224?mt=2
 https://itunes.apple.com/us/podcast/the-harvard-edcast/id1062333296?mt=2
 https://consultants.apple.com/us
 http://jointventure.apple.com/
+http://www.sciencemag.org/content/352/6289/1046.short
+http://www.sciencemag.org/content/352/6289/1042.short
+http://www.sciencemag.org/cgi/changeuserinfo
+http://www.sciencemag.org/content/352/6289/1040.short
+http://www.sciencemag.org/content/352/6289/1043.short
+http://www.sciencemag.org/content/352/6289/1039.short
+http://www.sciencemag.org/cgi/recnamepwd
+http://science.sciencemag.org/user/login
+http://www.sciencemag.org/cgi/changepwd
+http://science.sciencemag.org/folders
+http://www.sciencemag.org/content/352/6289/1044.short
