@@ -17078,3 +17078,11 @@ https://service.elsevier.com
 https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-articlechoice-terms-and-conditions
 https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-embase-terms-and-conditions
 http://www.elsevier.com/permissions
+https://play.google.com/?hl=en&tab=i8
+https://www.google.com/webhp?hl=en&tab=iw
+https://drive.google.com/?tab=io
+https://plus.google.com/116899029375914044550
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.com/imghp%3Fhl%3Den%26tab%3D8i
+http://maps.google.com/maps?hl=en&tab=il
+https://mail.google.com/mail/?tab=im
+http://news.google.com/nwshp?hl=en&tab=in
