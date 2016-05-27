@@ -17086,3 +17086,7 @@ https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.
 http://maps.google.com/maps?hl=en&tab=il
 https://mail.google.com/mail/?tab=im
 http://news.google.com/nwshp?hl=en&tab=in
+http://www.cdcfoundation.org/pr/2014/cdc-foundation-bush-institute-partnership-to-address-global-cervical-cancer
+http://pinkribbonredribbon.org
+http://gicr.iarc.fr/
+http://www.cdc.gov/globalhealth/ncd/cervicalcancer.htm
