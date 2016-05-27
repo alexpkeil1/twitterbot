@@ -17069,3 +17069,12 @@ https://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KOVFF
 https://stock.adobe.com/plans?sso_inbound=1&promoid=KSSOW&as_channel=adobe_com&as_source=profile_menu&as_campclass=brand&as_campaign=profile_menu&ssocc=1
 https://www.adobe.com/products/premiere.html?promoid=KLXLV
 https://www.adobe.com/products/photoshop.html?promoid=KLXLS
+https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-e-journal-subscriptions-terms-and-conditions
+https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-chemical-resistance-terms-and-conditions
+https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-e-book-subscription-terms-and-conditions
+https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-print-terms-and-conditions
+https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-e-book-terms-and-conditions
+https://service.elsevier.com
+https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-articlechoice-terms-and-conditions
+https://www.elsevier.com/legal/elsevier-website-terms-and-conditions/elsevier-embase-terms-and-conditions
+http://www.elsevier.com/permissions
