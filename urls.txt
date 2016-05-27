@@ -6231,3 +6231,5 @@ http://blogs.harvard.edu/mediaberkman
 https://itunes.apple.com/us/podcast/berkman-center-for-internet/id297392241?mt=2
 https://itunes.apple.com/us/podcast/the-needle-the-mouse/id552850224?mt=2
 https://itunes.apple.com/us/podcast/the-harvard-edcast/id1062333296?mt=2
+https://consultants.apple.com/us
+http://jointventure.apple.com/
