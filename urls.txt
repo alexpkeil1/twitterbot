@@ -6221,3 +6221,13 @@ http://www.nytimes.com/mowweb/hdr?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Fmus
 http://www.nytimes.com/mowweb/siteftnonregi?EXIT_URI=http%3A%2F%2Fmobile.nytimes.com%2Fmusic%2F
 http://www.nytimes.com/mowweb/ftnotlog?EXIT_URI=http%253A%252F%252Fmobile.nytimes.com%252Fmusic%252F
 https://myaccount.nytimes.com/mobile/login/smart/index.html?EXIT_URI=http%253A%252F%252Fmobile.nytimes.com%252Fmusic%252F
+https://itunes.apple.com/us/podcast/nextmarket-podcast/id579455690?mt=2
+https://itunes.apple.com/us/podcast/radio-berkman/id298096088?mt=2
+https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/reportPodcast?id=167015468
+https://itunes.apple.com/us/artist/technology.fm/id915033758?mt=2
+https://itunes.apple.com/us/genre/podcasts-society-culture/id1324?mt=2
+https://itunes.apple.com/us/podcast/center-for-internet-society/id131237275?mt=2
+http://blogs.harvard.edu/mediaberkman
+https://itunes.apple.com/us/podcast/berkman-center-for-internet/id297392241?mt=2
+https://itunes.apple.com/us/podcast/the-needle-the-mouse/id552850224?mt=2
+https://itunes.apple.com/us/podcast/the-harvard-edcast/id1062333296?mt=2
