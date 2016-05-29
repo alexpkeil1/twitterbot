@@ -32,7 +32,7 @@ with open('{}urls.txt'.format(path)) as fu:
 
 theElems = ''
 loops = 0
-while len(theElems.split(' ')) < 100:
+while len(theElems.split(' ')) < 400:
     rdln = random.random_integers(lns)
     lns2 = 0
     with open('{}urls.txt'.format(path)) as fu:
@@ -53,13 +53,18 @@ if random.random()<0.5:
 else:
     col = 'black'
 
+if if random.random()<0.5:
+    col = 'white'
+else:
+    col = 'black'
+
 wordcloud = WordCloud(
 #                max_font_size=80, 
                 relative_scaling=0, 
                 prefer_horizontal=random.uniform(0.5, 1), 
                 stopwords='',
                 background_color=col,
-                max_words=60
+                max_words=200
                 ).generate(theElems)
 plt.figure()
 plt.imshow(wordcloud)
