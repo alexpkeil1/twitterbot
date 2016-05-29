@@ -75,5 +75,5 @@ print("After {} loops, tweeting a wordle for {}".format(loops, theURL))
     
 with open(outfile, 'rb') as file:
     data = file.read()
-    r = api.request('statuses/update_with_media', {'status': 'What is {} discussing?'.format(theURL)}, {'media[]':data})
+    r = api.request('statuses/update_with_media', {'status': 'What is being discussed at {}? '.format(theURL)}, {'media[]':data})
     print(r.status_code)    
