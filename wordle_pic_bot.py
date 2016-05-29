@@ -258,7 +258,8 @@ def makeWC(theText, mask_image):
     SW = STOPWORDS.copy()
     mywords = set(['and', 'the', 'to', 'by', 'in', 'of', 'up']
         + ['Facebook', 'Twitter', 'Pinterest', 'Flickr',
-           'Google', 'Instagram']
+           'Google', 'Instagram', 'login', 'Login', 'Log'
+           ]
         + list(bad_words())
         ) # stopwords
     SW.update(mywords)
@@ -291,18 +292,17 @@ except:
 if len(urls) < 100:
     urls = [
         'http://www.vox.com',
-        'http://espn.go.com/',
-        'http://www.smetana.net/',
         'http://diy.andimayr.com/',
         'http://ithinkimight.com/',
-        'http://www.mariusroosendaal.com/',
-        'http://www.iceland.is/',
-        'http://www.greenland.com/en/',
         'https://www.travelallrussia.com/siberia',
         'https://www.reddit.com/r/EarthPorn/',
         'https://www.reddit.com/r/skyporn',
         'http://www.sovietposters.com/',
-        'http://www.gettyimages.com/'
+        'http://www.gettyimages.com/',
+        'http://english.gov.cn/',
+        'https://sweden.se/',
+        'https://www.admin.ch/gov/en/start.html',
+        'http://www.gov.za/'
         ]
     #urls = list(getallURLS())
 else:
@@ -315,7 +315,7 @@ while not link:
     try:
         random.shuffle(urls)
         theURL = urls.pop()
-        outlinks = list(find_links(theURL))
+        outlinks = [theURL] + list(find_links(theURL))
         random.shuffle(outlinks)
         baseURL, images, theTxt = get_random_images_and_text(outlinks)
     except:
@@ -365,7 +365,7 @@ maskim = make_mask(im)
 cloud = makeWC(theTxt, mask_image=maskim)
 
 #sometimes use the mask, sometimes the original image
-if (random.random() < 0.95) and (origsize[0] >= 400) and (origsize[1] >= 400):
+if (random.random() < 0.95) and ((origsize[0] >= 400) or (origsize[1] >= 400)):
     print("Saving cloud + image")
     data = cloud_cover(cloud, im)
 elif (random.random() < 0.6):
