@@ -28,12 +28,12 @@ with open('{}urls.txt'.format(path)) as fu:
     lns = 0
     for line in fu:
         lns += 1
-    rdln = random.random_integers(lns)
 
 
-print(lns)
 theElems = ''
+loops = 0
 while len(theElems.split(' ')) < 100:
+    rdln = random.random_integers(lns)
     lns2 = 0
     with open('{}urls.txt'.format(path)) as fu:
         for line in fu:
@@ -44,14 +44,21 @@ while len(theElems.split(' ')) < 100:
     theHTML = html.fromstring(resp.text)
     alltheA = theHTML.cssselect('a')
     theElems = ' '.join([a.text for a in alltheA if a.text is not None])
+    loops += 1
+    print(len(theElems.split(' ')))
 
+
+if random.random()<0.5:
+    col = 'white'
+else:
+    col = 'black'
 
 wordcloud = WordCloud(
 #                max_font_size=80, 
                 relative_scaling=0, 
-                prefer_horizontal=.98, 
+                prefer_horizontal=random.uniform(0.5, 1), 
                 stopwords='',
-                background_color='white',
+                background_color=col,
                 max_words=60
                 ).generate(theElems)
 plt.figure()
@@ -62,10 +69,11 @@ plt.savefig(outfile)
 
 
 
+
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
-print("Tweeting about " + outtext)
+print("After {} loops, tweeting a wordle for {}".format(loops, theURL))
     
 with open(outfile, 'rb') as file:
     data = file.read()
-    r = api.request('statuses/update_with_media', {'status': theURL}, {'media[]':data})
+    r = api.request('statuses/update_with_media', {'status': 'What is {} discussing?'.format(theURL)}, {'media[]':data})
     print(r.status_code)    
