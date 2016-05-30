@@ -259,7 +259,11 @@ def ban_urls(urls):
     banwords = ["donate", "contact", "terms", "conditions", "podcasts"
                 "twitter", "help", "about", "linkedin", "instagram"
                 "facebook", "privacy-policy", "shop", "retail", 
-                "products", "wifi", 'plugins', 'share']
+                "products", "wifi", 'plugins', 'share', 'support',
+                'registration', 'plugins', 'signup', 'giving',
+                'promo', 'account', 'mail', 'itunes', 'sponsored',
+                'product', 'corporate'
+                ]
     for u in urls:
         keep = True
         for w in banwords:
@@ -325,6 +329,7 @@ except:
     urls = ''
 
 if len(urls) < 100:
+    # seed urls
     urls = [
         'http://www.redcross.org/',
         'http://www.worldwildlife.org/',
@@ -333,7 +338,8 @@ if len(urls) < 100:
         'http://www.gettyimages.com/',
         'http://www.ewb-usa.org/',
         'https://www.splcenter.org/',
-        'http://www.ucsusa.org/'
+        'http://www.ucsusa.org/',
+        'http://www.nature.com/index.html'
         ]
     if random.random() > 0.75:
         urls = list(getallURLS())

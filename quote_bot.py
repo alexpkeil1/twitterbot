@@ -145,7 +145,11 @@ def ban_urls(urls):
     banwords = ["donate", "contact", "terms", "conditions", "podcasts"
                 "twitter", "help", "about", "linkedin", "instagram"
                 "facebook", "privacy-policy", "shop", "retail", 
-                "products", "wifi", 'plugins', 'share']
+                "products", "wifi", 'plugins', 'share', 'support',
+                'registration', 'plugins', 'signup', 'giving',
+                'promo', 'account', 'mail', 'itunes', 'sponsored',
+                'product', 'corporate'
+                ]
     for u in urls:
         keep = True
         for w in banwords:
