@@ -258,7 +258,9 @@ def makeWC(theText, mask_image):
     SW = STOPWORDS.copy()
     mywords = set(['and', 'the', 'to', 'by', 'in', 'of', 'up']
         + ['Facebook', 'Twitter', 'Pinterest', 'Flickr',
-           'Google', 'Instagram', 'login', 'Login', 'Log'
+           'Google', 'Instagram', 'login', 'Login', 'Log',
+           'website', 'Website', 'Contact', 'contact',
+           'twitter'
            ]
         + list(bad_words())
         ) # stopwords
@@ -293,7 +295,6 @@ if len(urls) < 100:
     urls = [
         'http://www.vox.com',
         'http://diy.andimayr.com/',
-        'http://ithinkimight.com/',
         'https://www.travelallrussia.com/siberia',
         'https://www.reddit.com/r/EarthPorn/',
         'https://www.reddit.com/r/skyporn',
@@ -304,7 +305,8 @@ if len(urls) < 100:
         'https://www.admin.ch/gov/en/start.html',
         'http://www.gov.za/'
         ]
-    #urls = list(getallURLS())
+    if random.random() > 0.5:
+        urls = list(getallURLS())
 else:
     print("Using image URLs")
 
@@ -352,7 +354,7 @@ while not chosen:
 
 # embiggen 
 origsize = im.size
-while (im.size[0] < 400) | (im.size[1] < 400):
+while (im.size[0] < 600) | (im.size[1] < 600):
     im = im.resize((int(im.size[0]*1.2), int(im.size[1]*1.2)), Image.ANTIALIAS)
 
 # emsmallen
