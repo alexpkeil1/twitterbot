@@ -104,7 +104,7 @@ def get_random_images_and_text(outlinks):
     else:
         theTxt = ''
         images = ''
-        while (len(images) < 10) | (len(theTxt) < 400):
+        while (len(images) < 5) | (len(theTxt) < 400):
             theTxt = get_text(thenewURL)
             images = imgURLs(thenewURL)
             try:
@@ -113,6 +113,7 @@ def get_random_images_and_text(outlinks):
                 # default to the original URL
                 thenewURL = theURL
                 break
+            images = list(set(images))
         return thenewURL, images, theTxt
 
 
@@ -193,7 +194,7 @@ def imgURLs(base_url, debug = True):
         except:
             if debug: print(base_url, 'not HTML or no response, skipping')
         else:
-            imrefs = list(set([a.get('src') for a in theHTML.xpath('//a//img')]))
+            imrefs = ban_urls(list(set([a.get('src') for a in theHTML.xpath('//a//img')])))
     return imrefs
 
 
@@ -264,7 +265,9 @@ def ban_urls(urls):
                 "products", "wifi", 'plugins', 'share', 'support',
                 'registration', 'plugins', 'signup', 'giving',
                 'promo', 'account', 'mail', 'itunes', 'sponsored',
-                'product', 'corporate', '#', 'media', 'secure'
+                'product', 'corporate', '#', 'media', 'secure',
+                'doubleclick', 'iads', 'financials', 'logo',
+                'feedback', 'izquotes', 'subscribe'
                 ]
     for u in urls:
         keep = True
@@ -275,11 +278,20 @@ def ban_urls(urls):
             newurls.append(u)
     return newurls
 
+def get_image_size(imgURL):
+    try:
+        im = Image.open(urllib.request.urlopen(imgURL))
+    except:
+        return (0, 0)
+    else:
+        return im.size
+
 
 def get_all_the_stuff(urls):
     link = False
     while not link:
         try:
+            urls = ban_urls(urls)
             random.shuffle(urls)
             theURL = urls.pop()
             outlinks = [theURL] + list(find_links(theURL))
@@ -288,28 +300,31 @@ def get_all_the_stuff(urls):
         except:
             pass
         else:
-            if (len(images) > 5) and (len(theTxt) > 10):
+            ret_images=[]
+            for im in images:
+                sz = get_image_size(im)
+                if (sz[0]>300) or (sz[2]>300):
+                    ret_images += im
+            if (len(ret_images) > 0) and (len(theTxt) > 10):
                 link = True
-    return baseURL, images, theTxt
+    return baseURL, ret_images, theTxt
 
 
-def makeWC(theText, mask_image):
+def makeWC(theText, mask_image, mw):
     SW = STOPWORDS.copy()
-    mywords = set(['and', 'the', 'to', 'by', 'in', 'of', 'up']
-        + ['Facebook', 'Twitter', 'Pinterest', 'Flickr',
+    mywords = ['and', 'the', 'to', 'by', 'in', 'of', 'up',
+           'Facebook', 'Twitter', 'Pinterest', 'Flickr',
            'Google', 'Instagram', 'login', 'Login', 'Log',
            'website', 'Website', 'Contact', 'contact',
-           'twitter'
-           ]
-        + list(bad_words())
-        ) # stopwords
-    SW.update(mywords)
+           'twitter', 'Branding'
+           ] + list(bad_words())
+    [SW.add(w) for w in mywords]
     wordcloud = WordCloud(
                 relative_scaling=0, 
                 prefer_horizontal=random.uniform(0.5, 1), 
                 stopwords=SW,
                 background_color='black',
-                max_words=150, 
+                max_words=mw, 
                 mask = mask_image
                 ).generate(theText)
     return wordcloud
@@ -322,6 +337,7 @@ def cloud_cover(wc, orig_image):
     wc_background = wc_background.filter(ImageFilter.SMOOTH_MORE)
     return wc_background
 
+
 # check the list of urls, if there are enough, pull from there, otherwise use 
 # default list
 try:
@@ -330,10 +346,9 @@ try:
 except:
     urls = ''
 
-if len(urls) < 100:
+if (len(urls) < 100) and (random.random() < 0.85):
     # seed urls
     urls = [
-        'http://www.redcross.org/',
         'http://www.worldwildlife.org/',
         'https://www.oxfam.org/en/frontpage',
         'http://www.doctorswithoutborders.org/',
@@ -341,7 +356,8 @@ if len(urls) < 100:
         'http://www.ewb-usa.org/',
         'https://www.splcenter.org/',
         'http://www.ucsusa.org/',
-        'http://www.nature.com/index.html'
+        'http://www.nature.com/index.html',
+        'http://www.idealist.org/'
         ]
     if random.random() > 0.75:
         urls = list(getallURLS())
@@ -360,18 +376,22 @@ if (len(images) > 20) and (len(theTxt) > 500):
 
 # find an image of a big enough size
 chosen = False
-imgURL1 = validate_image_link(baseURL, random.choice(images))
+random.shuffle(images)
+img = images.pop()
+imgURL1 = validate_image_link(baseURL, img)
 while not chosen:
     try:
-        imgURL = validate_image_link(baseURL, random.choice(images))
+        random.shuffle(images)
+        img = images.pop()
+        imgURL = validate_image_link(baseURL, img)
         #print(imgURL)
-        im = Image.open(urllib.request.urlopen(imgURL))
+        imsize = get_image_size(imgURL)
     except:
         if imgURL == imgURL1:
             baseURL, images, theTxt = get_all_the_stuff(urls)
             print("starting over with {}".format(baseURL))
     else:
-        if ((im.size[0] >= 400) | (im.size[1] >= 400)):
+        if ((imsize[0] >= 400) | (imsize[1] >= 400)):
             chosen = True
         else:
             if imgURL == imgURL1:
@@ -389,16 +409,19 @@ while (im.size[0] > 1600) | (im.size[1] > 1600):
 
 # turn into mask
 maskim = make_mask(im)
-cloud = makeWC(theTxt, mask_image=maskim)
+
 
 #sometimes use the mask, sometimes the original image
 if (random.random() < 0.95) and ((origsize[0] >= 400) or (origsize[1] >= 400)):
     print("Saving cloud + image")
+    cloud = makeWC(theTxt, mask_image=maskim, mw=60)
     data = cloud_cover(cloud, im)
 elif (random.random() < 0.9):
     print("Saving cloud + mask")
+    cloud = makeWC(theTxt, mask_image=maskim, mw=100)
     data = cloud_cover(cloud, Image.fromarray(maskim))
 else:
+    cloud = makeWC(theTxt, mask_image=maskim, mw=150)
     print("Saving cloud only")
     data = cloud.to_image()
 #data.show()
@@ -409,7 +432,7 @@ plt.axis("off")
 outfile = '{}wordle_mask.png'.format(outdir)
 plt.savefig(outfile)
 
-data.show()
+#data.show()
 
 
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
@@ -417,5 +440,5 @@ print("Tweeting a wordle on {}, from {}".format(imgURL, baseURL))
 
 with open(outfile, 'rb') as file:
     data = file.read()    
-    #r = api.request('statuses/update_with_media', {'status': '{}'.format(baseURL)}, {'media[]':data})
-    #print(r.status_code)    
+    r = api.request('statuses/update_with_media', {'status': '{}'.format(baseURL)}, {'media[]':data})
+    print(r.status_code)    
