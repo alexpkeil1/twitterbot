@@ -395,7 +395,7 @@ cloud = makeWC(theTxt, mask_image=maskim)
 if (random.random() < 0.95) and ((origsize[0] >= 400) or (origsize[1] >= 400)):
     print("Saving cloud + image")
     data = cloud_cover(cloud, im)
-elif (random.random() < 0.6):
+elif (random.random() < 0.9):
     print("Saving cloud + mask")
     data = cloud_cover(cloud, Image.fromarray(maskim))
 else:
