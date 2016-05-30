@@ -6569,3 +6569,8 @@ http://www.politico.com/news/mitt-romney
 http://www.politico.com/staff/sarah-wheaton
 http://www.politico.com/news/harry-reid
 http://www.cdc.gov/vitalsigns
+http://www.nytimes.com/2016/04/24/sports/basketball/oklahoma-city-thunder-on-their-game.html
+http://mobile.nytimes.com/2016/05/04/sports/oklahoma-city-thunder-san-antonio-spurs-ginobili.html
+http://stats.nba.com/game/
+http://topics.nytimes.com/top/news/sports/probasketball/nationalbasketballassociation/sanantoniospurs/index.html?inline=nyt-org
+http://nyti.ms/1SZhdba
