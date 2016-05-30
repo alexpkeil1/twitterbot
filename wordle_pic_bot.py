@@ -278,6 +278,8 @@ def ban_urls(urls):
             newurls.append(u)
     return newurls
 
+
+
 def get_image_size(imgURL):
     try:
         im = Image.open(urllib.request.urlopen(imgURL))
@@ -303,7 +305,7 @@ def get_all_the_stuff(urls):
             ret_images=[]
             for im in images:
                 sz = get_image_size(im)
-                if (sz[0]>300) or (sz[2]>300):
+                if (sz[0]>300) or (sz[1]>300):
                     ret_images += im
             if (len(ret_images) > 0) and (len(theTxt) > 10):
                 link = True
@@ -398,6 +400,7 @@ while not chosen:
                 chosen = True
 
 # embiggen 
+im = Image.open(urllib.request.urlopen(imgURL))
 origsize = im.size
 while (im.size[0] < 600) | (im.size[1] < 600):
     im = im.resize((int(im.size[0]*1.2), int(im.size[1]*1.2)), Image.ANTIALIAS)
