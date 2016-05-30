@@ -6585,3 +6585,7 @@ https://myaccount.nytimes.com/mem/purchase/gateway/checkout.html?campaignId=44KU
 https://nytimesathome.com/corp/002?campaignId=3LF9W
 https://myaccount.nytimes.com/mem/purchase/gateway/checkout.html?campaignId=44KU9&OC=940608990
 https://myaccount.nytimes.com/auth/login?URI=http:/www.nytimes.com/subscriptions/edu/lp1474.html&OQ=varQ3D0
+http://www.exed.hbs.edu/
+http://hbr.org
+http://www.trademark.harvard.edu/trademark_protection/notice.php
+http://www.linkedin.com/groups?gid=1953203&trk=hb_side_g
