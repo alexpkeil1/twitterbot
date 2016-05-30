@@ -254,6 +254,23 @@ def bad_words():
     return badwords
 
 
+def get_all_the_stuff(urls):
+    link = False
+    while not link:
+        try:
+            random.shuffle(urls)
+            theURL = urls.pop()
+            outlinks = [theURL] + list(find_links(theURL))
+            random.shuffle(outlinks)
+            baseURL, images, theTxt = get_random_images_and_text(outlinks)
+        except:
+            pass
+        else:
+            if (len(images) > 5) and (len(theTxt) > 10):
+                link = True
+    return baseURL, images, theTxt
+
+
 def makeWC(theText, mask_image):
     SW = STOPWORDS.copy()
     mywords = set(['and', 'the', 'to', 'by', 'in', 'of', 'up']
@@ -293,41 +310,23 @@ except:
 
 if len(urls) < 100:
     urls = [
-        'http://www.vox.com',
-        'http://diy.andimayr.com/',
-        'https://www.travelallrussia.com/siberia',
-        'https://www.reddit.com/r/EarthPorn/',
-        'https://www.reddit.com/r/skyporn',
-        'http://www.sovietposters.com/',
+        'http://www.redcross.org/',
+        'http://www.worldwildlife.org/',
+        'https://www.oxfam.org/en/frontpage',
+        'http://www.doctorswithoutborders.org/',
         'http://www.gettyimages.com/',
-        'http://english.gov.cn/',
-        'https://sweden.se/',
-        'https://www.admin.ch/gov/en/start.html',
-        'http://www.gov.za/'
+        'http://www.ewb-usa.org/',
+        'https://www.splcenter.org/',
+        'http://www.ucsusa.org/'
         ]
-    if random.random() > 0.5:
+    if random.random() > 0.75:
         urls = list(getallURLS())
 else:
     print("Using image URLs")
 
 
 
-link = False
-while not link:
-    try:
-        random.shuffle(urls)
-        theURL = urls.pop()
-        outlinks = [theURL] + list(find_links(theURL))
-        random.shuffle(outlinks)
-        baseURL, images, theTxt = get_random_images_and_text(outlinks)
-    except:
-        pass
-    else:
-        if (len(images) > 5) and (len(theTxt) > 10):
-            link = True
-
-
-
+baseURL, images, theTxt = get_all_the_stuff(urls)
 print('Found {} images and {} words'.format(len(images), len(theTxt)))
 
 # keep the really good ones
@@ -341,10 +340,12 @@ imgURL1 = validate_image_link(baseURL, random.choice(images))
 while not chosen:
     try:
         imgURL = validate_image_link(baseURL, random.choice(images))
-        print(imgURL)
+        #print(imgURL)
         im = Image.open(urllib.request.urlopen(imgURL))
     except:
-        pass
+        if imgURL == imgURL1:
+            baseURL, images, theTxt = get_all_the_stuff(urls)
+            print("starting over with {}".format(baseURL))
     else:
         if ((im.size[0] >= 400) | (im.size[1] >= 400)):
             chosen = True
