@@ -148,7 +148,7 @@ def ban_urls(urls):
                 "products", "wifi", 'plugins', 'share', 'support',
                 'registration', 'plugins', 'signup', 'giving',
                 'promo', 'account', 'mail', 'itunes', 'sponsored',
-                'product', 'corporate'
+                'product', 'corporate', '#'
                 ]
     for u in urls:
         keep = True

@@ -140,17 +140,19 @@ def addURLtolist(URL):
 
 def cleanURLlist():
     '''
-    Add the newest URLs to the file with old URLs
+    Clean up the URL list
     '''
     fl = "Documents/programming_examples/python/twitterbot/img_urls.txt"
     links = set([])
     with open(base + fl, 'r', encoding='utf-8') as f:
         for URL in f.readlines():
             links.add(URL.strip().replace('\n', '  ').replace('\r', '  '))
-    links = list(links)
+    links = sorted(list(links))
+    links = ban_urls(links)
     with open(base + fl, 'w+', encoding='utf-8') as f:
         for URL in links:
-            f.writelines(URL + '\n')
+            if URL is not '':
+                f.writelines(URL + '\n')
 
 
 def getimgURLS():
@@ -256,13 +258,13 @@ def bad_words():
 
 def ban_urls(urls):
     newurls = []
-    banwords = ["donate", "contact", "terms", "conditions", "podcasts"
+    banwords = ["donat", "contact", "terms", "conditions", "podcasts"
                 "twitter", "help", "about", "linkedin", "instagram"
                 "facebook", "privacy-policy", "shop", "retail", 
                 "products", "wifi", 'plugins', 'share', 'support',
                 'registration', 'plugins', 'signup', 'giving',
                 'promo', 'account', 'mail', 'itunes', 'sponsored',
-                'product', 'corporate'
+                'product', 'corporate', '#', 'media', 'secure'
                 ]
     for u in urls:
         keep = True
@@ -407,6 +409,7 @@ plt.axis("off")
 outfile = '{}wordle_mask.png'.format(outdir)
 plt.savefig(outfile)
 
+data.show()
 
 
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
@@ -414,5 +417,5 @@ print("Tweeting a wordle on {}, from {}".format(imgURL, baseURL))
 
 with open(outfile, 'rb') as file:
     data = file.read()    
-    r = api.request('statuses/update_with_media', {'status': '{}'.format(baseURL)}, {'media[]':data})
-    print(r.status_code)    
+    #r = api.request('statuses/update_with_media', {'status': '{}'.format(baseURL)}, {'media[]':data})
+    #print(r.status_code)    
