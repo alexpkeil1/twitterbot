@@ -140,6 +140,22 @@ def addURLstolist(URLlist):
             f.writelines(URL + '\n')
 
 
+def ban_urls(urls):
+    newurls = []
+    banwords = ["donate", "contact", "terms", "conditions", "podcasts"
+                "twitter", "help", "about", "linkedin", "instagram"
+                "facebook", "privacy-policy", "shop", "retail", 
+                "products", "wifi", 'plugins', 'share']
+    for u in urls:
+        keep = True
+        for w in banwords:
+            if u.lower().find(w) > -1:
+                keep = False
+        if keep:
+            newurls.append(u)
+    return newurls
+
+
 def sortURLs():
     '''
     Sort all of the URLs in a file
@@ -149,11 +165,12 @@ def sortURLs():
               'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
-    sortedList = sorted(list(set(pastURLs)))
+    sortedList = sorted(list(set(ban_urls(pastURLs))))
     with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
               'w') as f:
         for URL in sortedList:
             f.writelines(URL + '\n')
+
 
 def get_newpages(theURL='', n=3, currlist=urlList):
     '''
@@ -186,6 +203,7 @@ def get_newpages(theURL='', n=3, currlist=urlList):
                     (page.find('\\x') == -1) &
                     (page not in currlist)
                     ]))
+            newpages = ban_urls(newpages)
             random.shuffle(newpages)
         else:
             newpages = ['']

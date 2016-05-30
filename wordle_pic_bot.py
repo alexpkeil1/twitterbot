@@ -254,6 +254,22 @@ def bad_words():
     return badwords
 
 
+def ban_urls(urls):
+    newurls = []
+    banwords = ["donate", "contact", "terms", "conditions", "podcasts"
+                "twitter", "help", "about", "linkedin", "instagram"
+                "facebook", "privacy-policy", "shop", "retail", 
+                "products", "wifi", 'plugins', 'share']
+    for u in urls:
+        keep = True
+        for w in banwords:
+            if u.lower().find(w) > -1:
+                keep = False
+        if keep:
+            newurls.append(u)
+    return newurls
+
+
 def get_all_the_stuff(urls):
     link = False
     while not link:
@@ -324,7 +340,7 @@ if len(urls) < 100:
 else:
     print("Using image URLs")
 
-
+urls = ban_urls(urls)
 
 baseURL, images, theTxt = get_all_the_stuff(urls)
 print('Found {} images and {} words'.format(len(images), len(theTxt)))
