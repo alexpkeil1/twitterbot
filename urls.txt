@@ -6830,3 +6830,12 @@ http://www.newsobserver.com/news/local/crime/#navlink=subnav
 http://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/#navlink=subnav
 http://dx.doi.org/10.1089/jwh.2015.5706
 https://support.nlm.nih.gov/ics/support/ticketnewwizard.asp?style=classic&deptID=28054&category=pubmed&Ncbi_App=entrez&Db=pubmed&Page=abstract&Snapshot=%2Fprojects%2Fentrez%2Fpubmed%2FPubMedGroup@1.81&Time=2016-05-30T17:01:49-04:00&Host=portal109&ncbi_phid=CE90375E74CAA1F1000000000015C1AF&ncbi_session=CE90375E74CAA3C1_0021SID&from=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F27096534&report=abstract&querykey=1&query=1%20selected%20item:%2027096534;%20Page%20number:%201;%20Page%20size:%2020&pmid=27096534
+http://www.ecfr.gov/cgi-bin/text-idx?SID=ed90f54836feb6a994f657188eb05e33&node=2:1.1.2.2.1&rgn=div5
+http://youtu.be/kIW-LiUH_IU
+http://www.ecfr.gov/cgi-bin/text-idx?SID=60623b20e6213558b4aa6ab7eb76b619&node=2:1.1.2.2.1.3&rgn=div6
+http://www.ecfr.gov/cgi-bin/text-idx?SID=60623b20e6213558b4aa6ab7eb76b619&node=2:1.1.2.2.1.2&rgn=div6
+http://www.ecfr.gov/cgi-bin/text-idx?SID=60623b20e6213558b4aa6ab7eb76b619&node=2:1.1.2.2.1.6&rgn=div6
+http://www.ecfr.gov/cgi-bin/text-idx?SID=f2a2667ffbf7735807746b945397146f&node=2:1.1.2.2.1.1&rgn=div6
+http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/index.jsp
+http://www.ecfr.gov/cgi-bin/text-idx?SID=60623b20e6213558b4aa6ab7eb76b619&node=2:1.1.2.2.1.4&rgn=div6
+http://www.ecfr.gov/cgi-bin/text-idx?SID=60623b20e6213558b4aa6ab7eb76b619&node=2:1.1.2.2.1.5&rgn=div6
