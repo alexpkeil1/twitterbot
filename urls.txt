@@ -6828,3 +6828,5 @@ http://placead2.newsobserver.com#navlink=subnav
 http://events.triangle.com/#navlink=subnav
 http://www.newsobserver.com/news/local/crime/#navlink=subnav
 http://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/#navlink=subnav
+http://dx.doi.org/10.1089/jwh.2015.5706
+https://support.nlm.nih.gov/ics/support/ticketnewwizard.asp?style=classic&deptID=28054&category=pubmed&Ncbi_App=entrez&Db=pubmed&Page=abstract&Snapshot=%2Fprojects%2Fentrez%2Fpubmed%2FPubMedGroup@1.81&Time=2016-05-30T17:01:49-04:00&Host=portal109&ncbi_phid=CE90375E74CAA1F1000000000015C1AF&ncbi_session=CE90375E74CAA3C1_0021SID&from=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F27096534&report=abstract&querykey=1&query=1%20selected%20item:%2027096534;%20Page%20number:%201;%20Page%20size:%2020&pmid=27096534
