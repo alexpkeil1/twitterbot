@@ -53,7 +53,7 @@ if random.random()<0.5:
 else:
     col = 'black'
 
-if if random.random()<0.5:
+if random.random()<0.5:
     col = 'white'
 else:
     col = 'black'
