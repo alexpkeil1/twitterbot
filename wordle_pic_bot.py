@@ -172,14 +172,14 @@ def get_imgURLs(base_url, debug = True):
             imraw = []
         else:
             imraw = ban_urls(list(set([a.get('src') for a in theHTML.xpath('//a//img')])))
-    try:
-        assert not isinstance(imraw, str)
-    except:
-        #print('raw image string {}'.format(imraw))
-        imrefs = validate_image_link(base_url, imraw)
-    else:
-        #print('raw image list {}'.format(imraw))
-        imrefs = set([validate_image_link(base_url, ln) for ln in imraw])
+        try:
+            assert not isinstance(imraw, str)
+        except:
+            #print('raw image string {}'.format(imraw))
+            imrefs = validate_image_link(base_url, imraw)
+        else:
+            #print('raw image list {}'.format(imraw))
+            imrefs = set([validate_image_link(base_url, ln) for ln in imraw])
     #print(imrefs)
     return list(imrefs)
 
