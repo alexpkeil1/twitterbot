@@ -4,6 +4,7 @@ http://msf-seasia.org
 http://news.harvard.edu/gazette/section/national-n-world-affairs/education/
 http://nordic.businessinsider.com/?IR=C
 http://nordic.businessinsider.com/after-all-the-money-poured-into-wind-energy-denmark-admits-its-too-expensive-2016-5/
+http://nordic.businessinsider.com/end-of-hedge-funds-as-we-know-it-2016-5/
 http://research.unc.edu
 http://selma.splcenter.org/
 http://sph.unc.edu/phlp/phlp/
@@ -13,7 +14,6 @@ http://www.doctorswithoutborders.org/
 http://www.doctorswithoutborders.org/issue/access-medicines
 http://www.doctorswithoutborders.org/news-stories
 http://www.doctorswithoutborders.org/our-work/publications/transcripts
-http://www.ewb-usa.org/latest-news/give-a-gift-in-honor-of-ewb-usa-member-tyler-palmer-2/
 http://www.ewb-usa.org/latest-news/join-our-team-project-administration-and-workflow-system-volunteer-part-time/
 http://www.ewb-usa.org/myewb/committees/regional-steering-committees/
 http://www.ewb-usa.org/our-story/partners/
@@ -52,4 +52,3 @@ https://www.travelallrussia.com/tour-tags/5-star
 https://www.worldwildlife.org/magazine/issues/summer-2016/articles/understanding-and-improving-the-pulp-and-paper-market-in-china
 https://www.worldwildlife.org/stories/population-of-world-s-most-endangered-marine-mammal-drops-40-percent
 https://www.worldwildlife.org/stories/tigers-and-pesto-what-s-the-connection
-http://gifts.worldwildlife.org/gift-center/gifts/Apparel-and-More.aspx?sc=AWY1504WC91C

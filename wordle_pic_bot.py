@@ -256,7 +256,7 @@ def make_mask(im):
     white = (255, 255, 255, 255)
     r,g,b,a = imgdat.copy().T
     #thresh = int(np.mean(imgdat))
-    thresh = 50
+    thresh = 75
     col_index = ((r < thresh) | 
                  (g < thresh) | 
                  (b < thresh) |
@@ -307,7 +307,7 @@ def ban_urls(urls):
                 'product', 'corporate', '#', 'media', 'secure',
                 'doubleclick', 'iads', 'financials', 'logo',
                 'feedback', 'izquotes', 'subscribe', 'header',
-                'gift'
+                'gift', '404'
                 ]
     for u in urls:
         keep = True
@@ -438,7 +438,9 @@ if (len(urls) < 100) and (random.random() < 0.85):
         'http://www.ucsusa.org/',
         'http://www.nature.com/index.html',
         'http://www.idealist.org/',
-        'http://blogs.nature.com/scientificdata/'
+        'http://blogs.nature.com/scientificdata/',
+        'http://en.unesco.org/',
+        'https://www.farmaid.org/'
         ]
     if random.random() > 0.95:
         print("Using all URLs")
