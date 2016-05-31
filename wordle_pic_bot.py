@@ -114,6 +114,27 @@ def addURLtolist(URL):
         f.writelines(URL + '\n')
 
 
+def addURLtoTweetedlist(URL):
+    '''
+    Add the newest URLs to the file with old URLs
+    '''
+    with open(base + "Documents/programming_examples/python/twitterbot/img_urls_tweeted.txt", 
+              'a', encoding='utf-8') as f:
+        f.writelines(URL + '\n')
+
+
+def alreadyTweetedlist():
+    '''
+    Add the newest URLs to the file with old URLs
+    '''
+    tweets = {}
+    with open(base + "Documents/programming_examples/python/twitterbot/img_urls_tweeted.txt", 
+              'r', encoding='utf-8') as f:
+        for URL in f.readlines():
+            tweets.add(URL.strip().replace('\n', '  ').replace('\r', '  '))
+    return tweets
+
+
 def cleanURLlist():
     '''
     Clean up the URL list
@@ -415,7 +436,8 @@ if (len(urls) < 100) and (random.random() < 0.85):
         'https://www.splcenter.org/',
         'http://www.ucsusa.org/',
         'http://www.nature.com/index.html',
-        'http://www.idealist.org/'
+        'http://www.idealist.org/',
+        'http://blogs.nature.com/scientificdata/'
         ]
     if random.random() > 0.95:
         print("Using all URLs")
@@ -452,13 +474,15 @@ while len(images) > 0:
     random.shuffle(images)
     imgURL = images.pop()
     print(imgURL)
-    im = Image.open(urllib.request.urlopen(imgURL))
-    if ((im.size[0] >= 500) | (im.size[1] >= 500)) and (im.size[0] + im.size[1] >= 700):
-        print(im.size)
-        chosen = True
-        break
+    if imgURL not in alreadyTweetedlist():
+        im = Image.open(urllib.request.urlopen(imgURL))
+        if ((im.size[0] >= 500) | (im.size[1] >= 500)) and (im.size[0] + im.size[1] >= 700):
+            print(im.size)
+            chosen = True
+            break
     
 print("Image selected")
+addURLtoTweetedlist(imgURL)
 # embiggen 
 origsize = im.size
 while (im.size[0] < 600) | (im.size[1] < 600):
