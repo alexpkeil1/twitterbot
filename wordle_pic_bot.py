@@ -347,7 +347,7 @@ def get_all_the_stuff(urls):
                 #print("Image is a string")
                 dim0, dim1 = get_image_size(images)
                 #print('Dims {}X{}'.format(dim0, dim1))
-                if (dim0 > 300) or (dim1 > 300):
+                if (dim0 > 150) or (dim1 > 150):
                     #print("adding image")
                     ret_images = images
                 if len(theTxt) > 10:
@@ -359,7 +359,7 @@ def get_all_the_stuff(urls):
                     #print(im)
                     dim0, dim1 = get_image_size(im)
                     #print('Dims {}X{}'.format(dim0, dim1))
-                    if (dim0 > 300) or (dim1 > 300):
+                    if (dim0 > 150) or (dim1 > 150):
                         #print("adding image")
                         ret_images += [im]
                 if (len(ret_images) > 0) and (len(theTxt) > 10):
