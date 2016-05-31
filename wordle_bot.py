@@ -24,9 +24,9 @@ outdir = '/tmp/'
 
 
 path = base + "Documents/programming_examples/python/twitterbot/"
-with open('{}urls.txt'.format(path)) as fu:
+with open('{}img_urls.txt'.format(path)) as fu:
     lns = 0
-    for line in fu:
+    for line in fu.readlines():
         lns += 1
 
 
@@ -36,7 +36,7 @@ while len(theElems.split(' ')) < 400:
     rdln = random.random_integers(lns)
     lns2 = 0
     with open('{}img_urls.txt'.format(path)) as fu:
-        for line in fu:
+        for line in fu.readlines():
             if lns2 == rdln:
                 theURL = line
             lns2 += 1
