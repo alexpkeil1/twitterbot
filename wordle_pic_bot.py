@@ -127,7 +127,7 @@ def alreadyTweetedlist():
     '''
     Add the newest URLs to the file with old URLs
     '''
-    tweets = {}
+    tweets = set([])
     with open(base + "Documents/programming_examples/python/twitterbot/img_urls_tweeted.txt", 
               'r', encoding='utf-8') as f:
         for URL in f.readlines():
@@ -306,7 +306,8 @@ def ban_urls(urls):
                 'promo', 'account', 'mail', 'itunes', 'sponsored',
                 'product', 'corporate', '#', 'media', 'secure',
                 'doubleclick', 'iads', 'financials', 'logo',
-                'feedback', 'izquotes', 'subscribe', 'header'
+                'feedback', 'izquotes', 'subscribe', 'header',
+                'gift'
                 ]
     for u in urls:
         keep = True
