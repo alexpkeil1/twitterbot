@@ -35,7 +35,7 @@ loops = 0
 while len(theElems.split(' ')) < 400:
     rdln = random.random_integers(lns)
     lns2 = 0
-    with open('{}urls.txt'.format(path)) as fu:
+    with open('{}img_urls.txt'.format(path)) as fu:
         for line in fu:
             if lns2 == rdln:
                 theURL = line
