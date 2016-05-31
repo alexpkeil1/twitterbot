@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+import sys
 import requests
 import os
 import numpy as np
@@ -40,21 +40,17 @@ def site_root(url):
 
 
 def valid_html(url, verify=True, allow_redirects=False):
-    valid = False
     try:
-        head = requests.head(url, verify=verify, allow_redirects=False)
+        head = requests.head(url, verify=verify, allow_redirects=allow_redirects)
         stat = (head.status_code == 200)
-        type = (head.headers['content-type'].lower().find( 
-                     'text/html') > -1)
-    except: 
-        True # fade to black
-    else:
-        if stat and type:
-            valid = True
-    return valid
+        type = (head.headers['content-type'].lower().find('text/html') > -1)
+    except:
+        stat = False
+        type = False
+    return stat and type
 
 
-def find_links(base_url = 'http://www.unc.edu/', pr=1, debug=False):
+def find_links(base_url = 'http://www.unc.edu/', pr=0, debug=False):
     '''
     Make a set of all unique (valid HTML) links from a single web page
     '''
@@ -64,57 +60,35 @@ def find_links(base_url = 'http://www.unc.edu/', pr=1, debug=False):
         vfy = True
     if pr == 1: print('Finding links connected to ' + base_url + '. This may take a while.')
     links = set([])
+    #try:
+    page = requests.get(base_url, verify=vfy, allow_redirects=True)
+    #except:
+    if debug: print(base_url, 'Bad request, skipping')
+    #else:
     try:
-        page = requests.get(base_url, verify=vfy, allow_redirects=False)
+        doc = html.fromstring(page.text.encode('utf-8'))
     except:
-        # extremely crude way to handle exceptions here
-        # but I suppose OK since it doesn't matter why
-        # the page did not load, only that it did not
-        if debug: print(base_url, 'Bad request, skipping')
+        if debug: print(base_url, 'not HTML or no response, skipping')
     else:
-        try:
-            doc = html.fromstring(page.text.encode('utf-8'))
-        except:
-            if debug: print(base_url, 'not HTML or no response, skipping')
-        else:
-            hrefs = list(set([a.get('href') for a in doc.cssselect('a')]))
-            for ln in hrefs:
-                try:
-                    full_link = ln.find('http')
-                except AttributeError:
-                    url = base_url
+        hrefs = list(set([a.get('href') for a in doc.cssselect('a')]))
+        while len(hrefs) > 0:
+            ln = hrefs.pop()
+            try:
+                full_link = ln.find('http')
+            except AttributeError:
+                url = base_url
+            else:
+                if full_link == 0:
+                    url = ln
                 else:
-                    if full_link == 0:
-                        url = ln
-                    else:
-                        url = urljoin(base_url, ln)
-                if url not in links: 
-                    if valid_html(url, verify=vfy, allow_redirects=False): 
-                        links.add(url)
-                        if pr == 2: print(url)
+                    url = urljoin(base_url, ln)
+            if url not in links: 
+                links.add(url)
+                if pr == 2: print(url)
     if pr == 1: print("Found", str(len(links)), "Links")
+    links = ban_urls(links)
     return(links)
 
-
-def get_random_images_and_text(outlinks):
-    try:
-        thenewURL = outlinks.pop()
-    except:
-        thenewURL = theURL
-    else:
-        theTxt = ''
-        images = ''
-        while (len(images) < 5) | (len(theTxt) < 400):
-            theTxt = get_text(thenewURL)
-            images = imgURLs(thenewURL)
-            try:
-                thenewURL = outlinks.pop()
-            except:
-                # default to the original URL
-                thenewURL = theURL
-                break
-            images = list(set(images))
-        return thenewURL, images, theTxt
 
 
 def validate_image_link(base_url, imglink):
@@ -127,6 +101,7 @@ def validate_image_link(base_url, imglink):
             url = imglink
         else:
             url = urljoin(base_url, imglink)
+    #print("Image joined {}".format(url))
     return url
 
 
@@ -156,7 +131,7 @@ def cleanURLlist():
                 f.writelines(URL + '\n')
 
 
-def getimgURLS():
+def readimgURLfile():
     '''
     get URLs from the file with old URLs
     '''
@@ -182,10 +157,11 @@ def getallURLS():
     return URLset
 
 
-def imgURLs(base_url, debug = True):
+def get_imgURLs(base_url, debug = True):
     imrefs = None
+    #print("getting images")
     try:
-        page = requests.get(base_url, verify=True, allow_redirects=False)
+        page = requests.get(base_url, verify=True, allow_redirects=True, timeout=15)
     except:
         if debug: print(base_url, 'Bad request, skipping')
     else:
@@ -193,20 +169,62 @@ def imgURLs(base_url, debug = True):
             theHTML = html.fromstring(page.text.encode('utf-8'))
         except:
             if debug: print(base_url, 'not HTML or no response, skipping')
+            imraw = []
         else:
-            imrefs = ban_urls(list(set([a.get('src') for a in theHTML.xpath('//a//img')])))
-    return imrefs
+            imraw = ban_urls(list(set([a.get('src') for a in theHTML.xpath('//a//img')])))
+    try:
+        assert not isinstance(imraw, str)
+    except:
+        #print('raw image string {}'.format(imraw))
+        imrefs = validate_image_link(base_url, imraw)
+    else:
+        #print('raw image list {}'.format(imraw))
+        imrefs = set([validate_image_link(base_url, ln) for ln in imraw])
+    #print(imrefs)
+    return list(imrefs)
 
 
 def get_text(theURL):
-    resp = requests.get(theURL)
-    theHTML = html.fromstring(resp.text)
-    alltheA = theHTML.cssselect('a')
-    alltheP = theHTML.cssselect('p')
-    theElems = ' '.join([a.text for a in alltheA if a.text is not None])
-    thePars = ' '.join([p.text for p in alltheP if p.text is not None])
-    return theElems + thePars
+    #print('getting text')
+    try:
+        resp = requests.get(theURL)
+        theHTML = html.fromstring(resp.text)
+        alltheA = theHTML.cssselect('a')
+        alltheP = theHTML.cssselect('p')
+        theElems = ' '.join([a.text for a in alltheA if a.text is not None])
+        thePars = ' '.join([p.text for p in alltheP if p.text is not None])
+        ret = theElems + thePars
+    except:
+        ret = ''
+    return ret
     #return thePars
+
+
+def pick_suitable_URL(outlinks):
+    '''
+    Given a list of URLs, find one (at random) and find all images, text
+     associated with that URL. If the text is suitably long, and there
+     are images, then output the URL, a list of images, and the text
+    '''
+    li = 0
+    lt = 0
+    random.shuffle(outlinks)
+    while (li < 1) | (lt < 400):
+        try:
+            thenewURL = outlinks.pop()
+            #print("PSU {}".format(thenewURL))
+        except:
+            # return empty variables if no suitable links are found
+            return '', [], []
+        else:
+            #print("Trying {}".format(thenewURL))
+            theTxt = get_text(thenewURL)
+            images = get_imgURLs(thenewURL)
+            images = ban_urls(images)
+            random.shuffle(images)
+            li = len(images)
+            lt = len(theTxt)
+    return thenewURL, images, theTxt
 
 
 def make_mask(im):
@@ -216,8 +234,8 @@ def make_mask(im):
     black = (0,0,0, 255)
     white = (255, 255, 255, 255)
     r,g,b,a = imgdat.copy().T
-    thresh = int(np.mean(imgdat))
-    #thresh = 50
+    #thresh = int(np.mean(imgdat))
+    thresh = 50
     col_index = ((r < thresh) | 
                  (g < thresh) | 
                  (b < thresh) |
@@ -267,13 +285,16 @@ def ban_urls(urls):
                 'promo', 'account', 'mail', 'itunes', 'sponsored',
                 'product', 'corporate', '#', 'media', 'secure',
                 'doubleclick', 'iads', 'financials', 'logo',
-                'feedback', 'izquotes', 'subscribe'
+                'feedback', 'izquotes', 'subscribe', 'header'
                 ]
     for u in urls:
         keep = True
         for w in banwords:
-            if u.lower().find(w) > -1:
-                keep = False
+            try:
+                if u.lower().find(w) > -1:
+                    keep = False
+            except:
+                u = ''
         if keep:
             newurls.append(u)
     return newurls
@@ -281,34 +302,72 @@ def ban_urls(urls):
 
 
 def get_image_size(imgURL):
+    '''
+    Find size for an image at a given URL, return 0,0 if any errors arise
+    '''
     try:
+        #print(imgURL)
         im = Image.open(urllib.request.urlopen(imgURL))
     except:
         return (0, 0)
     else:
-        return im.size
+        return im.size[0], im.size[1]
 
 
 def get_all_the_stuff(urls):
+    '''
+    For a list of URLs, do the following:
+        cull from the list any urls with some words indicating dumb links
+        randomly choose from the list one of the urls
+        get all links from that URL, combine into a list
+        given that list, enumerate the text and images from each URL
+    '''
     link = False
+    urls = ban_urls(urls)
+    random.shuffle(urls)
     while not link:
+        # take a single URL at random
+        theURL = random.choice(urls)
+        # find all links associated with that link
+        outlinks = [theURL] + list(find_links(theURL))
+        outlinks = ban_urls(outlinks)
+        # find a suitable page from the list of links
+        print("Trying one of {} links".format(len(outlinks)))
+        baseURL, images, theTxt = pick_suitable_URL(outlinks)
         try:
-            urls = ban_urls(urls)
-            random.shuffle(urls)
-            theURL = urls.pop()
-            outlinks = [theURL] + list(find_links(theURL))
-            random.shuffle(outlinks)
-            baseURL, images, theTxt = get_random_images_and_text(outlinks)
+            assert(baseURL is not '')
         except:
+            print("Error description:", sys.exc_info()[0])
             pass
         else:
+            #print("Getting images and links")
             ret_images=[]
-            for im in images:
-                sz = get_image_size(im)
-                if (sz[0]>300) or (sz[1]>300):
-                    ret_images += im
-            if (len(ret_images) > 0) and (len(theTxt) > 10):
-                link = True
+            try:
+                assert not isinstance(images, str)
+            except:
+                #print("Image is a string")
+                dim0, dim1 = get_image_size(images)
+                #print('Dims {}X{}'.format(dim0, dim1))
+                if (dim0 > 500) or (dim1 > 500):
+                    #print("adding image")
+                    ret_images = images
+                if len(theTxt) > 10:
+                    #print('Found 1 suitable image')
+                    link = True
+            else:
+                #print("Images in a list")
+                for im in images:
+                    #print(im)
+                    dim0, dim1 = get_image_size(im)
+                    #print('Dims {}X{}'.format(dim0, dim1))
+                    if (dim0 > 500) or (dim1 > 500):
+                        #print("adding image")
+                        ret_images += [im]
+                if (len(ret_images) > 0) and (len(theTxt) > 10):
+                    link = True
+                    print('Found {} suitable images'.format(len(ret_images)))
+                else:
+                    print('Found {} suitable images'.format(len(ret_images)))                    
     return baseURL, ret_images, theTxt
 
 
@@ -336,7 +395,7 @@ def cloud_cover(wc, orig_image):
     wc_masked = wc.to_image().convert('RGBA')
     wc_new = cover_img( np.array(wc_masked), np.array(orig_image.convert('RGBA')))
     wc_background = Image.fromarray(wc_new)
-    wc_background = wc_background.filter(ImageFilter.SMOOTH_MORE)
+    wc_background = wc_background.filter(ImageFilter.SMOOTH)
     return wc_background
 
 
@@ -344,63 +403,63 @@ def cloud_cover(wc, orig_image):
 # default list
 try:
     cleanURLlist()
-    urls = list(getimgURLS()) # urls from known image file
+    urls = list(readimgURLfile()) # urls from known image file
 except:
     urls = ''
-
 if (len(urls) < 100) and (random.random() < 0.85):
     # seed urls
     urls = [
         'http://www.worldwildlife.org/',
         'https://www.oxfam.org/en/frontpage',
         'http://www.doctorswithoutborders.org/',
-        'http://www.gettyimages.com/',
         'http://www.ewb-usa.org/',
         'https://www.splcenter.org/',
         'http://www.ucsusa.org/',
         'http://www.nature.com/index.html',
         'http://www.idealist.org/'
         ]
-    if random.random() > 0.75:
+    if random.random() > 0.95:
+        print("Using all URLs")
         urls = list(getallURLS())
+    else:
+        print("Using seed URLs")
 else:
     print("Using image URLs")
 
 urls = ban_urls(urls)
-
+if len(sys.argv) > 1:
+    print(sys.argv)
+    urls = [sys.argv[1], sys.argv[1]]
 baseURL, images, theTxt = get_all_the_stuff(urls)
-print('Found {} images and {} words'.format(len(images), len(theTxt)))
+print('Found {} images and {} words at {}'.format(len(images), len(theTxt), 
+        baseURL))
 
 # keep the really good ones
 if (len(images) > 20) and (len(theTxt) > 500):
+    print("Adding {} to URL file".format(baseURL))
     addURLtolist(baseURL)
     
 
 # find an image of a big enough size
-chosen = False
-random.shuffle(images)
-img = images.pop()
-imgURL1 = validate_image_link(baseURL, img)
-while not chosen:
-    try:
-        random.shuffle(images)
-        img = images.pop()
-        imgURL = validate_image_link(baseURL, img)
-        #print(imgURL)
-        imsize = get_image_size(imgURL)
-    except:
-        if imgURL == imgURL1:
-            baseURL, images, theTxt = get_all_the_stuff(urls)
-            print("starting over with {}".format(baseURL))
-    else:
-        if ((imsize[0] >= 400) | (imsize[1] >= 400)):
-            chosen = True
-        else:
-            if imgURL == imgURL1:
-                chosen = True
+#print("Images:")
+#print(images)
 
+while len(images) == 0:
+    baseURL, images, theTxt = get_all_the_stuff(urls)
+
+assert not isinstance(images, str)
+while len(images) > 0:
+    random.shuffle(images)
+    imgURL = images.pop()
+    print(imgURL)
+    im = Image.open(urllib.request.urlopen(imgURL))
+    if ((im.size[0] >= 500) | (im.size[1] >= 500)) and (im.size[0] + im.size[1] >= 700):
+        print(im.size)
+        chosen = True
+        break
+    
+print("Image selected")
 # embiggen 
-im = Image.open(urllib.request.urlopen(imgURL))
 origsize = im.size
 while (im.size[0] < 600) | (im.size[1] < 600):
     im = im.resize((int(im.size[0]*1.2), int(im.size[1]*1.2)), Image.ANTIALIAS)
@@ -415,7 +474,7 @@ maskim = make_mask(im)
 
 
 #sometimes use the mask, sometimes the original image
-if (random.random() < 0.95) and ((origsize[0] >= 400) or (origsize[1] >= 400)):
+if (random.random() < 0.6) and ((origsize[0] >= 600) or (origsize[1] >= 600)):
     print("Saving cloud + image")
     cloud = makeWC(theTxt, mask_image=maskim, mw=60)
     data = cloud_cover(cloud, im)
