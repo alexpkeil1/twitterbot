@@ -332,7 +332,6 @@ def get_all_the_stuff(urls):
         outlinks = [theURL] + list(find_links(theURL))
         outlinks = ban_urls(outlinks)
         # find a suitable page from the list of links
-        print("Trying one of {} links".format(len(outlinks)))
         baseURL, images, theTxt = pick_suitable_URL(outlinks)
         try:
             assert(baseURL is not '')
@@ -348,7 +347,7 @@ def get_all_the_stuff(urls):
                 #print("Image is a string")
                 dim0, dim1 = get_image_size(images)
                 #print('Dims {}X{}'.format(dim0, dim1))
-                if (dim0 > 500) or (dim1 > 500):
+                if (dim0 > 300) or (dim1 > 300):
                     #print("adding image")
                     ret_images = images
                 if len(theTxt) > 10:
@@ -360,14 +359,14 @@ def get_all_the_stuff(urls):
                     #print(im)
                     dim0, dim1 = get_image_size(im)
                     #print('Dims {}X{}'.format(dim0, dim1))
-                    if (dim0 > 500) or (dim1 > 500):
+                    if (dim0 > 300) or (dim1 > 300):
                         #print("adding image")
                         ret_images += [im]
                 if (len(ret_images) > 0) and (len(theTxt) > 10):
                     link = True
-                    print('Found {} suitable images'.format(len(ret_images)))
-                else:
-                    print('Found {} suitable images'.format(len(ret_images)))                    
+                    #print('Found {} suitable images'.format(len(ret_images)))
+                #else:
+                    #print('Found {} suitable images'.format(len(ret_images)))                    
     return baseURL, ret_images, theTxt
 
 
@@ -446,6 +445,7 @@ if (len(images) > 20) and (len(theTxt) > 500):
 
 while len(images) == 0:
     baseURL, images, theTxt = get_all_the_stuff(urls)
+    print("{} images at {}".format(len(images, baseURL)))
 
 assert not isinstance(images, str)
 while len(images) > 0:
