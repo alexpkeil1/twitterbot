@@ -122,7 +122,8 @@ def lookupURLs():
     From a stored file of old URLs searched, turn the old URLs into a set
     '''
     pastURLs = {}
-    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    #with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    with open(base + "Documents/programming_examples/python/twitterbot/img_urls.txt", 
               'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
@@ -225,8 +226,8 @@ if random.random() > 0.95:
 
 # use default list until the lookup list from past sites is large
 filelist = list(lookupURLs())
-if(len(filelist)>900):
-    urlList = filelist
+#if(len(filelist)>900):
+#    urlList = filelist
 
 # Search listed sites at random until a block of text is suitably tweetable
 while tweetit in pasttweets:
