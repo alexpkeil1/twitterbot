@@ -256,7 +256,7 @@ def make_mask(im):
     white = (255, 255, 255, 255)
     r,g,b,a = imgdat.copy().T
     #thresh = int(np.mean(imgdat))
-    thresh = 75
+    thresh = 100
     col_index = ((r < thresh) | 
                  (g < thresh) | 
                  (b < thresh) |
@@ -307,7 +307,7 @@ def ban_urls(urls):
                 'product', 'corporate', '#', 'media', 'secure',
                 'doubleclick', 'iads', 'financials', 'logo',
                 'feedback', 'izquotes', 'subscribe', 'header',
-                'gift', '404'
+                'gift', '404', 'store', 'Banner', 'banner'
                 ]
     for u in urls:
         keep = True
@@ -398,7 +398,8 @@ def makeWC(theText, mask_image, mw):
            'Facebook', 'Twitter', 'Pinterest', 'Flickr',
            'Google', 'Instagram', 'login', 'Login', 'Log',
            'website', 'Website', 'Contact', 'contact',
-           'twitter', 'Branding'
+           'twitter', 'Branding', 'Tweet', 'pic', 'location',
+           'Details'
            ] + list(bad_words())
     [SW.add(w) for w in mywords]
     wordcloud = WordCloud(
@@ -440,7 +441,9 @@ if (len(urls) < 100) and (random.random() < 0.85):
         'http://www.idealist.org/',
         'http://blogs.nature.com/scientificdata/',
         'http://en.unesco.org/',
-        'https://www.farmaid.org/'
+        'https://www.farmaid.org/',
+        'https://www.hrw.org/',
+        'http://www.ufw.org/'
         ]
     if random.random() > 0.95:
         print("Using all URLs")
