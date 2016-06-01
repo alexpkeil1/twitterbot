@@ -122,7 +122,8 @@ def lookupURLs():
     From a stored file of old URLs searched, turn the old URLs into a set
     '''
     pastURLs = {}
-    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    #with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    with open(base + "Documents/programming_examples/python/twitterbot/img_urls.txt", 
               'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
@@ -140,6 +141,26 @@ def addURLstolist(URLlist):
             f.writelines(URL + '\n')
 
 
+def ban_urls(urls):
+    newurls = []
+    banwords = ["donate", "contact", "terms", "conditions", "podcasts"
+                "twitter", "help", "about", "linkedin", "instagram"
+                "facebook", "privacy-policy", "shop", "retail", 
+                "products", "wifi", 'plugins', 'share', 'support',
+                'registration', 'plugins', 'signup', 'giving',
+                'promo', 'account', 'mail', 'itunes', 'sponsored',
+                'product', 'corporate', '#'
+                ]
+    for u in urls:
+        keep = True
+        for w in banwords:
+            if u.lower().find(w) > -1:
+                keep = False
+        if keep:
+            newurls.append(u)
+    return newurls
+
+
 def sortURLs():
     '''
     Sort all of the URLs in a file
@@ -149,11 +170,12 @@ def sortURLs():
               'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
-    sortedList = sorted(list(set(pastURLs)))
+    sortedList = sorted(list(set(ban_urls(pastURLs))))
     with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
               'w') as f:
         for URL in sortedList:
             f.writelines(URL + '\n')
+
 
 def get_newpages(theURL='', n=3, currlist=urlList):
     '''
@@ -186,6 +208,7 @@ def get_newpages(theURL='', n=3, currlist=urlList):
                     (page.find('\\x') == -1) &
                     (page not in currlist)
                     ]))
+            newpages = ban_urls(newpages)
             random.shuffle(newpages)
         else:
             newpages = ['']
@@ -203,8 +226,8 @@ if random.random() > 0.95:
 
 # use default list until the lookup list from past sites is large
 filelist = list(lookupURLs())
-if(len(filelist)>900):
-    urlList = filelist
+#if(len(filelist)>900):
+#    urlList = filelist
 
 # Search listed sites at random until a block of text is suitably tweetable
 while tweetit in pasttweets:

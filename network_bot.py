@@ -194,7 +194,6 @@ def get_all_nodes(DB):
     '''
     Finding all unique urls for the given relational DB (dictionary)
     '''
-    
     all_uniques = set([])
     for key, val in DB.items():
         all_uniques.add(key)
