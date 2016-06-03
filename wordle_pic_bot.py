@@ -462,7 +462,7 @@ print('Found {} images and {} words at {}'.format(len(images), len(theTxt),
         baseURL))
 
 # keep the really good ones
-if (len(images) > 20) and (len(theTxt) > 500):
+if (len(images) > 5) and (len(theTxt) > 500):
     print("Adding {} to URL file".format(baseURL))
     addURLtolist(baseURL)
     
