@@ -6507,3 +6507,4 @@ http://izquotes.com/quote/247692
 http://feeds.feedburner.com/izquotes
 http://izquotes.com/authors/search/politicians
 http://izquotes.com/quotes/money
+http://www.commondreams.org
