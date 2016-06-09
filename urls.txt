@@ -6540,3 +6540,10 @@ http://www.nytimes.com/2016/06/09/us/trial-of-third-police-officer-in-freddie-gr
 http://www.nytimes.com/section/upshot
 http://www.nytimes.com/2016/06/09/arts/television/dylan-baker-on-the-americans-finale.html
 http://wordplay.blogs.nytimes.com
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
