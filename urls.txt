@@ -7253,3 +7253,4 @@ http://engineering.stanford.edu/portals/alumni
 http://sunetid.cs.stanford.edu/backup
 http://ai.stanford.edu
 https://sunetid.cs.stanford.edu/restore
+http://www.commondreams.org
