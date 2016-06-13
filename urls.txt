@@ -44,6 +44,7 @@ http://advances.sciencemag.org/content/2/5/e1501772
 http://advances.sciencemag.org/content/2/5/e1600241
 http://advances.sciencemag.org/content/2/5/e1600375
 http://advances.sciencemag.org/content/2/6/e1600288
+http://advances.sciencemag.org/content/2/6/e1600377
 http://advances.sciencemag.org﻿
 http://advising.unc.edu/
 http://ahrqpubs.ahrq.gov/
@@ -2220,6 +2221,7 @@ http://stm.sciencemag.org/content/8/341/341ra75.abstract
 http://stm.sciencemag.org/content/8/341/341ra76.abstract
 http://stm.sciencemag.org/content/8/341/341ra77.abstract
 http://stm.sciencemag.org/content/8/342/342ra78.abstract
+http://stm.sciencemag.org/content/8/342/342ra79.abstract
 http://stm.sciencemag.org/content/8/342/342ra80.abstract
 http://stm.sciencemag.org﻿
 http://store.unc.edu/
@@ -2287,6 +2289,7 @@ http://trademark.harvard.edu/pages/worldwide-enforcement
 http://trademark.harvard.edu/people
 http://trademark.harvard.edu/policy-on-use-of-harvard-names-and-insignias
 http://trademark.harvard.edu/use-of-name-in-electronic-contexts
+http://traffic.libsyn.com/sciencemag/160610_SciencePodcast.mp3
 http://traffic.libsyn.com/sciencemag/SciencePodcast_160429.mp3
 http://traffic.libsyn.com/sciencemag/SciencePodcast_160527.mp3
 http://training.iarc.fr
@@ -6191,18 +6194,3 @@ https://www.youtube.com/user/newsobservertube
 https://www.youtube.com/user/uncssw
 https://www.zacks.com/stock/news/218918/verizon-vz-enters-tentative-deal-with-unions-to-end-strike
 https://wwwn.cdc.gov/dcs/RequestForm.aspx
-http://www.clockss.org/
-http://advances.sciencemag.org
-http://advances.sciencemag.org/content/2/6/e1600377
-http://www.sciencemag.org/content/352/6291/1261.short
-http://sciencemag.org
-http://www.fao.org/agora/en/
-http://webinar.sciencemag.org
-http://stm.sciencemag.org/content/8/337/337ra64.abstract
-http://www.who.int/hinari/en/
-http://stm.sciencemag.org/content/8/342/342ra79.abstract
-http://www.sciencemag.org/content/current
-http://www.crossref.org/
-http://www.chorusaccess.org/
-https://plus.google.com/104077269810469435941/posts
-http://traffic.libsyn.com/sciencemag/160610_SciencePodcast.mp3
