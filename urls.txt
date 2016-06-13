@@ -27059,3 +27059,5 @@ http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 https://sunetid.cs.stanford.edu/restore
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://www.stanford.edu/site/copyright.html
+http://www.commondreams.org/news/2016/06/12/mass-shooting-leaves-many-dead-wounded-orlando-gay-club
+http://www.commondreams.org
