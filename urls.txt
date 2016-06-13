@@ -6359,3 +6359,12 @@ http://highwire.org/
 http://highwire.stanford.edu/
 http://chemistry.pnas.org/
 https://www.newscientist.com/article/2085770-plants-may-form-memories-using-mad-cow-disease-proteins/
+https://wikimediafoundation.org/
+http://webdav.tuebingen.mpg.de/causality/
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.edwardtufte.com/tufte/hill
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://www.wikidata.org/wiki/Q5054566
