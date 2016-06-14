@@ -6482,3 +6482,4 @@ http://my.sph.harvard.edu
 https://www.hsph.harvard.edu/faculty/
 http://www.hsph.harvard.edu/news/features/harvard-chan-commencement-2016/
 https://www.hsph.harvard.edu/admissions/degree-programs/interdisciplinary-concentrations/
+http://www.hsph.harvard.edu/biostats/events/seminars/bigdata.html
