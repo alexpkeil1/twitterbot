@@ -6404,3 +6404,12 @@ https://sph.unc.edu/sph-news/us-news-ranks-unc-gillings-2-overall-1-public/
 http://sph.unc.edu/bios/biostatistics/
 http://sph.unc.edu/nciph/community-engaged-learning/
 http://sph.unc.edu/comm/sph-news/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://www.wikidata.org/wiki/Q5054566
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+http://clopinet.com/isabelle/Projects/NIPS2013/
