@@ -6731,3 +6731,18 @@ http://epirev.oxfordjournals.org
 http://2006.confex.com/uicc/uicc/techprogram/P7935.HTM
 http://vlab.infotech.monash.edu.au/simulations/cellular-automata/epidemic/
 
+http://www.umassmed.edu
+http://www.sciencedirect.com/science/journal/1054139X
+http://www3.interscience.wiley.com/journal/117991733/home
+http://jech.bmj.com
+http://www3.interscience.wiley.com/journal/118513116/home
+http://www.springerlink.com/content/0393-2990
+http://www.sjweh.fi
+http://epirev.oxfordjournals.org/
+http://www.sciencedirect.com/science/journal/00139351
+http://gateway.ovid.com/ovidweb.cgi?T=JS&PAGE=toc&D=ovft&MODE=ovid&NEWS=N&AN=00001648-000000000-00000
+http://www.sciencedirect.com/science/journal/2214109X
+http://search.ebscohost.com/login.aspx?direct=true&db=byh&jid=3B5&site=ehost-live
+http://lslintranet1.umassmed.edu
+http://cebp.aacrjournals.org/
+http://www.sciencedirect.com/science/journal/08954356
