@@ -8004,3 +8004,10 @@ http://www.riskanalytica.com/?q=node/73
 https://wikimediafoundation.org/
 http://www.edwardtufte.com/tufte/hill
 http://www.ph.ucla.edu/epi/snow/fatherofepidemiology.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
