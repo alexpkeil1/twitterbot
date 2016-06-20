@@ -8011,3 +8011,12 @@ http://www.cs.ucla.edu/%7Edarwiche
 http://www.cs.ucla.edu/%7Ekaoru
 http://bayes.cs.ucla.edu/csl_papers.html
 http://bayes.cs.ucla.edu/bib.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://webdav.tuebingen.mpg.de/causality/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.edwardtufte.com/tufte/hill
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
