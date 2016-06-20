@@ -7401,3 +7401,5 @@ https://www.nlm.nih.gov/medlineplus/druginformation.html
 https://www.nlm.nih.gov/medlineplus/disclaimers.html
 https://www.nlm.nih.gov/medlineplus/copyright.html
 https://www.nlm.nih.gov/medlineplus/criteria.html
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/myj16-sidebar
