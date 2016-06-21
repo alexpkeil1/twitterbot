@@ -6730,3 +6730,12 @@ http://intl.pnas.org
 https://www.newscientist.com/article/2085770-plants-may-form-memories-using-mad-cow-disease-proteins/
 http://www.nasonline.org/
 
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://webdav.tuebingen.mpg.de/causality/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
