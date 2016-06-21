@@ -8137,3 +8137,10 @@ http://www.nytimes.com/2016/06/20/arts/anton-yelchin-star-trek-actor-dies-at-27-
 http://www.nytimes.com/section/arts/television
 http://www.nytimes.com/pages/books/index.html
 http://www.nytimes.com/2016/06/20/us/decades-later-sickness-among-airmen-after-a-hydrogen-bomb-accident.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
