@@ -9597,3 +9597,12 @@ http://teachingresources.pnas.org/
 http://sustainability.pnas.org/
 http://www.nature.com/news/plant-protein-behaves-like-a-prion-1.19824
 http://frontmatter.pnas.org
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://webdav.tuebingen.mpg.de/causality/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
