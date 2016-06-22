@@ -9871,3 +9871,5 @@ http://www.cdc.gov/az/h.html
 http://wwwnc.cdc.gov/eid
 http://www.cdc.gov/az/o.html
 http://www.cdc.gov/Other/privacy.html
+https://secure.actblue.com/contribute/page/myj16-sidebar
+http://www.commondreams.org
