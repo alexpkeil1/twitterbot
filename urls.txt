@@ -10239,3 +10239,5 @@ http://www.cdc.gov/az/x.html
 http://www.cdc.gov/az/p.html
 https://jobs.cdc.gov
 http://data.cdc.gov/
+https://secure.actblue.com/contribute/page/myj16-sidebar
+http://www.commondreams.org
