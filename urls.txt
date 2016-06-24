@@ -9972,3 +9972,4 @@ http://campus-map.stanford.edu
 https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
 http://engineering.stanford.edu/portals/alumni
 http://sunetid.cs.stanford.edu/backup
+
