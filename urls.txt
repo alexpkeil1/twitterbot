@@ -10133,3 +10133,5 @@ http://pinterest.com/izquotes/
 http://izquotes.com/authors/search/popular
 http://izquotes.com/quote/247689
 http://izquotes.com/author/chuck-palahniuk
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/myj16-sidebar
