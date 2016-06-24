@@ -9814,3 +9814,18 @@ http://www.math.utah.edu/~cherk/hiawatha.html
 http://www.learn.motion.com
 http://www.math.utah.edu/~elena target=
 http://www.math.utah.edu/~elena
+http://www.bostoninteractive.com
+http://www.bbc.com/news/science-environment-36252141
+http://www.nasonline.org/
+http://classics.pnas.org
+http://teachingresources.pnas.org/
+http://highwire.org/
+http://physics.pnas.org/
+https://www.newscientist.com/article/2085770-plants-may-form-memories-using-mad-cow-disease-proteins/
+http://frontmatter.pnas.org/
+http://pnas100th.org
+http://spectrum.ieee.org/view-from-the-valley/biomedical/diagnostics/forget-the-brick-this-power-supply-for-wearables-is-soft-stretchable-and-solarpowered/
+http://anthropology.pnas.org/
+http://blog.pnas.org/
+http://www.nature.com/news/plant-protein-behaves-like-a-prion-1.19824
+http://highwire.stanford.edu/
