@@ -9929,3 +9929,5 @@ https://oig.hhs.gov
 http://www.cdc.gov/az/g.html
 http://www.cdc.gov/az/q.html
 http://www.cdc.gov/az/w.html
+https://secure.actblue.com/contribute/page/myj16-sidebar
+http://www.commondreams.org
