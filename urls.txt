@@ -10058,3 +10058,5 @@ https://www.hhs.gov/open
 http://www.cdc.gov/az/h.html
 http://wwwnc.cdc.gov/eid
 http://www.cdc.gov/az/t.html
+https://secure.actblue.com/contribute/page/myj16-sidebar
+http://www.commondreams.org
