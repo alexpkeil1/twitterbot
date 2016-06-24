@@ -10135,3 +10135,10 @@ http://izquotes.com/quote/247689
 http://izquotes.com/author/chuck-palahniuk
 http://www.commondreams.org
 https://secure.actblue.com/contribute/page/myj16-sidebar
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
