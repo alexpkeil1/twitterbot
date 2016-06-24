@@ -9989,3 +9989,12 @@ http://www.sciencedirect.com/science/journal/1054139X
 http://jech.bmj.com
 http://ajph.aphapublications.org
 
+https://wikimediafoundation.org/
+http://webdav.tuebingen.mpg.de/causality/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.edwardtufte.com/tufte/hill
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.wikidata.org/wiki/Q5054566
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
