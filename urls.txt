@@ -10612,3 +10612,4 @@ http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-sci
 http://engineering.stanford.edu/news/%E2%80%8Bstanford-engineer-bradford-parkinson-father-gps-wins-prestigious-marconi-prize
 http://visit.stanford.edu/plan/maps.html
 https://cs.stanford.edu/internal
+
