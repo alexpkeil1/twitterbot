@@ -10472,3 +10472,12 @@ http://www.math.utah.edu/~elena
 http://www.math.utah.edu/~cherk/index.html
 http://abel.math.umu.se/~frankw/lion.html
 http://extremetracking.com/open?login=jokemath
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://webdav.tuebingen.mpg.de/causality/
+http://www.edwardtufte.com/tufte/hill
+https://www.wikidata.org/wiki/Q5054566
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://wikimediafoundation.org/
