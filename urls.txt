@@ -10674,3 +10674,10 @@ http://clopinet.com/isabelle/Projects/NIPS2013/
 http://www.edwardtufte.com/tufte/hill
 http://webdav.tuebingen.mpg.de/causality/
 https://www.wikidata.org/wiki/Q5054566
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
