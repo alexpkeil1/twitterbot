@@ -10496,3 +10496,5 @@ https://www.nlm.nih.gov/medlineplus/sitemap.html
 https://www.nlm.nih.gov/medlineplus/mplusdictionary.html
 https://www.nlm.nih.gov/medlineplus/druginformation.html
 http://www.nih.gov/
+https://secure.actblue.com/contribute/page/myj16-sidebar
+http://www.commondreams.org
