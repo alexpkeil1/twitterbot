@@ -9946,3 +9946,5 @@ http://www.cdc.gov/az/p.html
 http://www2c.cdc.gov/podcasts
 http://www.cdc.gov/az/q.html
 http://www.cdc.gov/az/i.html
+http://commondreams.org/killing-messenger
+http://www.commondreams.org
