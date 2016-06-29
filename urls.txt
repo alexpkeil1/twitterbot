@@ -10055,3 +10055,12 @@ http://www.who.int/bulletin/en
 http://www.sciencedirect.com/science/journal/07493797
 http://epirev.oxfordjournals.org/
 http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=toc&SEARCH=00004848-000000000-00000.kc&LINKTYPE=asBody&LINKPOS=1&D=ovft
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+http://www.edwardtufte.com/tufte/hill
+https://www.wikidata.org/wiki/Q5054566
