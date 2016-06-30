@@ -10035,3 +10035,5 @@ http://spiderbites.nytimes.com
 http://www.nytimes.com/2016/07/01/opinion/gaza-summer-camp-under-siege.html
 http://www.nytimes.com/2016/07/01/opinion/in-syria-starving-instead-of-fasting.html
 http://www.nytimes.com/digitalleftnav
+http://www.commondreams.org
+http://commondreams.org/killing-messenger
