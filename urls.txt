@@ -10634,3 +10634,18 @@ http://advances.sciencemag.org/content/2/5/e1600375
 http://science.sciencemag.org/
 http://stm.sciencemag.org/content/8/345/345ra89.abstract
 
+http://www.hhs.gov
+https://www.nlm.nih.gov/medlineplus/sitemap.html
+https://www.nlm.nih.gov/medlineplus/fordevelopers.html
+https://www.nlm.nih.gov/medlineplus/disclaimers.html
+https://www.nlm.nih.gov/
+https://www.nlm.nih.gov/medlineplus/connect/overview.html
+https://www.nlm.nih.gov
+https://www.nlm.nih.gov/medlineplus/copyright.html
+https://www.nlm.nih.gov/medlineplus/listserv.html
+http://www.nih.gov
+https://www.nlm.nih.gov/medlineplus/
+https://www.nlm.nih.gov/medlineplus/index.html
+https://www.nlm.nih.gov/medlineplus/mplusdictionary.html
+https://www.nlm.nih.gov/medlineplus/privacy.html
+https://www.nlm.nih.gov/medlineplus/videosandcooltools.html
