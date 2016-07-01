@@ -10273,3 +10273,5 @@ http://www.omniture.com
 http://www.cdc.gov/az/p.html
 http://commondreams.org/killing-messenger
 http://www.commondreams.org
+http://commondreams.org/killing-messenger
+http://www.commondreams.org
