@@ -10524,3 +10524,12 @@ https://www.hsph.harvard.edu/academics/
 http://play.google.com/store/apps/details?id=com.mobileroadie.app_645
 http://www.harvard.edu
 https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://webdav.tuebingen.mpg.de/causality/
+http://www.edwardtufte.com/tufte/hill
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.wikidata.org/wiki/Q5054566
+https://wikimediafoundation.org/
