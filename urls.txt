@@ -10367,3 +10367,18 @@ http://www.learn.motion.com
 http://www.math.utah.edu/~elena target=
 http://extremetracking.com/open?login=jokemath
 http://www.math.utah.edu/~cherk/Pi-story.html
+http://oem.bmj.com/
+http://www.sciencedirect.com/science/journal/07493797
+http://search.ebscohost.com/login.aspx?direct=true&db=byh&jid=3B5&site=ehost-live
+http://search.ebscohost.com/login.aspx?direct=true&db=byh&jid=31I&site=ehost-live
+http://www.sciencedirect.com/science/journal/2214109X
+http://ajph.aphapublications.org
+http://www.cdc.gov/mmwr/mmwr_wk.html
+http://www.umassmed.edu
+http://www.sciencedirect.com/science/journal/08954356
+http://www.informaworld.com/1093-7404
+http://epirev.oxfordjournals.org/
+http://www.sjweh.fi
+http://www3.interscience.wiley.com/journal/118513116/home
+http://www.sciencedirect.com/science/journal/14384639
+http://ije.oxfordjournals.org
