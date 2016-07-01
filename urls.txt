@@ -10271,3 +10271,10 @@ http://www.newsobserver.com/news/local/community/chapel-hill-news/article8660099
 https://plus.google.com/u/0/+newsandobserver/
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
 http://newsobserver.theresumator.com
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
