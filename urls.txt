@@ -10620,3 +10620,4 @@ http://izquotes.com/author/peter-drucker
 http://izquotes.com/quotes/age
 http://izquotes.com/quotes/war
 http://izquotes.com/author/georg-christoph-lichtenberg
+
