@@ -10446,3 +10446,14 @@ http://www.stanford.edu/search/
 http://hci.stanford.edu
 http://www.stanford.edu/site/copyright.html
 https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
+http://www.newsobserver.com/news/local/community/chapel-hill-news/
+http://www.newsobserver.com/
+http://events.triangle.com
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
+http://www.newsobserver.com/news/local/community/chapel-hill-news/article86607882.html
+https://plus.google.com/u/0/+newsandobserver/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-sports
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-announcements-celebrations/
+https://www.pinterest.com/newsobserver/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-obituaries
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-opinion
