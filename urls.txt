@@ -10547,3 +10547,12 @@ http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 http://webdav.tuebingen.mpg.de/causality/
 https://wikimediafoundation.org/
 
+http://www.edwardtufte.com/tufte/hill
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
