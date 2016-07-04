@@ -10660,3 +10660,12 @@ http://www.sciencemag.org/content/353/6294/12.short
 http://www.aaas.org/page/employment-aaas
 http://www.sciencemag.org/content/353/6294/35.short
 http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=120329020
+http://www.edwardtufte.com/tufte/hill
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.wikidata.org/wiki/Q5054566
+http://webdav.tuebingen.mpg.de/causality/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
