@@ -10198,3 +10198,12 @@ http://engineering.stanford.edu/portals/alumni
 https://cs.stanford.edu/internal
 http://sunetid.cs.stanford.edu/backup
 http://cs.stanford.edu/degrees/undergrad/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://webdav.tuebingen.mpg.de/causality/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://www.wikidata.org/wiki/Q5054566
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.edwardtufte.com/tufte/hill
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
