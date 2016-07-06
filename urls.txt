@@ -11155,3 +11155,12 @@ http://www.nytimes.com/2016/07/01/automobiles/autoreviews/video-review-hyundais-
 http://www.nytimes.com/2016/07/06/us/us-instructs-kansas-state-to-heed-reports-of-off-campus-rape.html
 http://www.nytimes.com/2016/07/06/opinion/can-obama-pardon-millions-of-immigrants.html
 http://www.nytimes.com/pages/multimedia/index.html
+http://webdav.tuebingen.mpg.de/causality/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://www.wikidata.org/wiki/Q5054566
