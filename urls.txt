@@ -10586,3 +10586,12 @@ http://www.nytimes.com/opinionindex
 http://www.nytimes.com/2016/07/06/arts/music/j-balvin-energia-interview.html
 http://www.nytimes.com/pages/business/index.html
 http://www.nytimes.com/pages/obituaries/index.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
+http://www.edwardtufte.com/tufte/hill
+http://webdav.tuebingen.mpg.de/causality/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
