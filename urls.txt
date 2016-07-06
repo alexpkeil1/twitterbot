@@ -11432,3 +11432,10 @@ http://www.cdc.gov/od/foia
 https://www.hhs.gov/open
 http://www.cdc.gov/az/p.html
 http://www.cdc.gov/az/o.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
