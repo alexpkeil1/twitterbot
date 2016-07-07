@@ -10418,3 +10418,4 @@ http://izquotes.com/topics/
 http://izquotes.com/author/thomas-gray
 http://izquotes.com/authors/search/politicians
 http://izquotes.com/authors/search/actors
+http://www.hsph.harvard.edu/news/press-releases/poll-parents-tried-to-get-h1n1-vaccine-children/
