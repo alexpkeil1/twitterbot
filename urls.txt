@@ -10661,3 +10661,10 @@ http://www.cdc.gov/az/u.html
 http://www.cdc.gov/az/o.html
 http://www2c.cdc.gov/podcasts
 http://www.cdc.gov/az/w.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
