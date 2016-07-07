@@ -11062,3 +11062,10 @@ http://pnas100th.org
 https://www.theguardian.com/science/neurophilosophy/2016/may/31/bumblebees-electric-field-sensor-identified
 http://intl.pnas.org
 http://sustainability.pnas.org/
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
