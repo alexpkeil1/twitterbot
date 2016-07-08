@@ -11627,3 +11627,10 @@ http://blog.pnas.org/
 http://teachingresources.pnas.org/
 http://www.pnascentral.org
 http://www.latimes.com/science/sciencenow/la-sci-sn-beer-ancient-china-20160525-snap-story.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
