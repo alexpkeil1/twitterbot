@@ -11335,3 +11335,12 @@ http://jech.bmj.com
 http://www.ncbi.nlm.nih.gov/books/NBK7993/
 http://www.springer.com/public+health/book/978-3-7643-6818-0
 http://www.epi-perspectives.com
+http://webdav.tuebingen.mpg.de/causality/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.edwardtufte.com/tufte/hill
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
