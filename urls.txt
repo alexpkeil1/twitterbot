@@ -10978,3 +10978,12 @@ https://www.nlm.nih.gov/medlineplus/mplusdictionary.html
 https://www.nlm.nih.gov/medlineplus/index.html
 https://www.nlm.nih.gov/medlineplus/fordevelopers.html
 https://www.nlm.nih.gov/medlineplus/encyclopedia.html
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://www.wikidata.org/wiki/Q5054566
+https://wikimediafoundation.org/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.edwardtufte.com/tufte/hill
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://webdav.tuebingen.mpg.de/causality/
