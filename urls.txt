@@ -11312,3 +11312,10 @@ http://frontmatter.pnas.org/
 http://classics.pnas.org
 http://highwire.org/
 http://www.sciencemag.org/news/2016/05/video-how-bees-sense-flower-s-electric-field
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
