@@ -11275,3 +11275,10 @@ http://www.cdc.gov/az/j.html
 http://www.cdc.gov/az/v.html
 http://www.omniture.com
 http://www.thecommunityguide.org/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
