@@ -10550,3 +10550,10 @@ http://sph.unc.edu/five-questions-with-joy-cox/
 http://sph.unc.edu/gps/
 http://sph.unc.edu/comm/sph-news/
 https://sph.unc.edu/sph-news/unc-chapel-hill-selected-as-center-for-new-leadership-initiative-of-the-robert-wood-johnson-foundation/
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
