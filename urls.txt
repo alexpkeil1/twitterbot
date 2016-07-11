@@ -10921,3 +10921,10 @@ http://www.cdc.gov/ncbddd/disabilityandhealth/index.html
 http://www.cdc.gov/niosh/topics/noise/
 http://www.cdc.gov/od/science/integrity/hrpo/
 http://www.cdc.gov/globalhealth/countries/haiti/
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
