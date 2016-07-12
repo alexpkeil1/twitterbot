@@ -10626,3 +10626,12 @@ https://en.wikipedia.org/w/index.php?title=Epidemiology&oldid=722243968
 http://dceg.cancer.gov/
 http://www.riskanalytica.com/?q=node/73
 http://open.umich.edu/education/med/oernetwork/public-health/epidemiology/intro-epidemiology/2010
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+https://www.wikidata.org/wiki/Q5054566
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://webdav.tuebingen.mpg.de/causality/
+http://www.edwardtufte.com/tufte/hill
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
