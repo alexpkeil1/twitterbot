@@ -11825,3 +11825,10 @@ http://www.edwardtufte.com/tufte/hill
 http://clopinet.com/isabelle/Projects/NIPS2013/
 https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://webdav.tuebingen.mpg.de/causality/
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
