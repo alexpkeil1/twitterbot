@@ -12203,3 +12203,12 @@ http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-sci
 https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
 http://engineering.stanford.edu/news/%E2%80%8Bstanford-engineer-bradford-parkinson-father-gps-wins-prestigious-marconi-prize
 http://www.stanford.edu/site/copyright.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
