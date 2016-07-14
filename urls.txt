@@ -12986,3 +12986,10 @@ http://hci.stanford.edu
 http://sunetid.cs.stanford.edu/backup
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-scientist-designs-logic-curriculum-high-school
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
