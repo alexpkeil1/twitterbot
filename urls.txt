@@ -13610,3 +13610,10 @@ http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-sci
 http://engineering.stanford.edu/research-profile/stanford-toyota-collaborate-ai-research-effort-0
 http://wellness.stanford.edu/
 http://cs.stanford.edu/degrees/undergrad/
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
