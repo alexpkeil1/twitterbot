@@ -11379,3 +11379,18 @@ http://extremetracking.com/open?login=jokemath
 http://www.math.utah.edu/~elena target=
 http://www.math.utah.edu/~cherk/index.html
 http://www.math.utah.edu/~cherk/Pi-story.html
+http://izquotes.com/authors/search/actors
+http://izquotes.com/quote/247687
+http://izquotes.com/quotes/family
+http://izquotes.com/quotes/government
+http://izquotes.com/authors/search/born-on-july-25
+http://izquotes.com/quotes/experience
+http://izquotes.com/author/willa-cather
+http://izquotes.com/topics/
+http://izquotes.com/author/sarah-palin
+http://izquotes.com/quote/247695
+http://izquotes.com/quotes/age
+http://izquotes.com/author/richard-dawkins
+http://izquotes.com/author/dennis-lindley
+http://izquotes.com/quote/247697
+http://izquotes.com/author/dwight-d.-eisenhower
