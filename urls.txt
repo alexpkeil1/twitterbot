@@ -11424,3 +11424,10 @@ https://pt.wikipedia.org/wiki/Epidemiologia
 https://fa.wikipedia.org/wiki/%D9%87%D9%85%D9%87%E2%80%8C%DA%AF%DB%8C%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C
 https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%94
 http://www.blackwellpublishing.com/journal.asp?ref=0269-5022
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
