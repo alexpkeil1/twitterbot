@@ -12483,3 +12483,18 @@ https://www.wikidata.org/wiki/Q5054566
 http://webdav.tuebingen.mpg.de/causality/
 https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 
+https://medlineplus.gov/mplusdictionary.html
+https://medlineplus.gov/druginformation.html
+https://medlineplus.gov/accessibility.html
+https://medlineplus.gov/disclaimers.html
+https://medlineplus.gov/connect/overview.html
+https://medlineplus.gov/encyclopedia.html
+http://www.hhs.gov
+https://medlineplus.gov/sitemap.html
+https://medlineplus.gov/index.html
+http://www.nih.gov
+https://www.nlm.nih.gov/
+http://www.nih.gov/
+https://medlineplus.gov/
+https://www.nlm.nih.gov
+https://medlineplus.gov/fordevelopers.html
