@@ -12234,3 +12234,14 @@ http://jech.bmj.com
 http://gateway.ovid.com/ovidweb.cgi?T=JS&PAGE=toc&D=ovft&MODE=ovid&NEWS=N&AN=00001648-000000000-00000
 http://www3.interscience.wiley.com/journal/118513116/home
 http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=toc&SEARCH=00004848-000000000-00000.kc&LINKTYPE=asBody&LINKPOS=1&D=ovft
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+http://www.edwardtufte.com/tufte/hill
