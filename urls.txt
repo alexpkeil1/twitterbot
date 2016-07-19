@@ -13174,3 +13174,14 @@ http://www.iea-europe.org/index.htm
 https://gl.wikipedia.org/wiki/Epidemiolox%C3%ADa
 https://id.wikipedia.org/wiki/Epidemiologi
 https://simple.wikipedia.org/wiki/Epidemiology
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://www.wikidata.org/wiki/Q5054566
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://webdav.tuebingen.mpg.de/causality/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://clopinet.com/isabelle/Projects/NIPS2013/
