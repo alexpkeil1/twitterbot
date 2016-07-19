@@ -13098,3 +13098,10 @@ http://www.nytimes.com/2016/07/19/opinion/the-most-extreme-republican-platform-i
 http://www.nytco.com/careers
 http://www.nytimes.com/2016/07/18/upshot/confused-by-contradictory-polls-take-a-step-back.html
 http://www.nytimes.com/pages/business/international/index.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
