@@ -11776,3 +11776,10 @@ http://www.harvard.edu/copyright-issue
 https://www.hsph.harvard.edu/social-and-behavioral-sciences/inaugural-forum-on-population-health-equity-3/
 http://my.sph.harvard.edu
 https://www.hsph.harvard.edu/news/press-releases/
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
