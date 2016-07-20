@@ -11501,3 +11501,4 @@ http://engineering.stanford.edu/research-profile/stanford-toyota-collaborate-ai-
 http://cvgl.stanford.edu/projects/jackrabbot/
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://engineering.stanford.edu/news/%E2%80%8Bstanford-engineer-bradford-parkinson-father-gps-wins-prestigious-marconi-prize
+
