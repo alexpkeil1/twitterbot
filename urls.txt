@@ -11957,3 +11957,18 @@ http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://cvgl.stanford.edu/projects/jackrabbot/
 https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
 
+http://www.bostoninteractive.com
+http://chemistry.pnas.org/
+http://glencoesoftware.com/
+http://pnas100th.org
+http://www.sciencemag.org/news/2016/06/parrots-songbirds-pack-more-neurons-their-forebrains-most-mammals
+http://intl.pnas.org
+http://frontmatter.pnas.org/
+http://physics.pnas.org/
+http://blog.pnas.org/
+http://www.publicfinanceinternational.org/news/2016/06/refugees-boost-economy-host-communities-finds-study
+http://www.pnascentral.org
+http://frontmatter.pnas.org
+http://www.nasonline.org/
+http://www.voanews.com/content/in-rwanda-refugees-generate-income-for-surrounding-communities/3386710.html
+http://highwire.stanford.edu/
