@@ -11796,3 +11796,26 @@ http://bayes.cs.ucla.edu/jp_home.html
 http://bayes.cs.ucla.edu/bib.html
 http://www.cs.ucla.edu/%7Edarwiche
 
+
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
+http://ai.stanford.edu
+http://engineering.stanford.edu/portals/alumni
+http://www.stanford.edu/search/
+http://sunetid.cs.stanford.edu/backup
+http://engineering.stanford.edu/research-profile/stanford-toyota-collaborate-ai-research-effort-0
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+http://engineering.stanford.edu/news/david-dill-why-online-voting-danger-democracy
+http://engineering.stanford.edu/news/%E2%80%8Bstanford-engineer-bradford-parkinson-father-gps-wins-prestigious-marconi-prize
+https://cs.stanford.edu/internal
+http://visit.stanford.edu/plan/maps.html
+https://sunetid.cs.stanford.edu/restore
+http://cs.stanford.edu/degrees/undergrad/
+http://engineering.stanford.edu/news/%E2%80%8Bkathleen-eisenhardt-how-turbo-charge-innovation
+http://campus-map.stanford.edu
