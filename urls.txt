@@ -11339,3 +11339,10 @@ http://stke.sciencemag.org/content/9/437/ra72.abstract
 http://translationalmedicine.sciencemag.org
 http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=120329020
 http://www.sciencemag.org/content/353/6297/332.short
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
