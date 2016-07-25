@@ -12385,3 +12385,4 @@ http://www.cdc.gov/hai/settings/lab/CCalgorithm.html
 http://www.cdc.gov/HAI/settings/lab/labDetectionCoagulase_negative.html
 http://www.cdc.gov/HAI/settings/lab/vrsa_lab_search_containment.html
 http://www.cdc.gov/az/w.html
+
