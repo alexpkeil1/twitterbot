@@ -11969,3 +11969,14 @@ http://jech.bmj.com
 http://oem.bmj.com/
 http://lslintranet1.umassmed.edu
 http://ajph.aphapublications.org
+http://events.triangle.com
+http://www.newsobserver.com/news/local/community/chapel-hill-news/
+https://plus.google.com/u/0/+newsandobserver/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-obituaries
+http://www.newsobserver.com/news/local/community/chapel-hill-news/article88294827.html
+http://www.newsobserver.com/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-announcements-celebrations/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-opinion
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
+https://www.pinterest.com/newsobserver/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-sports
