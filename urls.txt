@@ -12143,3 +12143,4 @@ http://www.stanford.edu/site/copyright.html
 http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-scientist-designs-logic-curriculum-high-school
 http://visit.stanford.edu/plan/maps.html
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+
