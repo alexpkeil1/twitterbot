@@ -11947,3 +11947,10 @@ http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
 https://www.wikidata.org/wiki/Q5054566
 http://clopinet.com/isabelle/Projects/NIPS2013/
 https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
