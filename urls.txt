@@ -11773,3 +11773,14 @@ https://www.usa.gov/
 https://jobs.cdc.gov
 https://www.hhs.gov/open
 http://phil.cdc.gov/phil/
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=724548322
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.edwardtufte.com/tufte/hill
+https://www.wikidata.org/wiki/Q5054566
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/
+http://clopinet.com/isabelle/Projects/NIPS2013/
