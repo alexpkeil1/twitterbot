@@ -12010,3 +12010,10 @@ http://ga.renci.org/static/sphmaps/uncsph.html
 https://sph.unc.edu/sph-news/epidemiology-student-selected-for-forbes-30-under-30-list-of-rising-stars/
 https://sph.unc.edu/alumni-pages/alumni/
 http://mondaymorning.web.unc.edu/in-praise-of-diversity-inclusion-and-civility/
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
