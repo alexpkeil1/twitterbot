@@ -12815,3 +12815,16 @@ http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=120329020
 http://www.sciencemag.org/content/353/6297/350.short
 http://immunology.sciencemag.org
 http://www.sciencemag.org/content/353/6297/348.short
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=731706596
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.edwardtufte.com/tufte/hill
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://www.wikidata.org/wiki/Q5054566
+http://www.skleinberg.org/teaching/CI15/index.html
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/
