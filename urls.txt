@@ -12747,3 +12747,10 @@ https://zh.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6
 https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
 https://pt.wikipedia.org/wiki/Epidemiologia
 https://ia.wikipedia.org/wiki/Epidemiologia
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
