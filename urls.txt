@@ -12859,3 +12859,10 @@ http://izquotes.com/quotes/power
 http://izquotes.com/author/e.-m.-forster
 http://izquotes.com/quotes/experience
 http://izquotes.com/quotes/history
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
