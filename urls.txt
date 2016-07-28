@@ -13597,3 +13597,18 @@ http://www.cdc.gov/injectionsafety/
 http://www.cdc.gov/Other/plugins/#ram
 http://www.cdc.gov/Other/plugins/#qt
 
+http://campus-map.stanford.edu
+http://www.stanford.edu/site/copyright.html
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://wellness.stanford.edu/
+http://cs.stanford.edu/degrees/undergrad/
+http://engineering.stanford.edu/portals/alumni
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+http://hci.stanford.edu
+https://sunetid.cs.stanford.edu/restore
+http://visit.stanford.edu/plan/maps.html
+http://ai.stanford.edu
+http://engineering.stanford.edu/news/david-dill-why-online-voting-danger-democracy
+http://www.stanford.edu/search/
+https://cs.stanford.edu/internal
+https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
