@@ -11855,3 +11855,10 @@ http://www.iea-europe.org/index.htm
 https://arz.wikipedia.org/wiki/%D8%A7%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D9%85%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7
 https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_t%E1%BB%85_h%E1%BB%8Dc
 https://zh.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
