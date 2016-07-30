@@ -11991,3 +11991,18 @@ http://www.math.utah.edu/~cherk/mathonline.html
 http://www.math.utah.edu/~elena target=
 http://v.extreme-dm.com/?login=cherk1
 http://abel.math.umu.se/~frankw/lion.html
+http://wwwnc.cdc.gov/eid
+https://www.hhs.gov/open
+http://www.cdc.gov/pcd/
+https://jobs.cdc.gov
+http://www.cdc.gov/
+http://data.cdc.gov/
+http://stacks.cdc.gov/mmwr
+http://www.omniture.com
+http://phil.cdc.gov/phil/
+http://www.cdc.gov/VitalSigns/
+https://oig.hhs.gov
+http://www.cdc.gov/media/
+https://www.hhs.gov
+https://www.usa.gov/
+http://www.cdc.gov/library/
