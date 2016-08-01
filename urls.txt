@@ -12669,3 +12669,14 @@ http://www.cdc.gov/media/
 https://jobs.cdc.gov
 http://data.cdc.gov/
 http://wwwnc.cdc.gov/eid
+https://plus.google.com/u/0/+newsandobserver/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-sports
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-obituaries
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
+http://events.triangle.com
+http://www.newsobserver.com/sports/high-school/article92772252.html
+https://www.pinterest.com/newsobserver/
+http://www.newsobserver.com/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-opinion
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-announcements-celebrations/
