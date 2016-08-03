@@ -12853,3 +12853,10 @@ http://www.sciencemag.jp/
 http://traffic.libsyn.com/sciencemag/160729_SciencePodcast.mp3
 http://www.sciencemag.org/content/353/6298/437.short
 http://www.sciencemag.org/content/353/6298/448.short
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
