@@ -12803,3 +12803,10 @@ http://sustainability.pnas.org/
 http://www.voanews.com/content/in-rwanda-refugees-generate-income-for-surrounding-communities/3386710.html
 https://www.theguardian.com/science/2016/jun/13/bird-brained-and-proud-densely-packed-neurons-give-birds-intellectual-edge
 http://www.sciencemag.org/news/2016/06/parrots-songbirds-pack-more-neurons-their-forebrains-most-mammals
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
