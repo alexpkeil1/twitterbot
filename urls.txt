@@ -12368,3 +12368,10 @@ https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://www.edwardtufte.com/tufte/hill
 https://skydrive.live.com/?cid=ec4d1867f6389ec0&id=EC4D1867F6389EC0%21183
 http://epirev.oxfordjournals.org
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
