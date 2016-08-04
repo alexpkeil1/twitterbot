@@ -12549,3 +12549,5 @@ http://www.cdc.gov/pcd/
 http://www.cdc.gov/library/
 http://www.cdc.gov/media/
 https://www.hhs.gov
+http://www.commondreams.org
+https://www.surveymonkey.com/r/97D2YVS
