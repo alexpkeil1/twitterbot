@@ -14066,3 +14066,10 @@ http://execed.sph.harvard.edu/executive-education-program-portfolio?loc=l
 https://www.hsph.harvard.edu/news/features/
 https://www.hsph.harvard.edu/registrar/academic-calendar/
 https://ecpe.sph.harvard.edu/
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
