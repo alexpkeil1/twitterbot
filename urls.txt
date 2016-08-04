@@ -12818,3 +12818,5 @@ http://www.ics.uci.edu/%7Edechter
 http://bayes.cs.ucla.edu/bib.html
 http://bayes.cs.ucla.edu/csl_papers.html
 http://bayes.cs.ucla.edu/jp_home.html
+https://www.surveymonkey.com/r/97D2YVS
+http://www.commondreams.org
