@@ -12700,3 +12700,5 @@ http://sunetid.cs.stanford.edu/backup
 http://www.stanford.edu/search/
 http://engineering.stanford.edu/news/david-dill-why-online-voting-danger-democracy
 http://hci.stanford.edu
+http://www.commondreams.org
+https://www.surveymonkey.com/r/97D2YVS
