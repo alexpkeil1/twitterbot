@@ -14075,3 +14075,6 @@ http://www.cs.ucla.edu/%7Ejudea
 http://www.cs.ucla.edu/%7Edarwiche
 http://www.commondreams.org
 https://www.surveymonkey.com/r/97D2YVS
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
