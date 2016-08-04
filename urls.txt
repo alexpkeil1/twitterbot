@@ -13569,3 +13569,5 @@ https://cs.wikipedia.org/wiki/Epidemiologie
 https://sco.wikipedia.org/wiki/Epidemiology
 https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://www.springer.com/public+health/book/978-3-7643-6818-0
+https://www.surveymonkey.com/r/97D2YVS
+http://www.commondreams.org
