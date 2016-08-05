@@ -13357,3 +13357,10 @@ http://sph.unc.edu/hb/health-behavior-home/
 http://sph.unc.edu/comm/sph-news/
 http://sph.unc.edu/students/admitted-students/
 http://sph.unc.edu/sph-news/study-finds-low-income-students-and-hispanic-students-disproportionately-exposed-to-tobacco-fast-food-near-schools/
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
