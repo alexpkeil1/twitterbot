@@ -13140,3 +13140,10 @@ http://mondaymorning.web.unc.edu/
 http://sph.unc.edu/nciph/nciph-home/
 https://sph.unc.edu/cphm/public-health-hero/
 http://sph.unc.edu/gps/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
