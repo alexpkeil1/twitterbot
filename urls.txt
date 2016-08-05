@@ -13548,3 +13548,5 @@ https://medlineplus.gov/sitemap.html
 https://medlineplus.gov/accessibility.html
 https://medlineplus.gov/druginformation.html
 https://medlineplus.gov/healthtopics.html
+http://www.commondreams.org
+https://www.surveymonkey.com/r/97D2YVS
