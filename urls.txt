@@ -13856,3 +13856,10 @@ http://www.nytimes.com/ref/classifieds/
 http://www.nytimes.com/pages/arts/international/index.html
 https://www.surveymonkey.com/r/97D2YVS
 http://www.commondreams.org
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
