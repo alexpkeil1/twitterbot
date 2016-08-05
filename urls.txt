@@ -13239,3 +13239,5 @@ http://www.nasonline.org/
 http://classics.pnas.org
 https://www.surveymonkey.com/r/97D2YVS
 http://www.commondreams.org
+https://www.surveymonkey.com/r/97D2YVS
+http://www.commondreams.org
