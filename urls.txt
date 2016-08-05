@@ -13310,3 +13310,5 @@ http://www.aaas.org/page/employment-aaas
 http://advances.sciencemag.org/content/2/8/e1600480
 http://www.sciencemag.org/content/353/6299/531.short
 http://stm.sciencemag.org
+https://www.surveymonkey.com/r/97D2YVS
+http://www.commondreams.org
