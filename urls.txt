@@ -13863,3 +13863,6 @@ http://bayes.cs.ucla.edu/csl_papers.html
 http://www.cs.ucla.edu/%7Edarwiche
 http://www.ics.uci.edu/%7Edechter
 http://www.cs.ucla.edu/%7Ekaoru
+http://archive.sph.harvard.edu/cas/Documents/tobacco/tobacco_pr.html
+http://archive.sph.harvard.edu/cas/
+http://archive.sph.harvard.edu/cas/Documents/tobacco/
