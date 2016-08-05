@@ -13580,3 +13580,5 @@ http://sunetid.cs.stanford.edu/backup
 http://www.stanford.edu/search/
 http://visit.stanford.edu/plan/maps.html
 https://sunetid.cs.stanford.edu/restore
+http://www.commondreams.org
+https://www.surveymonkey.com/r/97D2YVS
