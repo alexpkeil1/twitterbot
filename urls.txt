@@ -12967,3 +12967,6 @@ http://bayes.cs.ucla.edu/csl_papers.html
 http://bayes.cs.ucla.edu/bib.html
 http://www.commondreams.org
 https://www.surveymonkey.com/r/97D2YVS
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
