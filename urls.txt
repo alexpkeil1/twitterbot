@@ -13854,3 +13854,5 @@ http://www.nytimes.com/pages/realestate/index.html
 http://www.nytimes.com/2016/08/05/theater/for-the-scene-stealers-of-the-curious-incident-a-happy-second-act-in-dog-years.html
 http://www.nytimes.com/ref/classifieds/
 http://www.nytimes.com/pages/arts/international/index.html
+https://www.surveymonkey.com/r/97D2YVS
+http://www.commondreams.org
