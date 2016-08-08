@@ -14578,3 +14578,6 @@ http://www.triangle.com/galleries/nightlife/#search_venues
 http://www.artsnownc.com
 http://events.triangle.com/movies.aspx
 http://www.triangle.com/galleries/nightlife/#search_events
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
