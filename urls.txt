@@ -15385,3 +15385,10 @@ http://www.sciencemag.org/content/353/6295/158.short
 http://stke.sciencemag.org/content/9/439/ra78.abstract
 http://www.sciencemag.org/content/353/6299/583.short
 http://www.sciencemagchina.cn/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
