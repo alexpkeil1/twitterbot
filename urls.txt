@@ -15886,3 +15886,10 @@ http://delivery.amessagewithabottle.com/www/delivery/ck.php?n=ac204ac1&cb=INSERT
 http://izquotes.com/authors/search/lawyers
 http://izquotes.com/quotes/power
 http://izquotes.com/author/nicolas-chamfort
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
