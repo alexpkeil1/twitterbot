@@ -15893,3 +15893,6 @@ http://www.ics.uci.edu/%7Edechter
 http://www.cs.ucla.edu/%7Ejudea
 http://bayes.cs.ucla.edu/bib.html
 http://bayes.cs.ucla.edu/jp_home.html
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
