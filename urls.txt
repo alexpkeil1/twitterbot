@@ -12678,3 +12678,10 @@ http://www.nytimes.com/section/magazine
 http://www.nytimes.com/section/arts
 http://www.nytimes.com/2016/08/07/realestate/new-york-buildings-with-communal-gardens.html
 http://www.nytimes.com/2016/08/10/business/dealbook/jefferies-free-of-the-restraints-of-bigger-banks-is-emboldened.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
