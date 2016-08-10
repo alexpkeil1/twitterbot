@@ -12918,3 +12918,4 @@ http://hci.stanford.edu
 http://cs.stanford.edu/degrees/undergrad/
 http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-scientist-designs-logic-curriculum-high-school
 http://engineering.stanford.edu/portals/alumni
+
