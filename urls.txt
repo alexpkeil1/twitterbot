@@ -12658,3 +12658,5 @@ http://stacks.cdc.gov/mmwr
 http://www.omniture.com
 http://www.cdc.gov/pcd/
 http://www.sciencemag.org/content/353/6296/232.short
+https://www.hsph.harvard.edu/news/hsph-in-the-news/gymnasts-flame-retardants-foam-safety-equipment-carignan/
+http://www.nytimes.com/2016/07/24/opinion/campaign-stops/behind-hillarys-mask.html
