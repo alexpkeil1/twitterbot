@@ -13697,3 +13697,18 @@ http://extremetracking.com/open?login=jokemath
 http://www.learn.motion.com
 http://www.math.utah.edu/~elena target=
 http://v.extreme-dm.com/?login=cherk1
+http://phil.cdc.gov/phil/
+https://jobs.cdc.gov
+http://www.cdc.gov/VitalSigns/
+http://data.cdc.gov/
+https://www.hhs.gov/open
+https://oig.hhs.gov
+https://www.usa.gov/
+http://wwwnc.cdc.gov/eid
+http://www.omniture.com
+http://www.cdc.gov/media/
+http://www.cdc.gov/library/
+http://stacks.cdc.gov/mmwr
+https://www.instagram.com/CDCgov/
+http://www.thecommunityguide.org/
+https://www.hhs.gov
