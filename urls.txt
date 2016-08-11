@@ -13638,3 +13638,10 @@ https://cs.wikipedia.org/wiki/Epidemiologie
 http://www.ph.ucla.edu/epi/snow/importance.html
 https://be-x-old.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D1%8F%D0%BB%D1%91%D0%B3%D1%96%D1%8F
 https://hu.wikipedia.org/wiki/J%C3%A1rv%C3%A1nytan
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
