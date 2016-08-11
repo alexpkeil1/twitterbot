@@ -13743,3 +13743,18 @@ http://www.pnascentral.org
 http://www.bostoninteractive.com
 http://www.latimes.com/science/sciencenow/la-sci-sn-chocolate-electric-beam-20160620-snap-story.html
 
+http://www.hhs.gov
+https://medlineplus.gov/faq/faq.html
+https://medlineplus.gov/fordevelopers.html
+https://medlineplus.gov/connect/overview.html
+https://medlineplus.gov/encyclopedia.html
+https://medlineplus.gov/accessibility.html
+https://medlineplus.gov/healthtopics.html
+https://www.nlm.nih.gov/
+https://medlineplus.gov/privacy.html
+https://medlineplus.gov/listserv.html
+https://medlineplus.gov/
+https://medlineplus.gov/spanish/medlineplus.html
+https://medlineplus.gov/sitemap.html
+https://medlineplus.gov/criteria.html
+https://www.nlm.nih.gov
