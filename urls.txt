@@ -13548,3 +13548,4 @@ http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://cvgl.stanford.edu/projects/jackrabbot/
+http://www.commondreams.org
