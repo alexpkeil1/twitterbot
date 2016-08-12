@@ -14123,3 +14123,10 @@ https://medlineplus.gov/accessibility.html
 https://medlineplus.gov/spanish/medlineplus.html
 https://medlineplus.gov/healthtopics.html
 https://medlineplus.gov/mplusdictionary.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
