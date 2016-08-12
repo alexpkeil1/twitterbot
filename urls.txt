@@ -13656,3 +13656,4 @@ http://adminguide.stanford.edu/ch6contents.html
 http://www.stanford.edu/search/
 http://engineering.stanford.edu/news/%E2%80%8Bkathleen-eisenhardt-how-turbo-charge-innovation
 http://engineering.stanford.edu/research-profile/stanford-toyota-collaborate-ai-research-effort-0
+
