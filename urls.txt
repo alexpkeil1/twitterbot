@@ -12970,3 +12970,6 @@ http://www.sciencemag.org/content/353/6300/635.short
 http://immunology.sciencemag.org/
 http://www.sciencemag.org/content/353/6300/648.short
 http://www.aaas.org/
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
