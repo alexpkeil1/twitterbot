@@ -15216,3 +15216,10 @@ http://www.chorusaccess.org/
 http://www.aaas.org/page/employment-aaas
 http://stke.sciencemag.org/content/9/440/rs8.abstract
 http://www.crossref.org/
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
