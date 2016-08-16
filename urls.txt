@@ -15845,3 +15845,4 @@ http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-sci
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://engineering.stanford.edu/news/%E2%80%8Bkathleen-eisenhardt-how-turbo-charge-innovation
 https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-artificial-intelligence
+http://www.commondreams.org
