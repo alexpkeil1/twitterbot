@@ -15364,3 +15364,6 @@ http://engineering.stanford.edu/news/%E2%80%8Bkathleen-eisenhardt-how-turbo-char
 http://engineering.stanford.edu/research-profile/stanford-toyota-collaborate-ai-research-effort-0
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://wellness.stanford.edu/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
