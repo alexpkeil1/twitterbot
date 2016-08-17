@@ -16627,3 +16627,16 @@ https://engineering.stanford.edu/news/russ-altman-and-fei-fei-li-what-future-art
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://engineering.stanford.edu/research-profile/%E2%80%8B-stanford-computer-scientist-designs-logic-curriculum-high-school
 https://sunetid.cs.stanford.edu/restore
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://webdav.tuebingen.mpg.de/causality/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=732410015
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://www.wikidata.org/wiki/Q5054566
+http://www.skleinberg.org/teaching/CI15/index.html
+http://www.edwardtufte.com/tufte/hill
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://wikimediafoundation.org/
+http://clopinet.com/isabelle/Projects/NIPS2013/
