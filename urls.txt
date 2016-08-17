@@ -16073,3 +16073,10 @@ https://www.wikidata.org/wiki/Q5054566
 https://wikimediafoundation.org/
 http://www.edwardtufte.com/tufte/hill
 https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
