@@ -16743,3 +16743,18 @@ http://izquotes.com/quotes/truth
 http://izquotes.com/authors/search/musicians
 http://izquotes.com/quotes/work
 
+http://www.nih.gov/
+http://www.hhs.gov
+https://medlineplus.gov/accessibility.html
+https://medlineplus.gov/mplusdictionary.html
+https://medlineplus.gov/healthtopics.html
+https://medlineplus.gov/encyclopedia.html
+https://medlineplus.gov/druginformation.html
+https://www.nlm.nih.gov
+https://medlineplus.gov/copyright.html
+https://medlineplus.gov/
+https://medlineplus.gov/disclaimers.html
+https://medlineplus.gov/connect/overview.html
+https://medlineplus.gov/privacy.html
+https://medlineplus.gov/criteria.html
+https://www.nlm.nih.gov/
