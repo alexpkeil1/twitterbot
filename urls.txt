@@ -16703,3 +16703,6 @@ http://immunology.sciencemag.org/content/1/2/aag2045
 http://science.sciencemag.org/content/early/recent
 http://immunology.sciencemag.org/content/1/2/aaf8943
 http://stke.sciencemag.org/
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
