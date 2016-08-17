@@ -17024,3 +17024,16 @@ http://www.ph.ucla.edu/epi/snow/importance.html
 https://sr.wikipedia.org/wiki/%D0%95%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0
 https://hu.wikipedia.org/wiki/J%C3%A1rv%C3%A1nytan
 https://no.wikipedia.org/wiki/Epidemiologi
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.edwardtufte.com/tufte/hill
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=732410015
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.wikidata.org/wiki/Q5054566
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/
+http://www.skleinberg.org/teaching/CI15/index.html
+http://webdav.tuebingen.mpg.de/causality/
