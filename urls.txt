@@ -16681,3 +16681,10 @@ http://www.cdc.gov/
 https://jobs.cdc.gov
 http://stacks.cdc.gov/mmwr
 http://www.thecommunityguide.org/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
