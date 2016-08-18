@@ -13968,3 +13968,10 @@ http://stm.sciencemag.org/content/8/352/352ra109.abstract
 http://www.aaas.org/
 http://www.sciencemag.org/content/353/6298/488.short
 http://immunology.sciencemag.org/content/1/2/aaf8943
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
