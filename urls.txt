@@ -13813,3 +13813,4 @@ https://no.wikipedia.org/wiki/Epidemiologi
 http://www.iea-europe.org/index.htm
 https://eu.wikipedia.org/wiki/Epidemiologia
 http://vlab.infotech.monash.edu.au/simulations/cellular-automata/epidemic/
+
