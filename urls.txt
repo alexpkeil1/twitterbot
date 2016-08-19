@@ -13394,3 +13394,14 @@ http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://engineering.stanford.edu/portals/alumni
 http://visit.stanford.edu/plan/maps.html
 http://campus-map.stanford.edu
+http://www.math.utah.edu/~cherk/puzzles.html
+http://www.learn.motion.com
+http://extremetracking.com/open?login=jokemath
+http://abel.math.umu.se/~frankw/lion.html
+http://v.extreme-dm.com/?login=cherk1
+http://www.math.utah.edu/~cherk/index.html
+http://www.math.utah.edu/~elena target=
+http://www.math.utah.edu/~cherk/Pi-story.html
+http://www.math.utah.edu/~cherk/mathonline.html
+http://www.math.utah.edu/~cherk/hiawatha.html
+http://www.math.utah.edu/~elena
