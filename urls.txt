@@ -14661,3 +14661,5 @@ https://medlineplus.gov/disclaimers.html
 https://medlineplus.gov/encyclopedia.html
 https://medlineplus.gov/index.html
 http://www.nih.gov/
+http://www.commondreams.org/against-odds
+http://www.commondreams.org
