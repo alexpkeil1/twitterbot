@@ -14628,3 +14628,10 @@ http://www.clockss.org/
 http://www.sciencemag.org/content/351/6278/1154.short
 http://jobs.sciencecareers.org/?_ga=1.155765947.1469154522.1409920411
 http://www.projectcounter.org/
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
