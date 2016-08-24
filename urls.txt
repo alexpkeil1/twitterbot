@@ -14952,3 +14952,5 @@ http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
 http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 https://wikimediafoundation.org/wiki/Privacy_policy
 http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+http://www.commondreams.org
+http://www.commondreams.org/against-odds
