@@ -15989,3 +15989,5 @@ http://id.ndl.go.jp/auth/ndlna/00561888
 http://dceg.cancer.gov/
 https://gl.wikipedia.org/wiki/Epidemiolox%C3%ADa
 
+http://www.commondreams.org
+http://www.commondreams.org/against-odds
