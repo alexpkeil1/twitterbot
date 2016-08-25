@@ -14797,3 +14797,10 @@ http://anthropology.pnas.org/
 http://physics.pnas.org/
 http://www.csmonitor.com/Science/2016/0707/Life-on-Titan-Look-in-the-tidal-pools-say-scientists
 http://teachingresources.pnas.org/
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
