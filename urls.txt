@@ -14441,3 +14441,16 @@ http://www.cdc.gov/mmwr/volumes/65/wr/mm6533e1.htm?s_cid=mm6533e1_w
 http://phil.cdc.gov/phil/
 http://wwwnc.cdc.gov/eid
 http://www.cdc.gov/pcd/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=732410015
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.edwardtufte.com/tufte/hill
+http://webdav.tuebingen.mpg.de/causality/
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.skleinberg.org/teaching/CI15/index.html
