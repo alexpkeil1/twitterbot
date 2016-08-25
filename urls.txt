@@ -14239,3 +14239,10 @@ http://Anthropology.pnas.org/
 http://physics.pnas.org/
 https://www.washingtonpost.com/news/speaking-of-science/wp/2016/07/07/saturns-moon-titan-could-have-the-right-chemistry-for-life/
 http://www.csmonitor.com/Science/2016/0707/Life-on-Titan-Look-in-the-tidal-pools-say-scientists
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
