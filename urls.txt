@@ -14440,3 +14440,18 @@ http://www.learn.motion.com
 http://www.math.utah.edu/~elena target=
 http://www.math.utah.edu/~cherk/hiawatha.html
 http://www.math.utah.edu/~cherk/Pi-story.html
+http://adminguide.stanford.edu/ch6contents.html
+https://engineering.stanford.edu/news/arvind-krishna-another-revolution-coming-and-it-s-ai
+http://hci.stanford.edu
+https://engineering.stanford.edu/news/what-dark-data-and-how-bringing-it-light-will-impact-society
+http://engineering.stanford.edu/connect/alumni
+http://ai.stanford.edu
+http://engineering.stanford.edu/research-profile/stanford-toyota-collaborate-ai-research-effort-0
+http://sunetid.cs.stanford.edu/backup
+https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+https://sunetid.cs.stanford.edu/restore
+http://www.stanford.edu/search/
+http://visit.stanford.edu/plan/maps.html
+https://engineering.stanford.edu/news/anshul-kundaje-machine-learning-decode-genome
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+http://cvgl.stanford.edu/projects/jackrabbot/
