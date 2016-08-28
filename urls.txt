@@ -14630,3 +14630,5 @@ http://orcid.org/about/what-is-orcid/mission
 http://orcid.org/content/adoption-and-integration-program
 http://orcid.org/content/orcid-public-data-file-use-policy
 http://orcid.org/about/membership
+http://www.nytimes.com/interactive/2016/07/04/t-magazine/monica-vitti-eileen-gray-le-corbusier-frank-lloyd-wright-houses.html
+http://www.nlm.nih.gov/training.html
