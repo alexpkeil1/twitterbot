@@ -14942,3 +14942,5 @@ http://cebp.aacrjournals.org
 http://www.npr.org/templates/story/story.php?storyId=3935461
 https://it.wikipedia.org/wiki/Epidemiologia
 http://statprob.com/encyclopedia/AndersonGrayMcKENDRICK.html
+http://www.commondreams.org/where-we-are-going
+http://www.commondreams.org
