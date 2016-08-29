@@ -15052,3 +15052,10 @@ http://sunetid.cs.stanford.edu/backup
 http://cvgl.stanford.edu/projects/jackrabbot/
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 https://sunetid.cs.stanford.edu/restore
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
