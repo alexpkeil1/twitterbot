@@ -14750,3 +14750,5 @@ http://mobile.nytimes.com/technology/
 http://mobile.nytimes.com/international/style/
 http://www.sciencemag.org/content/352/6293/1508.short
 http://www.sciencemag.org/content/353/6295/106.short
+https://www.youtube.com/embed/AkCQmk-P_9s?showinfo=0&autoplay=1
+http://www.nytimes.com/interactive/2016/08/01/us/elections/nine-percent-of-america-selected-trump-and-clinton.html
