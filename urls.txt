@@ -14816,3 +14816,10 @@ http://www.learn.motion.com
 http://abel.math.umu.se/~frankw/lion.html
 http://www.math.utah.edu/~cherk/hiawatha.html
 http://www.math.utah.edu/~cherk/puzzles.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
