@@ -14748,3 +14748,5 @@ http://mobile.nytimes.com/help
 http://mobile.nytimes.com/international/dining/
 http://mobile.nytimes.com/technology/
 http://mobile.nytimes.com/international/style/
+http://www.sciencemag.org/content/352/6293/1508.short
+http://www.sciencemag.org/content/353/6295/106.short
