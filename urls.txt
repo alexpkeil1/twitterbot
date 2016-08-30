@@ -14842,3 +14842,10 @@ http://www.nasonline.org/
 http://anthropology.pnas.org/
 http://Anthropology.pnas.org/
 http://highwire.org/
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
