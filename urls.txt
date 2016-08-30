@@ -14622,3 +14622,5 @@ http://izquotes.com/author/lewis-carroll
 http://izquotes.com/copyright
 http://izquotes.com/authors/
 http://izquotes.com/quotes/life
+http://www.timeout.com/newyork/cinco-de-mayo
+http://www.nytimes.com/2016/07/07/us/politics/on-hillary-clintons-rough-day-republicans-rue-missed-chance.html
