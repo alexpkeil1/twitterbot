@@ -14805,3 +14805,10 @@ https://www.nlm.nih.gov
 http://www.hhs.gov
 https://medlineplus.gov/accessibility.html
 http://www.nih.gov/
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
