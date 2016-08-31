@@ -15167,3 +15167,16 @@ http://izquotes.com/author/don-miller
 http://izquotes.com/quotes/government
 http://izquotes.com/authors/search/born-in-1923
 http://izquotes.com/quote/247696
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://webdav.tuebingen.mpg.de/causality/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=732410015
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://www.wikidata.org/wiki/Q5054566
+http://www.edwardtufte.com/tufte/hill
+http://www.skleinberg.org/teaching/CI15/index.html
