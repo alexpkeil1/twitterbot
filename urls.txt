@@ -15769,3 +15769,6 @@ http://engineering.stanford.edu/connect/alumni
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
 https://engineering.stanford.edu/news/what-dark-data-and-how-bringing-it-light-will-impact-society
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
