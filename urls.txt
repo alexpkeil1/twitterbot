@@ -15097,3 +15097,10 @@ http://adminguide.stanford.edu/ch6contents.html
 http://sunetid.cs.stanford.edu/backup
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
 http://hci.stanford.edu
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
