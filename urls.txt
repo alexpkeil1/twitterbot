@@ -16569,3 +16569,5 @@ http://pubchem.ncbi.nlm.nih.gov/search/help_search.html#Simi
 http://pubchem.ncbi.nlm.nih.gov/search/help_search.html#SbSpInpt
 http://pubchem.ncbi.nlm.nih.gov/search/help_search.html#IdSimiInpt
 http://pubchem.ncbi.nlm.nih.gov/search/help_search.html#Filts
+http://lists.unc.edu/read/?forum=13-14aycock2
+http://lists.unc.edu/scripts/message/message_dialog.tml?DocPost=6a1d5a694934f05fc6b6c77e52512789
