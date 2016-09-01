@@ -17573,3 +17573,16 @@ http://www.cdc.gov/flu
 https://www.instagram.com/CDCgov/
 http://www.cdc.gov/media/
 https://oig.hhs.gov
+https://www.wikidata.org/wiki/Q5054566
+http://webdav.tuebingen.mpg.de/causality/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.edwardtufte.com/tufte/hill
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=732410015
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
