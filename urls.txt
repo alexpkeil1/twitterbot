@@ -17777,3 +17777,5 @@ http://classics.pnas.org
 http://highwire.stanford.edu/
 http://www.nytimes.com/2016/08/02/science/mammoths-extinction-saint-paul-island-alaska.html
 http://intl.pnas.org
+http://www.commondreams.org
+http://commondreams.org/urgent-request
