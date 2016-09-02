@@ -18093,3 +18093,5 @@ https://engineering.stanford.edu/news/what-dark-data-and-how-bringing-it-light-w
 http://wellness.stanford.edu/
 http://sunetid.cs.stanford.edu/backup
 http://ai.stanford.edu
+http://commondreams.org/urgent-request
+http://www.commondreams.org
