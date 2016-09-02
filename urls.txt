@@ -17969,3 +17969,10 @@ https://books.google.com/books?id=Hgnnhu1ym-8C&dq=Morabia,+Alfredo.+ed.+(2004)+A
 http://www.cred.be
 http://www.epidemiologicalnews.com
 https://fr.wikipedia.org/wiki/%C3%89pid%C3%A9miologie
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
