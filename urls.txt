@@ -18759,3 +18759,5 @@ http://www.cdc.gov/hai/prevent/tap.html
 http://www.cdc.gov/hai/outbreaks/meningitis.html#fda-clinic
 http://www.cdc.gov/hai/organisms/cre/cre-duodenoscope-surveillance-protocol-FAQs.html
 http://www.cdc.gov/hai/organisms/cre/TrackingCRE.html
+http://www.commondreams.org
+http://commondreams.org/urgent-request
