@@ -18942,3 +18942,10 @@ http://www.learn.motion.com
 http://v.extreme-dm.com/?login=cherk1
 http://abel.math.umu.se/~frankw/lion.html
 http://www.math.utah.edu/~elena
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
