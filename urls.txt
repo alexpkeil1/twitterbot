@@ -18848,3 +18848,5 @@ http://izquotes.com/quote/247691
 http://izquotes.com/quotes/money
 http://izquotes.com/author/hilaire-belloc
 http://izquotes.com/authors/search/scientists
+http://www.commondreams.org
+http://commondreams.org/urgent-request
