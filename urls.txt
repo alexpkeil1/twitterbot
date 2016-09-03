@@ -19057,3 +19057,5 @@ https://medlineplus.gov/privacy.html
 https://medlineplus.gov/mplusdictionary.html
 https://medlineplus.gov/connect/overview.html
 https://medlineplus.gov/druginformation.html
+http://www.commondreams.org
+http://commondreams.org/urgent-request
