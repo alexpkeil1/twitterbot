@@ -15384,3 +15384,10 @@ http://www.clockss.org/
 http://www.sciencemag.org/content/353/6303/983.short
 http://stm.sciencemag.org/content/8/354/354ra114
 http://www.sciencemag.org/content/353/6300/702.short
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
