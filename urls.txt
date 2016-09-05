@@ -15504,3 +15504,4 @@ http://engineering.stanford.edu/connect/alumni
 https://cs.stanford.edu/internal
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://hci.stanford.edu
+http://www.commondreams.org
