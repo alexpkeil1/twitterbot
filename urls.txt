@@ -16419,3 +16419,6 @@ http://www.math.utah.edu/~cherk/mathonline.html
 http://www.learn.motion.com
 http://v.extreme-dm.com/?login=cherk1
 http://extremetracking.com/open?login=jokemath
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
