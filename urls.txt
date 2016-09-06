@@ -16392,3 +16392,16 @@ http://www.cdc.gov/pcd/
 http://stacks.cdc.gov/mmwr
 http://www.cdc.gov/media/
 https://www.hhs.gov
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://www.wikidata.org/wiki/Q5054566
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=732410015
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.edwardtufte.com/tufte/hill
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://webdav.tuebingen.mpg.de/causality/
