@@ -15752,3 +15752,11 @@ https://fa.wikipedia.org/wiki/%D9%87%D9%85%D9%87%E2%80%8C%DA%AF%DB%8C%D8%B1%D8%B
 http://www.epidemiology.ch/history/PeopleEpidemiologyLibrary.html
 https://tl.wikipedia.org/wiki/Epidemiyolohiya
 
+
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
