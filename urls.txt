@@ -16188,3 +16188,10 @@ http://lens.blogs.nytimes.com/
 http://www.nytimes.com/2016/09/06/arts/television/review-inventing-a-better-bitcoin-in-startup-new-on-crackle.html
 http://www.nytimes.com/2016/09/06/us/ohio-cincinnati-overdoses-carfentanil-heroin.html
 http://www.commondreams.org
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
