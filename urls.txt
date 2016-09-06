@@ -16081,3 +16081,18 @@ https://oig.hhs.gov
 https://www.usa.gov/
 http://wwwnc.cdc.gov/eid
 
+http://www.omniture.com
+http://www.cdc.gov/
+https://jobs.cdc.gov
+http://data.cdc.gov/
+http://phil.cdc.gov/phil/
+http://www.cdc.gov/flu
+https://www.usa.gov/
+http://www.cdc.gov/library/
+https://www.hhs.gov/open
+http://www.cdc.gov/media/
+http://www.cdc.gov/pcd/
+http://www.thecommunityguide.org/
+https://oig.hhs.gov
+http://www.cdc.gov/VitalSigns/
+http://wwwnc.cdc.gov/eid
