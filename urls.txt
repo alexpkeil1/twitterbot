@@ -15993,3 +15993,10 @@ http://cvgl.stanford.edu/projects/jackrabbot/
 https://engineering.stanford.edu/news/how-do-we-get-computers-understand-human-language
 http://www.stanford.edu/search/
 http://www.stanford.edu/site/copyright.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
