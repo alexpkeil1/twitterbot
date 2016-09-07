@@ -16047,3 +16047,10 @@ http://www.nytimes.com/real-estate/find-a-home
 http://www.nytimes.com/spotlight/times-tips
 http://www.nytimes.com/pages/dining/index.html
 http://www.nytimes.com/2016/09/06/arts/television/queen-sugar-own.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
