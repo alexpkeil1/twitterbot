@@ -15703,3 +15703,6 @@ http://izquotes.com/authors/search/artists
 http://izquotes.com/quotes/work
 http://pinterest.com/izquotes/
 http://izquotes.com/quotes/art
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
