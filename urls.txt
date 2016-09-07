@@ -15251,3 +15251,10 @@ http://www.sciencemag.org/content/353/6303/994.short
 http://www.sciencemagchina.cn/
 http://www.sciencemag.org/content/353/6303/969.short
 http://advances.sciencemag.org/content/2/9/e1601318
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
