@@ -15351,3 +15351,6 @@ http://stke.sciencemag.org/
 http://traffic.libsyn.com/sciencemag/SciencePodcast_160902.mp3
 http://www.sciencemag.org/content/353/6295/158.short
 http://stm.sciencemag.org/content/8/355/355ra116
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
