@@ -16422,3 +16422,6 @@ https://medlineplus.gov/connect/overview.html
 https://medlineplus.gov/
 https://medlineplus.gov/disclaimers.html
 https://medlineplus.gov/spanish/medlineplus.html
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
