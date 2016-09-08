@@ -15638,3 +15638,10 @@ http://stke.sciencemag.org/content/9/444/ra88
 http://www.sciencemag.org/content/353/6295/158.short
 http://immunology.sciencemag.org/
 http://www.sciencemag.org/content/353/6303/1019.short
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
