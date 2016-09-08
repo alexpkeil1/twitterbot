@@ -15850,3 +15850,10 @@ http://engineering.stanford.edu/connect/alumni
 http://adminguide.stanford.edu/ch6contents.html
 https://engineering.stanford.edu/news/three-innovators-are-named-stanford-engineering-heroes
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
