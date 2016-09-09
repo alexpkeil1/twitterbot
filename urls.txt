@@ -16657,3 +16657,10 @@ http://www.nytimes.com/pages/corrections/index.html
 http://www.nytimes.com/2016/09/08/arts/music/a-boogie-wit-da-hoodie-new-york-rap.html
 http://www.nytimes.com/2016/09/08/magazine/the-limits-of-lauer.html
 http://www.nytimes.com/2016/09/10/fashion/tom-ford-new-york-fashion-week.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
