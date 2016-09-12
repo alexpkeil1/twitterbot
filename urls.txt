@@ -15638,3 +15638,16 @@ http://highwire.stanford.edu/
 http://chemistry.pnas.org/
 http://teachingresources.pnas.org/
 https://www.theguardian.com/lifeandstyle/2016/aug/15/shift-workers-more-susceptible-to-infections
+http://webdav.tuebingen.mpg.de/causality/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=738581991
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.edwardtufte.com/tufte/hill
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
