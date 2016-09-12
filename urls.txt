@@ -15399,3 +15399,10 @@ https://zh-cn.facebook.com/CDCGlobal
 https://zh-cn.facebook.com/DUdunelm
 https://zh-min-nan.wikipedia.org/wiki/Li%C3%BB-h%C3%AAng-p%C4%93%E2%81%BF-ha%CC%8Dk
 https://zh.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
