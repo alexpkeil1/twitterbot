@@ -15519,3 +15519,10 @@ http://sustainability.pnas.org/
 http://intl.pnas.org
 http://frontmatter.pnas.org/
 https://www.washingtonpost.com/news/energy-environment/wp/2016/08/08/were-trashing-the-oceans-and-making-ourselves-sick-in-the-process/?utm_term=.7648ffccb358
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
