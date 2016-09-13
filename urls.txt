@@ -16007,3 +16007,10 @@ https://nl.wikipedia.org/wiki/Epidemiologie
 http://epirev.oxfordjournals.org
 http://www.ph.ucla.edu/epi/snow/fatherofepidemiology.html
 http://www.ph.ucla.edu/epi/snow/importance.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
