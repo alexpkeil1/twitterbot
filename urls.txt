@@ -15996,3 +15996,10 @@ http://www.edwardtufte.com/tufte/hill
 http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
 https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=738581991
 https://wikimediafoundation.org/wiki/Cookie_statement
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
