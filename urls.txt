@@ -16529,3 +16529,10 @@ https://medlineplus.gov/videosandcooltools.html
 https://medlineplus.gov/index.html
 https://medlineplus.gov/fordevelopers.html
 
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
