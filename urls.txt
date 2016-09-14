@@ -15767,3 +15767,6 @@ http://www.cdc.gov/library/
 http://phil.cdc.gov/phil/
 http://stacks.cdc.gov/mmwr
 http://www.cdc.gov/
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
