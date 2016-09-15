@@ -16191,3 +16191,16 @@ http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-opinion
 http://events.triangle.com
 http://www.newsobserver.com/news/local/community/chapel-hill-news/article100448907.html
+http://www.edwardtufte.com/tufte/hill
+http://www.skleinberg.org/teaching/CI15/index.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://webdav.tuebingen.mpg.de/causality/
+https://www.wikidata.org/wiki/Q5054566
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=738581991
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/
