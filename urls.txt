@@ -15881,3 +15881,10 @@ http://www.hpa.org.uk
 https://tr.wikipedia.org/wiki/Epidemiyoloji
 http://www.epi-perspectives.com/content/1/1/3
 http://www.iea-europe.org/index.htm
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
