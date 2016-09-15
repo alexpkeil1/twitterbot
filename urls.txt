@@ -17135,3 +17135,16 @@ https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_t%E1%BB%85_h%E1%BB%8Dc
 https://da.wikipedia.org/wiki/Epidemiologi
 https://commons.wikimedia.org/wiki/Category:Public_health
 https://ko.wikipedia.org/wiki/%EC%97%AD%ED%95%99_(%EC%9D%98%ED%95%99)
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.edwardtufte.com/tufte/hill
+http://www.skleinberg.org/teaching/CI15/index.html
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://www.wikidata.org/wiki/Q5054566
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=738581991
