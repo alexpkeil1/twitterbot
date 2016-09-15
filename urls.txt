@@ -15829,3 +15829,10 @@ https://www.hsph.harvard.edu/news/features/
 https://www.hsph.harvard.edu/news/magazine-digital-editions/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/boston-doc-treats-facial-trauma-rwanda/
 https://www.hsph.harvard.edu/registrar/academic-calendar/
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
