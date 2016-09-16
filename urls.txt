@@ -17937,3 +17937,6 @@ http://ems.sph.harvard.edu/MasterCalendar/MasterCalendar.aspx
 https://www.hsph.harvard.edu/deans-office/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/can-gun-violence-be-reduced-in-a-culture-of-guns/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
