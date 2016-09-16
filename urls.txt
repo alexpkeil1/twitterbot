@@ -17540,3 +17540,10 @@ https://de.wikipedia.org/wiki/Epidemiologie
 https://wikimediafoundation.org/wiki/Cookie_statement
 http://vlab.infotech.monash.edu.au/simulations/cellular-automata/epidemic/
 https://es.wikipedia.org/wiki/Epidemiolog%C3%ADa
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
