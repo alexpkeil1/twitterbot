@@ -17562,3 +17562,6 @@ https://medlineplus.gov/mplusdictionary.html
 https://medlineplus.gov/videosandcooltools.html
 http://www.hhs.gov
 https://medlineplus.gov/criteria.html
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
