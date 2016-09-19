@@ -16360,3 +16360,6 @@ http://www.nytimes.com/gst/mostpopular.html
 http://www.nytimes.com/crosswords/
 http://www.nytimes.com/pages/dining/international/index.html
 http://www.nytimes.com/pages/books/index.html
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
