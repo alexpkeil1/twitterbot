@@ -17509,3 +17509,15 @@ https://sunetid.cs.stanford.edu/restore
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://cvgl.stanford.edu/projects/jackrabbot/
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-obituaries
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-opinion
+http://events.triangle.com
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
+https://www.pinterest.com/newsobserver/
+http://www.newsobserver.com/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-announcements-celebrations/
+http://www.newsobserver.com/sports/high-school/article102426702.html
+http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-sports
+http://www.newsobserver.com/news/local/community/chapel-hill-news/
+https://plus.google.com/u/0/+newsandobserver/
+http://www.newsobserver.com/news/local/community/chapel-hill-news/article102699662.html
