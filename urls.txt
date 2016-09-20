@@ -17578,3 +17578,10 @@ http://highwire.org/
 http://highwire.stanford.edu/
 http://www.wired.co.uk/article/chimps-cooperate-competition
 https://www.washingtonpost.com/news/energy-environment/wp/2016/08/08/were-trashing-the-oceans-and-making-ourselves-sick-in-the-process/?utm_term=.7648ffccb358
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
