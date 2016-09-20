@@ -16201,3 +16201,6 @@ http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
 http://events.triangle.com
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-announcements-celebrations/
 https://plus.google.com/u/0/+newsandobserver/
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
