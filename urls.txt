@@ -17306,3 +17306,8 @@ http://arxiv.org/format/0910.1691
 https://www.nlm.nih.gov/medlineplus/connect/faqs.html
 http://www.cdc.gov/niosh/topics/heatstress/
 http://izquotes.com/quote/185697
+http://www.nytimes.com/2016/07/25/sports/olympics/rio-olympic-village-australia.html
+http://www.cdc.gov/globalhealth/countries/vietnam/
+http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&utm_medium=bcom
+http://www.nytimes.com/2016/04/19/nyregion/l-train-tunnel-repairs-wont-start-until-2019-transit-officials-say.html
+http://orcid.org/0000-0002-2076-242X
