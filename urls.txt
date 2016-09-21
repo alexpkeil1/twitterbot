@@ -17272,3 +17272,6 @@ http://uncnews.sites.unc.edu/tag/unc-news-to-unc-main/feed/
 http://www.cdc.gov/media/releases/2016/t0617-zika.html
 http://wwwnc.cdc.gov/travel/page/last-minute-travelers
 http://www.cdc.gov/nceh/lead/
+http://www.nytimes.com/2016/07/30/health/zika-virus-florida-case.html
+http://sph.unc.edu/nutr/unc-nutrition/student-life/nutr-degrees/
+http://www.accsc.org/Events/Overview.aspx
