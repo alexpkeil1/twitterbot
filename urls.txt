@@ -17620,3 +17620,10 @@ http://www.nytimes.com/2016/09/25/arts/music/bon-iver-justin-vernon-22-a-million
 http://www.nytimes.com/section/science
 http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
 http://www.nytimes.com/interactive/2016/09/18/world/22wit-what-in-the-world-quiz.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
