@@ -17869,3 +17869,10 @@ http://glencoesoftware.com/
 http://intl.pnas.org
 http://highwire.org/
 http://www.huffingtonpost.com/entry/vibrio-bacteria-ocean-temperature-cliamte-change_us_57aad740e4b06e52746e5d9b
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
