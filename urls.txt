@@ -19796,3 +19796,6 @@ http://registrar.unc.edu/AcademicCalendar/index.htm
 http://www.unhcr.org/en-us/emergencies.html
 http://www.nytimes.com/interactive/2016/us/elections/hillary-clinton-on-the-issues.html?inline=nyt-per
 http://www.cdc.gov/hai/organisms/mycobacterium.html
+http://www.nytimes.com/interactive/2016/08/30/insider/book-club-fink.html
+http://stm.sciencemag.org/content/8/347/347ra94.abstract
+http://washcluster.net/
