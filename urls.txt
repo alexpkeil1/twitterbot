@@ -19693,3 +19693,6 @@ https://wikimediafoundation.org/wiki/Cookie_statement
 http://psychiatryonline.org/guidelines
 http://www.cdc.gov/ncbddd/birthdefects/research-tools.html
 http://www.cdc.gov/niosh/az/h.html
+http://orcid.org/organizations/institutions/learnmore
+http://www.cdc.gov/niosh/fedreg-f.html
+https://twitter.com/CourtneyNerd
