@@ -19408,3 +19408,10 @@ http://www.nytimes.com/privacy
 http://www.nytimes.com/newsletters/opiniontoday
 http://www.nytimes.com/2016/09/22/opinion/how-to-counter-chinas-global-propaganda-offensive.html
 http://www.nytimes.com/marketing/tools-and-services/
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
