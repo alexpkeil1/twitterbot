@@ -19781,3 +19781,6 @@ http://blogs.cdc.gov/global/2016/05/27/world-no-tobacco-day-tobacco-surveillance
 http://www.nytimes.com/2016/07/15/automobiles/autoreviews/video-review-honda-ridgeline-a-stylish-pickup-for-the-suburbs.html
 http://www.nytimes.com/2016/09/07/us/politics/donald-trump-pam-bondi.html
 http://topics.nytimes.com/top/reference/timestopics/people/m/jonathan_martin/index.html
+http://www.cdc.gov/HAI/settings/outpatient/basic-infection-control-prevention-plan-2011/standard-precautions.html
+http://www.sciencemag.org/news/quiz
+https://developers.facebook.com/blog/post/2016/06/01/SDK-v3-transition/
