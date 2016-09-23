@@ -19793,3 +19793,6 @@ http://tropmedhealth.biomedcentral.com
 https://www.youtube.com/watch?v=R4azcU6i2IE
 http://www.unhcr.org/en-us/innovation.html
 http://registrar.unc.edu/AcademicCalendar/index.htm
+http://www.unhcr.org/en-us/emergencies.html
+http://www.nytimes.com/interactive/2016/us/elections/hillary-clinton-on-the-issues.html?inline=nyt-per
+http://www.cdc.gov/hai/organisms/mycobacterium.html
