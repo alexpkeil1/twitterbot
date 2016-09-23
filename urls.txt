@@ -19806,3 +19806,6 @@ http://web.mta.info/nyct/service/planned_servChanges_QM4.htm
 http://www.newsobserver.com/cars/#navlink=subnav
 http://www.nytimes.com/2016/07/06/arts/music/j-balvin-energia-interview.html
 http://www.nytimes.com/2016/07/24/magazine/how-political-correctness-went-from-punch-line-to-panic.html
+http://www.nytimes.com/2016/06/27/business/media/intel-tells-stories-that-go-beyond-chips.html
+http://www.nytimes.com/2016/09/19/opinion/trump-grand-wizard-of-birtherism.html
+http://www.newsobserver.com/sports/nhl/carolina-hurricanes/#navlink=subnav
