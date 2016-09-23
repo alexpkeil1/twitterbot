@@ -20174,3 +20174,6 @@ http://www.stanford.edu/search/
 http://hci.stanford.edu
 https://engineering.stanford.edu/news/anshul-kundaje-machine-learning-decode-genome
 https://engineering.stanford.edu/news/arvind-krishna-another-revolution-coming-and-it-s-ai
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
