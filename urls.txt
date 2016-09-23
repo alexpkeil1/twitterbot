@@ -19690,3 +19690,6 @@ http://wwwnc.cdc.gov/travel/page/infographic-food-water-risky-safer
 https://www.youtube.com/watch?v=3MwHNAsghmI&feature=player_embedded
 https://sunetid.cs.stanford.edu/restore
 https://wikimediafoundation.org/wiki/Cookie_statement
+http://psychiatryonline.org/guidelines
+http://www.cdc.gov/ncbddd/birthdefects/research-tools.html
+http://www.cdc.gov/niosh/az/h.html
