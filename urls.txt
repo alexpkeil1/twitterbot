@@ -19750,3 +19750,6 @@ http://arxiv.org/find/cs,math/1/au:+Janzing_D/0/1/0/all/0/1
 http://www.cdc.gov/globalaids/
 https://twitter.com/nutritionunc?lang=sk
 http://www.cdc.gov/healthypets/animal-tales/rescue-dog.html
+http://www.nytimes.com/2016/04/25/books/review-in-pumpkinflowers-a-new-style-of-middle-east-combat.html
+https://www.ice.gov/sevis
+http://www.nytimes.com/2016/04/29/automobiles/autoreviews/review-hyundai-elantra-offers-fewer-curves-but-a-better-ride.html
