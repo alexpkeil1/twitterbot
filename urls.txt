@@ -19837,3 +19837,6 @@ http://www.sciencemag.org/content/353/6300/650.short
 http://www.nytimes.com/2016/07/24/business/the-other-side-of-an-infamous-hamptons-house-party.html
 http://bmcbiol.biomedcentral.com/
 http://www.radcliffe.edu/
+http://stm.sciencemag.org/content/8/344/344ra85.abstract
+http://phil.cdc.gov/phil/default.asp
+http://www.cdc.gov/obesity/childhood/index.html
