@@ -19784,3 +19784,6 @@ http://topics.nytimes.com/top/reference/timestopics/people/m/jonathan_martin/ind
 http://www.cdc.gov/HAI/settings/outpatient/basic-infection-control-prevention-plan-2011/standard-precautions.html
 http://www.sciencemag.org/news/quiz
 https://developers.facebook.com/blog/post/2016/06/01/SDK-v3-transition/
+https://www.hhs.gov/
+http://www.cdc.gov/Features/HighBloodPressure/
+http://stacks.cdc.gov/mmwr
