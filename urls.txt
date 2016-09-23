@@ -19815,3 +19815,6 @@ http://www.scopus.com/
 http://www.biomedcentral.com/sendpassword
 http://izquotes.com/author/milan-kundera
 http://www.dps.unc.edu/
+http://www.cdc.gov/globalhealth/countries/Philippines/
+http://www.cdc.gov/speakers/subtopic/requestdirector.html
+http://biodatamining.biomedcentral.com
