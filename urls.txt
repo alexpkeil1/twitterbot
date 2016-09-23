@@ -19683,3 +19683,7 @@ http://www.cdc.gov/employment/menu_student.html
 https://www.nlm.nih.gov/medlineplus/spanish/
 http://journal.frontiersin.org/article/10.3389/fpsyt.2016.00026/full
 https://www.whitehouse.gov/performances
+http://www.cdc.gov/niosh/hhe/default.html
+http://www.hsph.harvard.edu/news/press-release/2009/
+http://www.nytimes.com/2016/08/19/business/rally-racing-school-teaches-the-basics-of-controlled-mayhem.html
+http://wwwnc.cdc.gov/travel/page/infographic-food-water-risky-safer
