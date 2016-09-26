@@ -16492,3 +16492,4 @@ http://engineering.stanford.edu/connect/alumni
 http://www.stanford.edu/site/copyright.html
 http://wellness.stanford.edu/
 https://engineering.stanford.edu/news/how-do-we-get-computers-understand-human-language
+http://www.commondreams.org
