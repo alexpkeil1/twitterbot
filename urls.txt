@@ -16556,3 +16556,10 @@ https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_t%E1%BB%85_h%E1%BB%8Dc
 http://www.epidemiologicalnews.com
 http://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.22.1.189
 https://wikimediafoundation.org/wiki/Cookie_statement
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
