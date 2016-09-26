@@ -16493,3 +16493,10 @@ http://www.nytimes.com/2016/09/27/your-money/household-budgeting/an-essential-bu
 http://www.nytimes.com/section/movies
 http://www.nytimes.com/2016/09/25/realestate/living-in-whitestone-queens.html
 http://www.nytimes.com/2016/10/02/books/review/james-gleick-time-travel.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
