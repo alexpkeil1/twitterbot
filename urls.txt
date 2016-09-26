@@ -16419,3 +16419,5 @@ http://www.google.com/intl/en/policies/privacy/partners/#content
 http://www.google.com/intl/en/policies/technologies/location-data/
 http://www.google.com/intl/en/policies/technologies/
 http://www.sciencemag.org/content/353/6306/1360.short
+https://www.hsph.harvard.edu/news/press-releases/autism-and-induced-labor-oberg/
+http://www.nytimes.com/2016/08/18/world/asia/north-korea-defector-thae-yong-ho-britain.html
