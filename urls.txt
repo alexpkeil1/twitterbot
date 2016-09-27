@@ -17837,3 +17837,10 @@ http://chemistry.pnas.org/
 http://frontmatter.pnas.org
 http://blog.pnas.org/
 http://intl.pnas.org
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
