@@ -16639,3 +16639,18 @@ http://adminguide.stanford.edu/ch6contents.html
 http://campus-map.stanford.edu
 https://cs.stanford.edu/internal
 
+http://wwwnc.cdc.gov/eid
+https://www.usa.gov/
+http://www.cdc.gov/
+http://stacks.cdc.gov/mmwr
+https://www.instagram.com/CDCgov/
+http://data.cdc.gov/
+https://www.hhs.gov/open
+http://www.cdc.gov/library/
+http://www.cdc.gov/VitalSigns/
+http://phil.cdc.gov/phil/
+http://www.thecommunityguide.org/
+https://jobs.cdc.gov
+http://www.cdc.gov/pcd/
+https://www.hhs.gov
+http://www.cdc.gov/media/
