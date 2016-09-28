@@ -17232,3 +17232,6 @@ https://www.hsph.harvard.edu/admissions/admissions/
 https://www.hsph.harvard.edu/news/features/
 https://www.hsph.harvard.edu/admissions/
 https://www.hsph.harvard.edu/faculty-affairs/
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
