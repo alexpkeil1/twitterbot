@@ -17287,3 +17287,14 @@ http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://sunetid.cs.stanford.edu/backup
 http://cs.stanford.edu/group/manips/ocean-one.html
 https://sunetid.cs.stanford.edu/restore
+http://extremetracking.com/open?login=jokemath
+http://www.math.utah.edu/~cherk/puzzles.html
+http://www.math.utah.edu/~cherk/hiawatha.html
+http://www.learn.motion.com
+http://www.math.utah.edu/~cherk/Pi-story.html
+http://www.math.utah.edu/~elena target=
+http://www.math.utah.edu/~cherk/index.html
+http://www.math.utah.edu/~cherk/mathonline.html
+http://v.extreme-dm.com/?login=cherk1
+http://abel.math.umu.se/~frankw/lion.html
+http://www.math.utah.edu/~elena
