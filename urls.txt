@@ -18365,3 +18365,10 @@ http://www.riskanalytica.com/?q=node/70
 https://lv.wikipedia.org/wiki/Epidemiolo%C4%A3ija
 https://commons.wikimedia.org/wiki/Category:Epidemiology
 http://www.ph.ucla.edu/epi/snow/fatherofepidemiology.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
