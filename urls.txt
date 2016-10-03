@@ -19420,3 +19420,6 @@ https://www.wikidata.org/wiki/Q5054566
 https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://www.skleinberg.org/teaching/CI15/index.html
 http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
