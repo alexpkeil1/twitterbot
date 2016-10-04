@@ -16999,3 +16999,4 @@ https://no.wikipedia.org/wiki/Epidemiologi
 http://www.iea-europe.org/index.htm
 http://vlab.infotech.monash.edu.au/simulations/cellular-automata/epidemic/
 https://ga.wikipedia.org/wiki/Eipid%C3%A9imeola%C3%ADocht
+
