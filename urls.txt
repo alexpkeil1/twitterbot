@@ -17407,3 +17407,6 @@ http://www.nytimes.com/pages/sports/index.html
 http://www.nytimes.com/
 http://www.nytimes.com/2016/10/04/sports/baseball/mlb-playoffs-cubs-rangers-red-sox-mets-giants.html
 http://www.nytimes.com/2016/10/04/sports/football/new-york-giants-minnesota-vikings.html
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
