@@ -17707,3 +17707,4 @@ http://izquotes.com/authors/search/scientists
 http://izquotes.com/quotes/success
 http://izquotes.com/quotes/power
 http://izquotes.com/quotes/nature
+http://www.commondreams.org
