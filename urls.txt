@@ -17482,3 +17482,6 @@ https://plus.google.com/+MedlineplusGovNLM
 https://medlineplus.gov/spanish/medlineplus.html
 https://medlineplus.gov/listserv.html
 https://medlineplus.gov/sitemap.html
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
