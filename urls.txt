@@ -19030,3 +19030,10 @@ http://www.nytimes.com/pages/business/international/index.html
 http://www.nytimes.com/video/arts
 http://www.nytimes.com/video/opinion
 http://www.nytimes.com/2016/10/06/insider/events/gilbert-cruz-how-the-times-covers-television.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
