@@ -19080,3 +19080,10 @@ http://www.se16.info/hgb/
 http://www.ilstu.edu/~gcramsey
 http://www.statcounter.com/
 http://www.commondreams.org
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
