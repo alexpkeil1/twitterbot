@@ -18992,3 +18992,6 @@ http://izquotes.com/author/hermann-hesse
 http://izquotes.com/author/doris-lessing
 http://feeds.feedburner.com/izquotes
 http://izquotes.com/authors/
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
