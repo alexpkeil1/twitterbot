@@ -17554,3 +17554,4 @@ http://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.22.1.189
 https://en.wiktionary.org/wiki/epidemiology
 https://tl.wikipedia.org/wiki/Epidemiyolohiya
 https://pt.wikipedia.org/wiki/Epidemiologia
+http://www.commondreams.org
