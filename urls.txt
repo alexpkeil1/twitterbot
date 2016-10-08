@@ -17873,3 +17873,6 @@ http://www.sciencemag.org/content/354/6308/24.short
 http://www.sciencemag.org/authors/information-authors
 http://www.sciencemag.org/content/354/6308/22.short
 http://www.sciencemag.org/authors/contributing-science-family-journals
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
