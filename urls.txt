@@ -18797,3 +18797,10 @@ http://www.nytimes.com/2016/10/10/theater/review-miles-for-mary-a-sendup-of-the-
 http://www.nytimes.com/2016/10/10/opinion/predators-in-arms.html
 http://www.nytimes.com/2016/10/09/sports/baseball/san-francisco-giants-chicago-cubs-hendricks-wood.html
 http://www.nytimes.com/pages/magazine/index.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
