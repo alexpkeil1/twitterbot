@@ -18734,3 +18734,6 @@ http://izquotes.com/authors/search/politicians
 http://feeds.feedburner.com/izquotes
 http://izquotes.com/quotes/mind
 http://izquotes.com/author/oliver-wendell-holmes,-jr.
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
