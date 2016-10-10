@@ -18386,3 +18386,6 @@ https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_c
 http://www.nytimes.com/services/mobile/index.html
 http://www.nytimes.com/video
 http://www.nytimes.com/pages/opinion/index.html#columnists
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
