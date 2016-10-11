@@ -20004,3 +20004,10 @@ http://www.nytimes.com/2016/10/12/nyregion/hindu-temple-long-island-melville-new
 http://www.nytimes.com/real-estate/find-a-home
 http://www.nytimes.com/2016/10/07/automobiles/autoreviews/video-review-vw-dresses-up-the-alltrack-for-the-hard-road.html
 http://mobile.nytimes.com/
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
