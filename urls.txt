@@ -19514,3 +19514,16 @@ http://www.math.utah.edu/~cherk/hiawatha.html
 http://abel.math.umu.se/~frankw/lion.html
 http://www.learn.motion.com
 http://extremetracking.com/open?login=jokemath
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.edwardtufte.com/tufte/hill
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=741153363
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://wikimediafoundation.org/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://webdav.tuebingen.mpg.de/causality/
+http://www.skleinberg.org/teaching/CI15/index.html
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
