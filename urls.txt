@@ -20324,3 +20324,10 @@ http://izquotes.com/author/marc-andreessen
 http://izquotes.com/authors/search/born-in-1923
 http://izquotes.com/quotes/truth
 http://izquotes.com/author/alexandre-dumas
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
