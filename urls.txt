@@ -20401,3 +20401,4 @@ https://engineering.stanford.edu/news/how-do-we-get-computers-understand-human-l
 http://adminguide.stanford.edu/ch6contents.html
 https://engineering.stanford.edu/news/arvind-krishna-another-revolution-coming-and-it-s-ai
 http://ai.stanford.edu
+
