@@ -20736,3 +20736,6 @@ https://ecpe.sph.harvard.edu/
 https://www.hsph.harvard.edu/admissions/non-degree-programs/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/colonoscopy-benefits-questioned/
 https://www.hsph.harvard.edu/registrar/academic-calendar/
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
