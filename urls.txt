@@ -21972,3 +21972,6 @@ https://medlineplus.gov/connect/overview.html
 https://medlineplus.gov/druginformation.html
 https://medlineplus.gov/encyclopedia.html
 https://medlineplus.gov/faq/faq.html
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
