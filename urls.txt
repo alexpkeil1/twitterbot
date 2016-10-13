@@ -17751,3 +17751,10 @@ http://izquotes.com/quote/247689
 http://izquotes.com/quotes/art
 http://izquotes.com/author/james-russell-lowell
 http://izquotes.com/authors/search/statisticians
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
