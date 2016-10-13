@@ -21678,3 +21678,10 @@ https://wikimediafoundation.org/wiki/Privacy_policy
 http://www.edwardtufte.com/tufte/hill
 https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=741153363
 http://clopinet.com/isabelle/Projects/NIPS2013/
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
