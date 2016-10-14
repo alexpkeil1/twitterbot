@@ -18206,3 +18206,10 @@ http://stm.sciencemag.org/content/8/360/360ra135
 http://advances.sciencemag.org
 https://pubs.aaas.org/MembershipRenewal/new_ren_setup_rd.asp?dmc=R7BXUW
 http://www.sciencemag.org/content/354/6309/182.short
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
