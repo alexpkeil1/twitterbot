@@ -18163,3 +18163,16 @@ http://www.math.utah.edu/~cherk/index.html
 http://www.math.utah.edu/~cherk/mathonline.html
 http://www.math.utah.edu/~cherk/hiawatha.html
 http://www.math.utah.edu/~elena
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://webdav.tuebingen.mpg.de/causality/
+http://www.edwardtufte.com/tufte/hill
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=741153363
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.skleinberg.org/teaching/CI15/index.html
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://wikimediafoundation.org/wiki/Cookie_statement
