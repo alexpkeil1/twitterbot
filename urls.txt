@@ -18123,3 +18123,10 @@ http://www.nasonline.org/
 http://www.huffingtonpost.com/entry/pigeons-learn-recognize-words_us_57e15024e4b08cb14098022e
 http://sustainability.pnas.org/
 http://blog.pnas.org/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
