@@ -18062,3 +18062,10 @@ http://www.nytimes.com/educationleftnav
 http://www.nytimes.com/2016/10/14/opinion/bob-dylan-the-poet-sponge.html
 http://www.nytimes.com/real-estate/find-a-home
 http://www.nytimes.com/2016/10/15/us/politics/obama-donald-trump-ohio.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
