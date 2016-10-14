@@ -17991,3 +17991,6 @@ http://www.sciencemag.org/content/354/6309/185.short
 http://www.sciencemag.org/content/354/6309/182.short
 http://www.sciencemag.org/content/354/6309/160.short
 http://stm.sciencemag.org/content/8/360/360ra135
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
