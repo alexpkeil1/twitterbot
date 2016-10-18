@@ -19711,3 +19711,18 @@ http://www.stanford.edu/search/
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 https://cs.stanford.edu/internal
 
+https://engineering.stanford.edu/news/how-do-we-get-computers-understand-human-language
+http://hci.stanford.edu
+https://engineering.stanford.edu/news/arvind-krishna-another-revolution-coming-and-it-s-ai
+https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://www.stanford.edu/site/copyright.html
+http://engineering.stanford.edu/connect/alumni
+http://adminguide.stanford.edu/ch6contents.html
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://visit.stanford.edu/plan/maps.html
+http://wellness.stanford.edu/
+http://campus-map.stanford.edu
+http://ai.stanford.edu
+http://sunetid.cs.stanford.edu/backup
+http://cvgl.stanford.edu/projects/jackrabbot/
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
