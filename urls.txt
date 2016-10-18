@@ -19866,3 +19866,6 @@ http://sph.unc.edu/nciph/culture-of-health/
 http://sph.unc.edu/nciph/nciph-home/
 https://www.flickr.com/photos/uncsph/collections/
 http://sph.unc.edu/resource-pages/strategic-initiatives/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
