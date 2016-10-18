@@ -20057,3 +20057,10 @@ http://www.newsobserver.com/news/local/crime/article108684817.html
 http://www.newsobserver.com/news/local/community/chapel-hill-news/article108754327.html
 http://www.newsobserver.com/news/politics-government/state-politics/article108794887.html
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-opinion
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
