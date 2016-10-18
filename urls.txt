@@ -19726,3 +19726,6 @@ http://ai.stanford.edu
 http://sunetid.cs.stanford.edu/backup
 http://cvgl.stanford.edu/projects/jackrabbot/
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
