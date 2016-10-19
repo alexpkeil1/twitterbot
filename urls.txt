@@ -36120,3 +36120,6 @@ http://sunetid.cs.stanford.edu/backup
 http://cs.stanford.edu/degrees/undergrad/
 http://cvgl.stanford.edu/projects/jackrabbot/
 http://www.stanford.edu/site/copyright.html
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
