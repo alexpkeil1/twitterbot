@@ -35840,3 +35840,6 @@ http://www.newsobserver.com/news/local/community/chapel-hill-news/
 http://www.newsobserver.com/news/local/community/chapel-hill-news/article108889802.html
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-obituaries
 http://www.newsobserver.com/news/local/community/chapel-hill-news/article108772297.html
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
