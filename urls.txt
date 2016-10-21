@@ -18471,3 +18471,5 @@ http://stacks.cdc.gov/mmwr
 https://oig.hhs.gov
 http://www.cdc.gov/pcd/
 https://www.hhs.gov
+http://www.commondreams.org
+http://commondreams.org/november-9
