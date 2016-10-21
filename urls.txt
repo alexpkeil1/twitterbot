@@ -18643,3 +18643,10 @@ http://v.extreme-dm.com/?login=cherk1
 http://www.math.utah.edu/~elena
 http://www.math.utah.edu/~cherk/puzzles.html
 http://www.math.utah.edu/~elena target=
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
