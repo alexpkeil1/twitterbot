@@ -18794,3 +18794,6 @@ https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://www.epidem.com
 http://www.ph.ucla.edu/epi/snow/importance.html
 http://apps.who.int/medicinedocs/en/d/Js6170e/4.html
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
