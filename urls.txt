@@ -19110,3 +19110,5 @@ http://sph.unc.edu/emergency-information/
 http://sph.unc.edu/students/prospective-students/
 http://sph.unc.edu/nciph/nciph-home/
 http://sph.unc.edu/students/students-home/
+http://www.commondreams.org
+http://commondreams.org/november-9
