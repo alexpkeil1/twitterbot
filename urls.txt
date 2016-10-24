@@ -19500,3 +19500,10 @@ http://izquotes.com/authors/search/scientists
 http://izquotes.com/quotes/character
 http://izquotes.com/author/hannah-arendt
 http://izquotes.com/quote/247695
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
