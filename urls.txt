@@ -19012,3 +19012,5 @@ https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-
 http://hci.stanford.edu
 http://cs.stanford.edu/degrees/undergrad/
 https://sunetid.cs.stanford.edu/restore
+http://commondreams.org/november-9
+http://www.commondreams.org
