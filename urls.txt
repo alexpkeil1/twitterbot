@@ -18964,3 +18964,6 @@ https://medlineplus.gov/copyright.html
 https://medlineplus.gov/mplusdictionary.html
 https://medlineplus.gov/spanish/medlineplus.html
 http://www.nih.gov/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
