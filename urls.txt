@@ -18622,3 +18622,5 @@ http://www.nytimes.com/pages/movies/index.html
 http://www.nytimes.com/pages/corrections/index.html
 http://www.nytimes.com/2016/10/25/upshot/why-the-us-still-trails-many-wealthy-nations-in-access-to-care.html
 http://www.nytimes.com/events/
+http://www.commondreams.org
+http://commondreams.org/november-9
