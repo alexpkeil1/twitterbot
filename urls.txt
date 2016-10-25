@@ -18522,3 +18522,16 @@ https://lt.wikipedia.org/wiki/Epidemiologija
 https://zh.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6
 https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%94
 https://eu.wikipedia.org/wiki/Epidemiologia
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=741153363
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.skleinberg.org/teaching/CI15/index.html
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.edwardtufte.com/tufte/hill
