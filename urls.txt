@@ -19250,3 +19250,6 @@ http://campus-map.stanford.edu
 http://visit.stanford.edu/plan/maps.html
 http://hci.stanford.edu
 https://cs.stanford.edu/internal
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
