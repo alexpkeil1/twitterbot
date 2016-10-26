@@ -19338,3 +19338,10 @@ https://www.hsph.harvard.edu/news/hsph-in-the-news/
 https://www.hsph.harvard.edu/news/magazine/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/salt-and-risk-of-premature-death/
 https://ecpe.sph.harvard.edu/
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
