@@ -19670,3 +19670,5 @@ http://cvgl.stanford.edu/projects/jackrabbot/
 http://cs.stanford.edu/group/manips/ocean-one.html
 https://cs.stanford.edu/internal
 https://sunetid.cs.stanford.edu/restore
+http://commondreams.org/november-9
+http://www.commondreams.org
