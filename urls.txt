@@ -19346,3 +19346,18 @@ http://www.ics.uci.edu/%7Edechter
 http://www.cs.ucla.edu/%7Ejudea
 http://www.cs.ucla.edu/%7Edarwiche
 
+http://campus-map.stanford.edu
+http://hci.stanford.edu
+http://ai.stanford.edu
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+https://cs.stanford.edu/internal
+http://www.stanford.edu/search/
+http://engineering.stanford.edu/connect/alumni
+http://visit.stanford.edu/plan/maps.html
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://adminguide.stanford.edu/ch6contents.html
+https://sunetid.cs.stanford.edu/restore
+http://www.stanford.edu/site/copyright.html
+https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society
+http://wellness.stanford.edu/
+http://cvgl.stanford.edu/projects/jackrabbot/
