@@ -19174,3 +19174,6 @@ http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 http://www.skleinberg.org/teaching/CI15/index.html
 https://wikimediafoundation.org/wiki/Cookie_statement
 http://webdav.tuebingen.mpg.de/causality/
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
