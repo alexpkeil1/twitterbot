@@ -19075,3 +19075,10 @@ http://sph.unc.edu/cphm/cph/
 http://sph.unc.edu/resource-pages/map-and-directions/
 https://sph.unc.edu/sph-news/unc-gillings-study-antibodies-from-dengue-fever-survivors-can-be-used-to-prevent-zika-infection/
 http://sph.unc.edu/feedback/
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
