@@ -18774,3 +18774,10 @@ https://sl.wikipedia.org/wiki/Epidemiologija
 http://www.umassmed.edu
 http://lslintranet1.umassmed.edu
 http://library.umassmed.edu/ebpph/top25.cfm
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
