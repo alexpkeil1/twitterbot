@@ -18843,3 +18843,10 @@ http://izquotes.com/quotes/women
 http://izquotes.com/quote/247688
 http://www.commondreams.org
 http://commondreams.org/november-9
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
