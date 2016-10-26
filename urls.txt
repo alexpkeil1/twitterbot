@@ -18971,3 +18971,6 @@ http://sph.unc.edu/resource-pages/online-programs/
 http://sph.unc.edu/feedback
 https://sph.unc.edu/research/ris/
 http://sph.unc.edu/students/students-home/
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
