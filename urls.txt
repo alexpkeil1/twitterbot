@@ -18989,3 +18989,6 @@ http://www.nytimes.com/privacy
 http://www.nytimes.com/section/upshot
 http://www.nytimes.com/2016/10/26/theater/review-jake-gyllenhaal-shines-in-a-joyous-sunday-in-the-park-with-george.html
 http://www.nytimes.com/video
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
