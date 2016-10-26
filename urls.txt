@@ -18717,3 +18717,10 @@ https://wikimediafoundation.org/
 http://webdav.tuebingen.mpg.de/causality/
 http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=741153363
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
