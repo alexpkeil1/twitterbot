@@ -20473,3 +20473,10 @@ http://www.nytimes.com/2016/10/30/books/review/graveyard-apartment-and-more-horr
 http://www.nytimes.com/slideshow/2016/10/26/t-magazine/fall-trench-coats.html
 http://www.nytimes.com/2016/10/27/world/americas/jorge-batlle-dead.html
 http://www.nytimes.com/section/arts/design
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
