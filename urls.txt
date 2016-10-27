@@ -20184,3 +20184,10 @@ http://izquotes.com/author/dennis-lindley
 http://izquotes.com/authors/search/born-on-july-25
 http://izquotes.com/author/heraclitus
 http://izquotes.com/quote/247692
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
