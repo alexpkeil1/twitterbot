@@ -20539,3 +20539,10 @@ https://www.hsph.harvard.edu/admissions/why-harvard-chan/
 http://ems.sph.harvard.edu/MasterCalendar/MasterCalendar.aspx
 https://www.hsph.harvard.edu/news/features/traveling-fellows-pursue-research-far-afield/
 https://www.hsph.harvard.edu/news/press-releases/cervical-cancer-screening-could-be-less-frequent-start-later/
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
