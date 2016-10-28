@@ -18906,3 +18906,19 @@ http://visit.stanford.edu/plan/maps.html
 http://cs.stanford.edu/degrees/undergrad/
 http://hci.stanford.edu
 
+
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.hpa.org.uk
+https://lt.wikipedia.org/wiki/Epidemiologija
+https://www.wikidata.org/wiki/Q133805
+https://nl.wikipedia.org/wiki/Epidemiologie
+https://zh-min-nan.wikipedia.org/wiki/Li%C3%BB-h%C3%AAng-p%C4%93%E2%81%BF-ha%CC%8Dk
+https://bs.wikipedia.org/wiki/Epidemiologija
+https://pt.wikipedia.org/wiki/Epidemiologia
+https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC
+http://www.cjeb.ca/
+https://be.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D1%8F%D0%BB%D0%BE%D0%B3%D1%96%D1%8F
+https://id.wikipedia.org/wiki/Epidemiologi
+https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8
+https://sv.wikipedia.org/wiki/Epidemiologi
+https://commons.wikimedia.org/wiki/Category:Epidemiology
