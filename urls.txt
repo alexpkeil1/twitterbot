@@ -18905,3 +18905,4 @@ https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-m
 http://visit.stanford.edu/plan/maps.html
 http://cs.stanford.edu/degrees/undergrad/
 http://hci.stanford.edu
+
