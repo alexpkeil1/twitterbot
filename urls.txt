@@ -18905,3 +18905,5 @@ http://izquotes.com/copyright
 http://izquotes.com/quotes/government
 http://izquotes.com/authors/search/actors
 http://izquotes.com/authors/search/comedians
+http://www.commondreams.org
+http://commondreams.org/november-9
