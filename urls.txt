@@ -18695,3 +18695,6 @@ http://intl.pnas.org
 http://pnas100th.org
 http://www.nasonline.org/
 http://sustainability.pnas.org/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
