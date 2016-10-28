@@ -18699,3 +18699,18 @@ http://www.umassmed.edu
 http://lslintranet1.umassmed.edu
 http://library.umassmed.edu/ebpph/top25.cfm
 
+https://cs.stanford.edu/internal
+http://www.stanford.edu/site/copyright.html
+http://ai.stanford.edu
+https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://engineering.stanford.edu/connect/alumni
+http://wellness.stanford.edu/
+http://hci.stanford.edu
+https://sunetid.cs.stanford.edu/restore
+http://cvgl.stanford.edu/projects/jackrabbot/
+http://cs.stanford.edu/degrees/undergrad/
+https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://sunetid.cs.stanford.edu/backup
+https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society
+http://campus-map.stanford.edu
