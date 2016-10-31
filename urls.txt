@@ -19164,3 +19164,10 @@ https://www.instagram.com/CDCgov/
 http://www.cdc.gov/library/
 http://www.cdc.gov/flu
 https://oig.hhs.gov
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
