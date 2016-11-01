@@ -19020,3 +19020,18 @@ http://www.learn.motion.com
 http://www.math.utah.edu/~cherk/mathonline.html
 http://www.math.utah.edu/~elena target=
 http://abel.math.umu.se/~frankw/lion.html
+http://www.sciencemag.org/content/353/6298/488.short
+http://stm.sciencemag.org/
+http://www.sciencemag.org/content/353/6304/1147.short
+http://www.sciencemag.org/content/353/6299/579.short
+http://science.sciencemag.org/content/early/recent
+http://stke.sciencemag.org/content/9/451/ra104
+http://science.sciencemag.org/content/354/6311/399
+http://www.patientinform.org/
+http://science.sciencemag.org/content/354/6311/404
+http://www.sciencemag.org/journals/robotics/information-for-authors
+http://www.sciencemag.org/content/current
+http://science.sciencemag.org/content/354/6311/402
+http://www.aaas.org/page/employment-aaas
+http://science.sciencemag.org/content/354/6311/423
+http://advances.sciencemag.org/content/information-authors
