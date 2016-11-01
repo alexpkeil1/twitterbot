@@ -19099,3 +19099,5 @@ http://sunetid.cs.stanford.edu/backup
 http://www.stanford.edu/site/copyright.html
 http://commondreams.org/november-9
 http://www.commondreams.org
+http://www.commondreams.org
+http://commondreams.org/november-9
