@@ -18991,3 +18991,10 @@ http://www.cdc.gov/pcd/
 https://www.instagram.com/CDCgov/
 http://wwwnc.cdc.gov/eid
 https://www.hhs.gov/open
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
