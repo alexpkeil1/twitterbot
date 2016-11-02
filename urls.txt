@@ -18983,3 +18983,5 @@ https://sunetid.cs.stanford.edu/restore
 http://www.stanford.edu/search/
 http://hci.stanford.edu
 http://wellness.stanford.edu/
+http://www.commondreams.org
+http://commondreams.org/november-9
