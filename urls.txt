@@ -19418,3 +19418,5 @@ http://stm.sciencemag.org
 http://www.clockss.org/
 http://www.crossref.org/
 http://science.sciencemag.org/content/354/6311/399
+http://www.commondreams.org
+http://commondreams.org/november-9
