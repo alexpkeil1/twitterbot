@@ -19939,3 +19939,6 @@ http://www.cdc.gov/library/
 http://data.cdc.gov/
 http://phil.cdc.gov/phil/
 http://www.cdc.gov/pcd/
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
