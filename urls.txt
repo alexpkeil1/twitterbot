@@ -19422,3 +19422,6 @@ http://www.stanford.edu/site/copyright.html
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://wellness.stanford.edu/
 http://cs.stanford.edu/degrees/undergrad/
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
