@@ -19084,3 +19084,10 @@ http://www.usnews.com/news/news/articles/2016-10-03/scientists-endangered-frog-r
 http://glencoesoftware.com/
 http://anthropology.pnas.org/
 http://www.latimes.com/science/sciencenow/la-sci-sn-languages-sound-meaning-20160912-snap-story.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
