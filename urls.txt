@@ -19154,3 +19154,10 @@ http://www.csmonitor.com/Science/2016/1003/Yosemite-s-endangered-frogs-show-sign
 http://teachingresources.pnas.org/
 http://frontmatter.pnas.org/
 http://highwire.org/
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
