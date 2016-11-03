@@ -19106,3 +19106,10 @@ http://www.nytimes.com/seeallnav
 http://www.nytimes.com/2016/11/03/us/politics/donald-trump-veterans.html
 http://www.nytimes.com/2016/10/30/opinion/sunday/waking-up-to-shorter-commutes.html
 http://www.nytimes.com/2016/11/03/business/media/gawker-hulk-hogan-settlement.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
