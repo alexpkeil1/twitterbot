@@ -19718,3 +19718,16 @@ http://www.nytimes.com/pages/politics/index.html
 http://www.nytimes.com/2016/11/04/business/economy/unemployment-labor-department-data-politics.html
 http://www.nytimes.com/2016/11/04/briefing/asia-briefing.html
 http://www.nytimes.com/pages/education/index.html
+http://www.cambridge.org/us/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/causality-probability-and-time?format=HB
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.edwardtufte.com/tufte/hill
+https://www.wikidata.org/wiki/Q5054566
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=741153363
+http://webdav.tuebingen.mpg.de/causality/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.skleinberg.org/teaching/CI15/index.html
