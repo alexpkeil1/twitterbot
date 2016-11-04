@@ -20533,3 +20533,18 @@ http://abel.math.umu.se/~frankw/lion.html
 http://www.math.utah.edu/~elena target=
 http://www.math.utah.edu/~cherk/mathonline.html
 http://www.math.utah.edu/~cherk/hiawatha.html
+http://www.aaas.org/
+http://science.sciencemag.org/user/login?destination=/front
+http://www.patientinform.org/
+http://www.sciencemag.org/journals/robotics/information-for-authors
+http://webinar.sciencemag.org
+http://www.unep.org/oare/
+http://science.sciencemag.org/content/354/6312/534
+http://sciencemag.org
+http://science.sciencemag.org/content/354/6312/535
+http://science.sciencemag.org/content/354/6312/537
+http://stm.sciencemag.org
+http://jobs.sciencecareers.org/?_ga=1.155765947.1469154522.1409920411
+http://science.sciencemag.org/
+https://cts.sciencemag.org/scc/login.html;jsessionid=A99A8B34CD07506DDEF791E0C91183B4
+http://science.sciencemag.org
