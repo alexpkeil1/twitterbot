@@ -20549,3 +20549,6 @@ http://science.sciencemag.org/
 https://cts.sciencemag.org/scc/login.html;jsessionid=A99A8B34CD07506DDEF791E0C91183B4
 http://science.sciencemag.org
 
+http://commondreams.org/november-9
+http://www.commondreams.org
+https://www.surveymonkey.com/r/ZJC8TF6
