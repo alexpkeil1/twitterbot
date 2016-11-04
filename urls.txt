@@ -20067,3 +20067,10 @@ http://www.nytimes.com/2016/11/04/dining/christopher-kimball-americas-test-kitch
 http://www.nytimes.com/section/jobs
 http://www.nytimes.com/2016/11/04/science/stem-careers-success-achievement.html
 http://www.nytimes.com/real-estate/find-a-home
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
