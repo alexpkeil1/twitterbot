@@ -19501,3 +19501,10 @@ http://izquotes.com/author/dennis-lindley
 http://izquotes.com/copyright
 http://izquotes.com/author/friedrich-schiller
 http://izquotes.com/authors/search/artists
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
