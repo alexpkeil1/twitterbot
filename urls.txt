@@ -19383,3 +19383,6 @@ http://science.sciencemag.org/content/354/6312/555
 http://stke.sciencemag.org/content/9/452/ra106
 http://stm.sciencemag.org/content/8/363/363ra148
 http://science.sciencemag.org/content/354/6312/626
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
