@@ -19346,3 +19346,10 @@ http://izquotes.com/author/helen-rowland
 http://izquotes.com/quote/247693
 http://izquotes.com/quote/247686
 http://izquotes.com/authors/search/comedians
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
