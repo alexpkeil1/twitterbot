@@ -20266,3 +20266,18 @@ http://www.umassmed.edu
 http://lslintranet1.umassmed.edu
 http://library.umassmed.edu/ebpph/top25.cfm
 
+http://www.cdc.gov/media/
+http://phil.cdc.gov/phil/
+http://data.cdc.gov/
+https://www.hhs.gov
+http://www.thecommunityguide.org/
+https://www.instagram.com/CDCgov/
+https://www.usa.gov/
+http://www.cdc.gov/library/
+http://wwwnc.cdc.gov/eid
+http://www.omniture.com
+http://stacks.cdc.gov/mmwr
+https://oig.hhs.gov
+http://www.cdc.gov/VitalSigns/
+https://www.hhs.gov/open
+http://www.cdc.gov/pcd/
