@@ -20259,3 +20259,6 @@ https://medlineplus.gov/druginformation.html
 https://medlineplus.gov/index.html
 https://medlineplus.gov/videosandcooltools.html
 https://medlineplus.gov/accessibility.html
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
