@@ -20237,3 +20237,10 @@ http://www.nytimes.com/2016/11/08/opinion/the-question-for-james-comey.html
 http://www.nytimes.com/roomfordebate
 http://www.nytimes.com/2016/11/08/well/eat/putting-sugary-soda-out-of-reach.html
 http://www.nytimes.com/2016/11/08/theater/lost-voices-review.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
