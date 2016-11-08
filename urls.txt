@@ -20677,3 +20677,10 @@ http://izquotes.com/authors/search/comedians
 http://delivery.amessagewithabottle.com/www/delivery/ck.php?n=a6e4a179&cb=INSERT_RANDOM_NUMBER_HERE
 http://izquotes.com/authors/
 http://izquotes.com/author/george-orwell
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
