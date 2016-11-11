@@ -23443,3 +23443,5 @@ http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://www.umassmed.edu
 http://lslintranet1.umassmed.edu
 http://library.umassmed.edu/ebpph/top25.cfm
+http://www.commondreams.org
+http://commondreams.org/november-9
