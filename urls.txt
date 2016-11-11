@@ -23710,3 +23710,5 @@ http://www.nih.gov/
 https://medlineplus.gov/connect/overview.html
 https://medlineplus.gov/privacy.html
 https://medlineplus.gov/accessibility.html
+http://commondreams.org/november-9
+http://www.commondreams.org
