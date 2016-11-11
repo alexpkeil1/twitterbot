@@ -23461,3 +23461,19 @@ http://hci.stanford.edu
 http://engineering.stanford.edu/connect/alumni
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 
+
+https://www.hhs.gov
+http://www.thecommunityguide.org/
+https://www.instagram.com/CDCgov/
+https://oig.hhs.gov
+http://www.cdc.gov/VitalSigns/
+https://jobs.cdc.gov
+https://www.hhs.gov/open
+https://www.usa.gov/
+http://stacks.cdc.gov/mmwr
+http://wwwnc.cdc.gov/eid
+http://www.omniture.com
+http://www.cdc.gov/pcd/
+http://www.cdc.gov/media/
+http://data.cdc.gov/
+http://www.cdc.gov/library/
