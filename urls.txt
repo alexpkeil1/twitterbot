@@ -20236,3 +20236,10 @@ http://www.cdc.gov/tb/publications/factsheets/prevention.htm
 http://www.cdc.gov/tb/publications/infographic/webresources.htm
 http://www.cdc.gov/about/default.htm
 http://www.cdc.gov/Other/plugins/#qt
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
