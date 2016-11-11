@@ -23093,3 +23093,10 @@ http://www.hpa.org.uk
 http://www.epidemiology.ch/history/PeopleEpidemiologyLibrary.html
 https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%99%D7%93%D7%9E%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94
 https://www.wikidata.org/wiki/Q133805
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
