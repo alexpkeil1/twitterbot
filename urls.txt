@@ -19732,3 +19732,5 @@ http://wellness.stanford.edu/
 http://engineering.stanford.edu/connect/alumni
 https://sunetid.cs.stanford.edu/restore
 http://sunetid.cs.stanford.edu/backup
+http://commondreams.org/november-9
+http://www.commondreams.org
