@@ -20936,3 +20936,10 @@ http://www.nytimes.com/2016/11/11/fashion/nasty-gal-sophia-amoruso-bankruptcy.ht
 http://www.nytimes.com/2016/11/13/arts/television/dave-chappelle-saturday-night-live.html
 http://www.nytimes.com/2016/11/13/us/elections/to-our-readers-from-the-publisher-and-executive-editor.html
 http://www.nytimes.com/pages/world/index.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
