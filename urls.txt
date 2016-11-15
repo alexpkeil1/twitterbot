@@ -21480,3 +21480,10 @@ http://labs.crossref.org/
 http://www.crossref.org/01company/05board.html
 http://www.crossref.org/menumachine/crossrefmenu/navigation.html
 http://www.crossref.org/tdm/index.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
