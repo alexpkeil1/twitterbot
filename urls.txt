@@ -20222,3 +20222,15 @@ http://phil.cdc.gov/phil/
 http://wwwnc.cdc.gov/eid
 http://data.cdc.gov/
 http://stacks.cdc.gov/mmwr
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=747752343
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+http://www.edwardtufte.com/tufte/hill
+http://www.skleinberg.org/teaching/CI15/index.html
+https://www.wikidata.org/wiki/Q5054566
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
