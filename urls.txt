@@ -21043,3 +21043,6 @@ https://ga.wikipedia.org/wiki/Eipid%C3%A9imeola%C3%ADocht
 http://id.ndl.go.jp/auth/ndlna/00561888
 http://baike.baidu.com/view/143117.htm
 https://sco.wikipedia.org/wiki/Epidemiology
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
