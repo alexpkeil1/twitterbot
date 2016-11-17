@@ -20928,3 +20928,10 @@ http://www.nytimes.com/2016/11/17/us/politics/democrats-house-senate.html
 http://www.nytimes.com/2016/11/17/world/europe/reykjavik-iceland-tourism.html
 http://www.nytimes.com/pages/sports/international/index.html
 http://www.nytimes.com/seeallnav
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
