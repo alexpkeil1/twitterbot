@@ -20844,3 +20844,10 @@ http://www.stanford.edu/site/copyright.html
 https://cs.stanford.edu/internal
 http://adminguide.stanford.edu/ch6contents.html
 http://ai.stanford.edu
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
