@@ -20486,3 +20486,10 @@ http://frontmatter.pnas.org
 https://cosmosmagazine.com/climate/hot-and-wet-or-cold-and-dry-both-boost-flu-in-the-tropics
 http://chemistry.pnas.org/
 http://glencoesoftware.com/
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
