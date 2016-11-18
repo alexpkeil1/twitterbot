@@ -21934,3 +21934,15 @@ http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
 http://www.nytimes.com/2016/11/16/arts/television/review-a-defense-lawyer-with-hidden-motives-in-undercover.html
 http://www.nytimes.com/2016/11/17/insider/good-bad-and-mad-andrew-rosenthal-on-the-news.html
 http://wordplay.blogs.nytimes.com
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.edwardtufte.com/tufte/hill
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.skleinberg.org/teaching/CI15/index.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=747752343
+https://www.wikidata.org/wiki/Q5054566
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
