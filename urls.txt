@@ -20897,3 +20897,10 @@ http://www.nytimes.com/pages/fashion/weddings/index.html
 http://www.nytimes.com/2016/11/22/science/figaro-the-toolmaking-cockatoo.html
 http://www.nytimes.com/2016/11/20/realestate/where-to-be-single-in-new-york.html
 http://www.nytimes.com/recommendations
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
