@@ -20367,3 +20367,10 @@ https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-
 http://sunetid.cs.stanford.edu/backup
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 https://sunetid.cs.stanford.edu/restore
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
