@@ -21131,3 +21131,6 @@ http://highwire.stanford.edu/
 http://intl.pnas.org
 http://sustainability.pnas.org/
 http://teachingresources.pnas.org/
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
