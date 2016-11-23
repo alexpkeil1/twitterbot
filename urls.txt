@@ -22331,3 +22331,6 @@ http://sph.unc.edu/resources/rooms/
 http://sph.unc.edu/resource-pages/mission-statement/
 http://sph.unc.edu/nciph/community-engaged-learning/
 https://sph.unc.edu/events-calendar/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
