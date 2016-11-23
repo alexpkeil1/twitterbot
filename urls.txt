@@ -20603,3 +20603,10 @@ http://stacks.cdc.gov/mmwr
 http://www.cdc.gov/pcd/
 https://www.hhs.gov
 http://wwwnc.cdc.gov/eid
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
