@@ -22723,3 +22723,4 @@ http://cvgl.stanford.edu/projects/jackrabbot/
 http://adminguide.stanford.edu/ch6contents.html
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://www.commondreams.org
