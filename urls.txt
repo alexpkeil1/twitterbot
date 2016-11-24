@@ -22329,3 +22329,6 @@ https://medlineplus.gov/encyclopedia.html
 https://medlineplus.gov/privacy.html
 https://medlineplus.gov/fordevelopers.html
 https://medlineplus.gov/accessibility.html
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
