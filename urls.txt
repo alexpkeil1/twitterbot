@@ -21774,3 +21774,6 @@ https://sco.wikipedia.org/wiki/Epidemiology
 https://war.wikipedia.org/wiki/Epidemiyolohiya
 https://tl.wikipedia.org/wiki/Epidemiyolohiya
 http://d-nb.info/gnd/4015016-1
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
