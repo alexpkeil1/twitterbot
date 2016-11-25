@@ -20947,3 +20947,16 @@ http://www.fao.org/agora/en/
 http://www.sciencemag.org/authors/information-authors
 http://www.clockss.org/
 http://science.sciencemag.org
+http://www.skleinberg.org/teaching/CI15/index.html
+https://www.wikidata.org/wiki/Q5054566
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=750777468
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.edwardtufte.com/tufte/hill
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://webdav.tuebingen.mpg.de/causality/
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
