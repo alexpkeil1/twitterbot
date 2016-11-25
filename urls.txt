@@ -22701,3 +22701,18 @@ https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-
 https://sunetid.cs.stanford.edu/restore
 http://sunetid.cs.stanford.edu/backup
 
+https://oig.hhs.gov
+http://data.cdc.gov/
+http://www.cdc.gov/VitalSigns/
+http://wwwnc.cdc.gov/eid
+https://www.usa.gov/
+http://www.thecommunityguide.org/
+http://www.cdc.gov/media/
+https://www.hhs.gov/open
+http://www.cdc.gov/pcd/
+https://jobs.cdc.gov
+http://phil.cdc.gov/phil/
+https://www.hhs.gov
+http://www.cdc.gov/library/
+http://www.omniture.com
+https://www.instagram.com/CDCgov/
