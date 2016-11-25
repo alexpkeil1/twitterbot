@@ -21023,3 +21023,10 @@ http://www.nytimes.com/section/insider
 http://www.nytimes.com/2016/11/24/world/europe/european-parliament-turkey-eu-membership.html
 http://www.nytimes.com/2016/11/24/movies/miss-sloane-review-jessica-chastain.html
 http://www.nytimes.com/2016/11/23/theater/how-to-master-an-accent.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
