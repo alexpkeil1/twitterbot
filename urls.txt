@@ -21503,3 +21503,16 @@ https://medlineplus.gov/privacy.html
 https://medlineplus.gov/copyright.html
 http://www.nih.gov
 https://medlineplus.gov/videosandcooltools.html
+http://www.edwardtufte.com/tufte/hill
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.skleinberg.org/teaching/CI15/index.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=750777468
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://www.wikidata.org/wiki/Q5054566
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://webdav.tuebingen.mpg.de/causality/
