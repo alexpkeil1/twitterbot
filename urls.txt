@@ -21565,3 +21565,6 @@ http://izquotes.com/authors/search/scientists
 http://izquotes.com/author/thomas-malthus
 http://izquotes.com/authors/search/musicians
 http://izquotes.com/authors/search/born-in-1923
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
