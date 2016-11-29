@@ -22388,3 +22388,10 @@ https://www.hsph.harvard.edu/campaign/
 https://www.hsph.harvard.edu/faculty-affairs/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/marijuana-regulation-massachusetts-youth/
 https://www.hsph.harvard.edu/departments/
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
