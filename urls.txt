@@ -22235,3 +22235,6 @@ http://events.triangle.com
 http://www.newsobserver.com/
 http://www.newsobserver.com/sports/high-school/article115960423.html
 http://www.commondreams.org
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
