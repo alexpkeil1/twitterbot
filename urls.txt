@@ -43850,3 +43850,4 @@ http://hci.stanford.edu
 http://ai.stanford.edu
 https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+http://www.commondreams.org
