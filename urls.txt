@@ -43641,3 +43641,10 @@ http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
 https://www.wikidata.org/wiki/Q5054566
 http://www.skleinberg.org/teaching/CI15/index.html
 http://www.commondreams.org
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
