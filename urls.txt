@@ -45063,3 +45063,4 @@ http://dceg.cancer.gov/
 https://ja.wikipedia.org/wiki/%E7%96%AB%E5%AD%A6
 https://be.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D1%8F%D0%BB%D0%BE%D0%B3%D1%96%D1%8F
 https://pl.wikipedia.org/wiki/Epidemiologia
+http://www.commondreams.org
