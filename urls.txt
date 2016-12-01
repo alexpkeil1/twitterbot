@@ -45064,3 +45064,16 @@ https://ja.wikipedia.org/wiki/%E7%96%AB%E5%AD%A6
 https://be.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D1%8F%D0%BB%D0%BE%D0%B3%D1%96%D1%8F
 https://pl.wikipedia.org/wiki/Epidemiologia
 http://www.commondreams.org
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://www.wikidata.org/wiki/Q5054566
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://webdav.tuebingen.mpg.de/causality/
+http://www.edwardtufte.com/tufte/hill
