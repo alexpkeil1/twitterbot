@@ -44591,3 +44591,10 @@ https://wa.wikipedia.org/wiki/Min%C3%AAyolodjince
 https://zh-min-nan.wikipedia.org/wiki/Li%C3%BB-h%C3%AAng-p%C4%93%E2%81%BF-ha%CC%8Dk
 https://da.wikipedia.org/wiki/Epidemiologi
 http://apps.who.int/medicinedocs/en/d/Js6170e/4.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
