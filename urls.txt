@@ -21257,3 +21257,6 @@ https://sl.wikipedia.org/wiki/Epidemiologija
 https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%99%D7%93%D7%9E%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94
 https://et.wikipedia.org/wiki/Epidemioloogia
 https://sv.wikipedia.org/wiki/Epidemiologi
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
