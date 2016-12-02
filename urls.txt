@@ -22078,3 +22078,10 @@ http://jech.bmj.com
 https://sv.wikipedia.org/wiki/Epidemiologi
 https://uz.wikipedia.org/wiki/Epidemiologiya
 https://simple.wikipedia.org/wiki/Epidemiology
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
