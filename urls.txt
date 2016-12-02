@@ -22207,3 +22207,10 @@ http://www.nytimes.com/2016/12/02/opinion/do-not-go-gentle.html
 http://www.nytimes.com/2016/12/01/business/trumps-potential-conflicts-have-a-precedent-berlusconis-italy.html
 http://www.nytimes.com/pages/movies/index.html
 http://www.nytimes.com/pages/nyregion/index.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
