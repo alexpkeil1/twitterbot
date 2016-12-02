@@ -21376,3 +21376,6 @@ http://campus-map.stanford.edu
 http://cvgl.stanford.edu/projects/jackrabbot/
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 http://wellness.stanford.edu/
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
