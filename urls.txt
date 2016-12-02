@@ -21824,3 +21824,6 @@ http://id.ndl.go.jp/auth/ndlna/00561888
 https://pt.wikipedia.org/wiki/Epidemiologia
 https://tt.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
 http://www.jstor.org/action/showPublication?journalCode=infeconthospepid
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
