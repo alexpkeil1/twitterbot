@@ -21926,3 +21926,16 @@ http://ai.stanford.edu
 https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society
 https://cs.stanford.edu/internal
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://webdav.tuebingen.mpg.de/causality/
+https://www.wikidata.org/wiki/Q5054566
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+https://wikimediafoundation.org/wiki/Cookie_statement
