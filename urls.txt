@@ -22528,3 +22528,19 @@ http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://cs.stanford.edu/degrees/undergrad/
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 
+
+http://www.nytimes.com/giftleftnav
+http://www.nytimes.com/2016/12/02/opinion/fake-cowboys-and-real-indians.html
+http://www.nytimes.com/2016/12/02/realestate/st-lukes-hospital-buildings-convert-to-apartments.html
+http://www.nytimes.com/reuters/2016/12/01/business/01reuters-usa-autos.html
+http://www.nytimes.com/2016/12/01/books/review/daily-show-oral-history-chris-smith.html
+http://www.nytimes.com/video
+http://www.nytimes.com/digitalleftnav
+https://www.nytimes.com/2016/12/02/business/economy/trump-manufacturing-jobs-world-trade-china.html
+http://www.nytimes.com/2016/12/02/insider/back-story-novelist-rachel-kushner-visits-a-refugee-camp-in-jerusalem.html
+http://www.nytimes.com/2016/12/02/arts/design/yale-calhoun-college-slavery-debate-policy.html
+http://wordplay.blogs.nytimes.com
+http://www.nytimes.com/2016/11/26/opinion/sunday/the-pretend-populism-of-donald-trump.html
+http://www.nytimes.com/2016/11/23/books/review/100-notable-books-of-2016.html
+http://www.nytimes.com/pages/arts/international/index.html
+http://www.nytimes.com/pages/corrections/index.html
