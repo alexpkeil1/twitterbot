@@ -22966,3 +22966,10 @@ https://www.facebook.com/directory/people/
 https://www.facebook.com/legal/terms
 https://www.facebook.com/policies/?ref=pf
 https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
