@@ -21866,3 +21866,4 @@ https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://www.stanford.edu/site/copyright.html
+http://www.commondreams.org
