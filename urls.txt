@@ -22853,3 +22853,10 @@ http://www.nytimes.com/2016/12/07/briefing/asia-briefing.html
 http://www.nytimes.com/2016/12/07/technology/personaltech/the-gadget-apocalypse-is-upon-us.html
 http://www.nytimes.com/2016/12/07/nyregion/robertas-restaurant-brooklyn-threatened-fake-news-pizzagate-conspiracy.html
 http://www.nytimes.com/pages/style/international/index.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
