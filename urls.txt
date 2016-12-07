@@ -22572,3 +22572,10 @@ https://fa.wikipedia.org/wiki/%D9%87%D9%85%D9%87%E2%80%8C%DA%AF%DB%8C%D8%B1%D8%B
 http://baike.baidu.com/view/143117.htm
 https://bs.wikipedia.org/wiki/Epidemiologija
 https://sco.wikipedia.org/wiki/Epidemiology
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
