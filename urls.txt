@@ -22060,3 +22060,6 @@ http://www.nytimes.com/2016/12/06/world/europe/merkel-calls-for-ban-on-full-face
 http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
 http://www.nytimes.com/section/arts/television
 http://www.nytimes.com/pages/politics/index.html?src=hpHeader
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
