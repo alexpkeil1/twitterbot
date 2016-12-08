@@ -23233,3 +23233,10 @@ https://www.hsph.harvard.edu/news/features/scientists-gather-parkinsons-data/
 https://www.hsph.harvard.edu/news/magazine/
 http://news.harvard.edu/gazette/story/2016/12/can-happiness-lead-toward-health/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/two-honored-for-work-in-tropical-medicine/
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
