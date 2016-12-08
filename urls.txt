@@ -24122,3 +24122,10 @@ http://cvgl.stanford.edu/projects/jackrabbot/
 http://campus-map.stanford.edu
 https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
