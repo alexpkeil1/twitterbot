@@ -23819,3 +23819,10 @@ http://www.nytimes.com/video
 http://www.nytco.com/careers
 http://www.nytimes.com/2016/12/07/opinion/a-blueprint-for-the-future-of-food.html
 http://www.nytimes.com/pages/business/index.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
