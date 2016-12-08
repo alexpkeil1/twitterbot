@@ -23668,3 +23668,10 @@ http://sunetid.cs.stanford.edu/backup
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://campus-map.stanford.edu
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
