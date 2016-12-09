@@ -22055,3 +22055,6 @@ http://www.nytimes.com/section/jobs
 http://www.nytimes.com/pages/style/international/index.html
 http://www.nytimes.com/pages/arts/music/index.html
 
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
