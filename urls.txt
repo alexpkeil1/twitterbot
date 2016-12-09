@@ -25076,3 +25076,5 @@ http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 http://www.edwardtufte.com/tufte/hill
 https://www.wikidata.org/wiki/Q5054566
 https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.commondreams.org/resist
+http://www.commondreams.org
