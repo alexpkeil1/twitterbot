@@ -22433,3 +22433,5 @@ http://topics.nytimes.com/top/reference/timestopics/all/k/index.html
 http://topics.nytimes.com/top/reference/timestopics/all/h/index.html
 http://topics.nytimes.com/top/reference/timestopics/all/0-9/index.html
 http://topics.nytimes.com/top/reference/timestopics/all/d/index.html
+http://www.hsph.harvard.edu/news/multimedia-article/2012/
+http://www.nytimes.com/2016/04/10/realestate/homes-for-sale-in-mount-vernon-new-york-and-east-windsor-new-jersey.html?rediscover=desktop&remoduletype=article&remoduleid=490
