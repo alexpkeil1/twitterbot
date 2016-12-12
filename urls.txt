@@ -23402,3 +23402,18 @@ http://glencoesoftware.com/
 http://www.bostoninteractive.com
 http://teachingresources.pnas.org/
 
+https://medlineplus.gov/index.html
+https://medlineplus.gov/faq/faq.html
+https://medlineplus.gov/healthtopics.html
+https://medlineplus.gov/accessibility.html
+http://www.nih.gov
+https://medlineplus.gov/sitemap.html
+https://medlineplus.gov/fordevelopers.html
+https://medlineplus.gov/videosandcooltools.html
+https://medlineplus.gov/spanish/medlineplus.html
+https://medlineplus.gov/listserv.html
+https://medlineplus.gov/druginformation.html
+https://medlineplus.gov/disclaimers.html
+https://medlineplus.gov/criteria.html
+https://medlineplus.gov/copyright.html
+https://medlineplus.gov/privacy.html
