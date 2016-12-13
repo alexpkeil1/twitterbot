@@ -22173,3 +22173,10 @@ http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
 https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://webdav.tuebingen.mpg.de/causality/
 
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
