@@ -22654,3 +22654,16 @@ http://www.cdc.gov/library/
 http://phil.cdc.gov/phil/
 https://oig.hhs.gov
 https://www.instagram.com/CDCgov/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://www.skleinberg.org/teaching/CI15/index.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.wikidata.org/wiki/Q5054566
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://webdav.tuebingen.mpg.de/causality/
