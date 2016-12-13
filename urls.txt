@@ -22785,3 +22785,5 @@ https://medlineplus.gov/disclaimers.html
 https://medlineplus.gov/sitemap.html
 http://www.hhs.gov
 https://medlineplus.gov/copyright.html
+http://www.commondreams.org/resist
+http://www.commondreams.org
