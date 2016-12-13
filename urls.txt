@@ -22921,3 +22921,10 @@ http://sph.unc.edu/nciph/community-engaged-learning/
 https://sph.unc.edu/cphm/and-the-winner-is-an-innovative-sex-ed-app/
 http://sph.unc.edu/resource-pages/our-people-cau/
 http://sph.unc.edu/epid/epidemiology-landing/
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
