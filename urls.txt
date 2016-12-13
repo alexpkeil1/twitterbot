@@ -22729,3 +22729,18 @@ http://www.cdc.gov/library/
 https://www.instagram.com/CDCgov/
 http://data.cdc.gov/
 
+https://hu.wikipedia.org/wiki/J%C3%A1rv%C3%A1nytan
+https://tt.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+https://id.wikipedia.org/wiki/Epidemiologi
+https://mk.wikipedia.org/wiki/%D0%95%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0
+https://sv.wikipedia.org/wiki/Epidemiologi
+https://pt.wikipedia.org/wiki/Epidemiologia
+https://en.wiktionary.org/wiki/epidemiology
+https://commons.wikimedia.org/wiki/Category:Epidemiology
+https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%99%D7%93%D7%9E%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94
+http://jech.bmj.com
+https://sa.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D
+https://tr.wikipedia.org/wiki/Epidemiyoloji
+https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%83%E0%B6%82%E0%B6%9C%E0%B6%AD%E0%B7%80%E0%B7%9A%E0%B6%AF%E0%B6%BA
+http://dceg.cancer.gov/
+https://fr.wikipedia.org/wiki/%C3%89pid%C3%A9miologie
