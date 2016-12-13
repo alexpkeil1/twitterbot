@@ -22565,3 +22565,6 @@ http://engineering.stanford.edu/connect/alumni
 http://wellness.stanford.edu/
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://cs.stanford.edu/degrees/undergrad/
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
