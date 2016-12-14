@@ -22582,3 +22582,5 @@ http://visit.stanford.edu/plan/maps.html
 http://ai.stanford.edu
 http://wellness.stanford.edu/
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
