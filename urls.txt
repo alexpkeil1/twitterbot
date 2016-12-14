@@ -22700,3 +22700,5 @@ https://medlineplus.gov/connect/overview.html
 https://medlineplus.gov/criteria.html
 https://medlineplus.gov/sitemap.html
 http://www.hhs.gov
+http://www.commondreams.org
+http://www.commondreams.org/resist
