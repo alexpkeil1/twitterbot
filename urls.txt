@@ -22508,3 +22508,5 @@ https://medlineplus.gov/mplusdictionary.html
 https://medlineplus.gov/sitemap.html
 https://medlineplus.gov/accessibility.html
 https://medlineplus.gov/healthtopics.html
+http://www.commondreams.org/resist
+http://www.commondreams.org
