@@ -23241,3 +23241,18 @@ https://ecpe.sph.harvard.edu/programs.cfm?CSID=CP0000&pg=cluster&CLID=1&loc=l&lo
 https://plus.google.com/104489268760689389569/posts
 https://www.hsph.harvard.edu/
 
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society
+https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
+http://hci.stanford.edu
+http://wellness.stanford.edu/
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+https://cs.stanford.edu/internal
+http://visit.stanford.edu/plan/maps.html
+https://sunetid.cs.stanford.edu/restore
+http://www.stanford.edu/site/copyright.html
+http://www.stanford.edu/search/
+http://sunetid.cs.stanford.edu/backup
+http://ai.stanford.edu
+http://adminguide.stanford.edu/ch6contents.html
+https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
