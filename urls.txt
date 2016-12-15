@@ -23121,3 +23121,6 @@ http://www.stanford.edu/site/copyright.html
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://sunetid.cs.stanford.edu/backup
 http://cs.stanford.edu/group/manips/ocean-one.html
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
