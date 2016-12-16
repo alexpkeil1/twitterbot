@@ -24305,3 +24305,16 @@ http://www.ics.uci.edu/%7Edechter
 http://www.cs.ucla.edu/%7Ekaoru
 http://www.cs.ucla.edu/%7Ejudea
 http://www.cs.ucla.edu/%7Edarwiche
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://www.skleinberg.org/teaching/CI15/index.html
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://webdav.tuebingen.mpg.de/causality/
+http://www.edwardtufte.com/tufte/hill
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
