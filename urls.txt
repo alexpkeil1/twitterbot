@@ -22326,3 +22326,6 @@ http://ai.stanford.edu
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://campus-map.stanford.edu
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
