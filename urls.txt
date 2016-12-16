@@ -22619,3 +22619,5 @@ https://www.nlm.nih.gov/
 https://medlineplus.gov/sitemap.html
 http://www.hhs.gov
 https://medlineplus.gov/mplusdictionary.html
+http://www.commondreams.org/resist
+http://www.commondreams.org
