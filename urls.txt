@@ -22392,3 +22392,10 @@ https://medlineplus.gov/faq/faq.html
 https://medlineplus.gov/videosandcooltools.html
 http://www.nih.gov
 https://medlineplus.gov/fordevelopers.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
