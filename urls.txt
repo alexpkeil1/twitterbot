@@ -22722,3 +22722,5 @@ https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 http://www.edwardtufte.com/tufte/hill
 https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://www.commondreams.org
+http://www.commondreams.org/resist
