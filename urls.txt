@@ -24535,3 +24535,5 @@ https://www.cdc.gov/az/t.html
 https://www.cdc.gov/az/o.html
 https://www2c.cdc.gov/podcasts
 https://www.usa.gov/
+http://www.commondreams.org
+http://www.commondreams.org/resist
