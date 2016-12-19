@@ -23713,3 +23713,5 @@ http://ems.sph.harvard.edu/MasterCalendar/MasterCalendar.aspx
 https://www.hsph.harvard.edu/news/multimedia-article/podcast-the-power-of-positive-thinking/
 https://www.hsph.harvard.edu/magazine/magazine_article/intensive-care/
 https://www.hsph.harvard.edu/registrar/academic-calendar/
+http://www.commondreams.org
+http://www.commondreams.org/resist
