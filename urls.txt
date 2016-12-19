@@ -24024,3 +24024,5 @@ http://immunology.sciencemag.org/content/1/6/eaah6109
 http://science.sciencemag.org/content/354/6318/1355
 http://webinar.sciencemag.org
 http://robotics.sciencemag.org/content/1/1/eaai7529
+http://www.commondreams.org/resist
+http://www.commondreams.org
