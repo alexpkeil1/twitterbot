@@ -23392,3 +23392,5 @@ https://wwwn.cdc.gov/dcs/RequestForm.aspx
 https://www.cdc.gov/az/p.html
 https://www.cdc.gov
 http://stacks.cdc.gov/mmwr
+http://www.commondreams.org/resist
+http://www.commondreams.org
