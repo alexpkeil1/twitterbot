@@ -22913,3 +22913,16 @@ http://glencoesoftware.com/
 http://www.usatoday.com/story/weather/2016/11/21/us-record-high-temperatures-overwhelm-record-lows/94234824/
 http://highwire.org/
 http://highwire.stanford.edu/
+https://www.wikidata.org/wiki/Q5054566
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://www.skleinberg.org/teaching/CI15/index.html
+http://webdav.tuebingen.mpg.de/causality/
