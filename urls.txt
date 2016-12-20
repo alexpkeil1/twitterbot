@@ -22646,3 +22646,6 @@ http://sph.unc.edu/students/admitted-students/
 http://sph.unc.edu/resource-pages/deans-message/
 http://sph.unc.edu/resource-pages/online-programs/
 http://sph.unc.edu/resource-pages/map-and-directions/
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
