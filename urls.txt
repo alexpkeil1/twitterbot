@@ -24368,3 +24368,10 @@ http://www.bostoninteractive.com
 http://physics.pnas.org/
 http://teachingresources.pnas.org/
 http://www.smithsonianmag.com/smart-news/scientists-link-national-misery-negative-language-180961212/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
