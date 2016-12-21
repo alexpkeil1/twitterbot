@@ -23818,3 +23818,4 @@ http://vlab.infotech.monash.edu.au/simulations/cellular-automata/epidemic/
 http://cebp.aacrjournals.org
 https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8
 https://sl.wikipedia.org/wiki/Epidemiologija
+
