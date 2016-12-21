@@ -23419,3 +23419,16 @@ https://zh.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6
 https://fa.wikipedia.org/wiki/%D9%87%D9%85%D9%87%E2%80%8C%DA%AF%DB%8C%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C
 https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC
 http://apps.who.int/medicinedocs/en/d/Js6170e/4.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.skleinberg.org/teaching/CI15/index.html
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
