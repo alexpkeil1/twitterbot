@@ -22715,3 +22715,5 @@ https://www.cdc.gov/az/y.html
 https://www.cdc.gov/Other/privacy.html
 https://www.cdc.gov/az/z.html
 https://www.cdc.gov/az/o.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
