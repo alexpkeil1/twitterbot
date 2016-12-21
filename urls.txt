@@ -23292,3 +23292,10 @@ http://signaling.sciencemag.org
 http://science.sciencemag.org/content/354/6318/1364
 http://www.sciencemag.org/stm/science-translational-medicine-information-authors
 http://science.sciencemag.org/
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
