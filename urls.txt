@@ -23525,3 +23525,16 @@ http://stacks.cdc.gov/mmwr
 http://www.cdc.gov/pcd/
 https://www.cdc.gov/az/o.html
 https://www.cdc.gov/az/z.html
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.wikidata.org/wiki/Q5054566
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.edwardtufte.com/tufte/hill
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://www.skleinberg.org/teaching/CI15/index.html
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
