@@ -23180,3 +23180,10 @@ http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
 https://wikimediafoundation.org/wiki/Privacy_policy
 http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 https://www.wikidata.org/wiki/Q5054566
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
