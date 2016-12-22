@@ -23073,3 +23073,7 @@ http://izquotes.com/authors/
 http://izquotes.com/authors/search/journalist
 http://izquotes.com/author/joseph-joubert
 http://izquotes.com/quotes/family
+https://sph.unc.edu/bios/data-science/
+http://www.cdc.gov/listeria/outbreaks/raw-milk-03-16/index.html
+http://www.cdc.gov/niosh/topics/surveillance/ords/statebasedsurveillance/wra.html
+http://www.nytimes.com/2016/09/23/automobiles/autoreviews/video-review-with-many-options-ford-explorer-rides-high.html
