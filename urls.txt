@@ -23394,3 +23394,5 @@ https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-
 http://cvgl.stanford.edu/projects/jackrabbot/
 http://sunetid.cs.stanford.edu/backup
 http://visit.stanford.edu/plan/maps.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
