@@ -24384,3 +24384,5 @@ http://sunetid.cs.stanford.edu/backup
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://campus-map.stanford.edu
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
