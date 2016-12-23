@@ -24752,3 +24752,16 @@ https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_c
 http://www.nytimes.com/hdleftnav
 http://www.nytimes.com/2016/12/20/business/silicon-valley-dominating-self-driving-tech-motor-city-says-not-so-fast.html
 http://www.nytimes.com/upshot
+http://www.skleinberg.org/teaching/CI15/index.html
+http://www.edwardtufte.com/tufte/hill
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://webdav.tuebingen.mpg.de/causality/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+https://wikimediafoundation.org/
+https://www.wikidata.org/wiki/Q5054566
