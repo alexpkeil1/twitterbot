@@ -24999,3 +24999,10 @@ http://www.nytimes.com/interactive/2016/12/19/realestate/top-real-estate-stories
 http://library.umassmed.edu/ebpph/top25.cfm
 http://www.umassmed.edu
 http://lslintranet1.umassmed.edu
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
