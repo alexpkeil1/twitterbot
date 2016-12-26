@@ -27180,3 +27180,5 @@ https://www.cdc.gov/Other/privacy.html
 https://www.cdc.gov/od/foia
 http://data.cdc.gov/
 https://www.cdc.gov/az/i.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
