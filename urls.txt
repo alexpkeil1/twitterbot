@@ -26952,3 +26952,13 @@ http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&utm_medium=bcom
 http://wwwnc.cdc.gov/travel/notices/alert/hajj-umrah-saudi-arabia
 http://www.cdc.gov/tb/publications/guidestoolkits/forge/toolkitword.htm
 http://www.cdc.gov/parasites/cysticercosis/
+http://lists.unc.edu/read/?forum=08alice
+http://lists.unc.edu/read/all_forums/?forum=08alice&sb=1
+http://lists.unc.edu/read/search.tml?input=q&nsn=readmessageviewtable&base_url=/read//vtable.tml?f%3Dread::messages%26d%3Dread%26secx%3D28ea1b34%26nsn%3Dreadmessageviewtable%26max%3D%26min%3D%26rawresults%3D0%26forum%3D08alice
+http://lists.unc.edu/read//vtable.tml?f=read::messages&d=read&secx=28ea1b34&nsn=readmessageviewtable&max=&min=&rawresults=0&forum=08alice&q=&sm=1
+http://lists.unc.edu/read//vtable.tml?f=read::messages&d=read&secx=28ea1b34&nsn=readmessageviewtable&max=&min=&rawresults=0&forum=08alice&q=&sn=1
+http://lists.unc.edu/read/?forum=08alice&sb=1
+http://lists.unc.edu/read//vtable.tml?f=read::messages&d=read&secx=28ea1b34&nsn=readmessageviewtable&max=&min=&rawresults=0&forum=08alice
+http://lists.unc.edu/read//vtable.tml?f=read::messages&d=read&secx=28ea1b34&nsn=readmessageviewtable&max=&min=&rawresults=0&forum=08alice&q=&sn=-1
+http://lists.unc.edu/read/about/?forum=08alice&sb=1
+http://lists.unc.edu/read//vtable.tml?f=read::messages&d=read&secx=28ea1b34&nsn=readmessageviewtable&max=&min=&rawresults=0&forum=08alice&q=&sm=-1
