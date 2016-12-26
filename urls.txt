@@ -27158,3 +27158,10 @@ https://medlineplus.gov/connect/overview.html
 https://medlineplus.gov/spanish/medlineplus.html
 https://www.nlm.nih.gov
 https://medlineplus.gov/privacy.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
