@@ -26599,3 +26599,6 @@ http://sunetid.cs.stanford.edu/backup
 http://wellness.stanford.edu/
 https://cs.stanford.edu/internal
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
