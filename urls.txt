@@ -26376,3 +26376,6 @@ https://cts.sciencemag.org/scc/login.html;jsessionid=A99A8B34CD07506DDEF791E0C91
 http://science.sciencemag.org/content/354/6319/1515
 https://pubs.aaas.org/MembershipRenewal/new_ren_setup_rd.asp?dmc=R7BXUW
 http://signaling.sciencemag.org
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
