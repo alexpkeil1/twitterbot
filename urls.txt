@@ -23719,3 +23719,18 @@ http://www.math.utah.edu/~elena target=
 http://www.math.utah.edu/~cherk/puzzles.html
 http://v.extreme-dm.com/?login=cherk1
 
+http://www.nytimes.com/video?src=vidm
+http://www.nytimes.com/2016/12/28/opinion/a-zika-vaccine-but-for-whom.html
+http://www.nytimes.com/pages/world/middleeast/index.html
+http://www.nytimes.com/2016/12/28/health/hospitals-medicaid-obamacare-trump.html
+http://www.nytimes.com/pages/arts/international/index.html
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/2016/12/27/sports/olympics/russia-doping.html
+http://www.nytimes.com/interactive/2016/12/28/style/ways-to-be-a-better-person-in-2017.html
+http://www.nytimes.com/2016/12/28/nyregion/new-york-todays-new-yorkers-of-the-year-valerie-goldfein.html
+http://www.nytimes.com/section/jobs
+http://www.nytimes.com/pages/politics/index.html?src=hpHeader
+http://www.nytimes.com/2016/12/27/sports/soccer/bob-bradley-fired-swansea-city.html
+http://www.nytimes.com/2016/12/27/us/politics/donald-trump-inauguration-security.html
+http://www.nytimes.com/video
+http://www.nytimes.com/section/travel
