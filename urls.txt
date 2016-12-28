@@ -23091,3 +23091,5 @@ http://bayes.cs.ucla.edu/csl_papers.html
 http://www.cs.ucla.edu/%7Ekaoru
 http://www.cs.ucla.edu/%7Ejudea
 
+http://www.commondreams.org/resist
+http://www.commondreams.org
