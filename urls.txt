@@ -23083,3 +23083,10 @@ http://www.nytimes.com/pages/multimedia/index.html
 http://wordplay.blogs.nytimes.com/2016/07/26/come-on-along-with-us/
 http://www.nytimes.com/2016/12/23/arts/television/sherlock-bbc-women.html
 http://www.nytimes.com/crosswords/index.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
