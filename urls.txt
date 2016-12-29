@@ -24878,3 +24878,6 @@ https://commons.wikimedia.org/wiki/Category:Epidemiology
 https://lv.wikipedia.org/wiki/Epidemiolo%C4%A3ija
 https://fr.wikipedia.org/wiki/%C3%89pid%C3%A9miologie
 https://wikimediafoundation.org/wiki/Cookie_statement
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
