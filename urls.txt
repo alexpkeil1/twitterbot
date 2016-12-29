@@ -25460,3 +25460,6 @@ http://www.stanford.edu/search/
 https://cs.stanford.edu/internal
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 https://sunetid.cs.stanford.edu/restore
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
