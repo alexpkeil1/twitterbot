@@ -26376,3 +26376,6 @@ http://www.stanford.edu/search/
 http://campus-map.stanford.edu
 https://sunetid.cs.stanford.edu/restore
 http://visit.stanford.edu/plan/maps.html
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
