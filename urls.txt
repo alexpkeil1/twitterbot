@@ -25789,3 +25789,16 @@ http://www.economist.com/cookies-info
 http://www.economistgroup.com/results_and_governance/governance/privacy/
 https://gre.economist.com/
 https://learning.ly
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://www.wikidata.org/wiki/Q5054566
+http://www.edwardtufte.com/tufte/hill
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
