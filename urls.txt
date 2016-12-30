@@ -26098,3 +26098,10 @@ http://play.google.com/store/apps/details?id=com.mobileroadie.app_645
 https://www.hsph.harvard.edu/news/features/involving-youth-in-public-health-program-design/
 http://my.harvard.edu
 https://www.hsph.harvard.edu/faculty-affairs/postdoctoral-research-fellows/
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
