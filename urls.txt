@@ -23339,3 +23339,6 @@ http://www.nytimes.com/section/science
 http://www.nytimes.com/seeallnav
 http://www.nytimes.com/2016/12/30/opinion/new-yorks-new-subway-is-a-century-overdue.html
 http://www.nytimes.com/2016/12/28/realestate/compare-homes-in-atlanta-georgia-california-and-seattle-washington-state.html
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
