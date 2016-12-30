@@ -23513,3 +23513,10 @@ http://www.epidemiology.ch/history/PeopleEpidemiologyLibrary.html
 https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1
 https://tr.wikipedia.org/wiki/Epidemiyoloji
 https://no.wikipedia.org/wiki/Epidemiologi
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
