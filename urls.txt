@@ -23884,3 +23884,4 @@ http://www.sciencemag.org/content/current
 http://robotics.sciencemag.org/content/1/1/eaai7529
 http://stm.sciencemag.org/content/8/370/370ra180
 https://cts.sciencemag.org/scc/login.html;jsessionid=A99A8B34CD07506DDEF791E0C91183B4
+http://www.nytimes.com/2016/09/28/arts/joan-of-arcs-shaky-pedestal-france-battles-over-its-identity-at-school.html
