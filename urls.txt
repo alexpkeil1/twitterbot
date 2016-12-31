@@ -23563,3 +23563,10 @@ http://sph.unc.edu/epid/epidemiology-landing/
 https://sph.unc.edu/students/students-home/
 http://sph.unc.edu/nciph/nciph-home/
 https://sph.unc.edu/category/school_news/
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
