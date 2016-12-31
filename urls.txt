@@ -23528,3 +23528,5 @@ https://www.wikidata.org/wiki/Q5054566
 https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
 https://wikimediafoundation.org/wiki/Privacy_policy
 http://www.edwardtufte.com/tufte/hill
+http://www.commondreams.org
+http://www.commondreams.org/resist
