@@ -23447,3 +23447,6 @@ http://visit.stanford.edu/plan/maps.html
 https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://cs.stanford.edu/degrees/undergrad/
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
