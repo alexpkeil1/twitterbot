@@ -23411,3 +23411,5 @@ https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BE%E0%B4%82%E0%B4%95%E0%B5%8D%E0%B
 https://fr.wikipedia.org/wiki/%C3%89pid%C3%A9miologie
 https://de.wikipedia.org/wiki/Epidemiologie
 https://sv.wikipedia.org/wiki/Epidemiologi
+http://www.commondreams.org
+http://www.commondreams.org/resist
