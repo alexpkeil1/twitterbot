@@ -23714,3 +23714,10 @@ https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%83%E0%B6%82%E0%B6%9C%E0%B6%AD%E0%B
 http://id.ndl.go.jp/auth/ndlna/00561888
 http://jech.bmj.com
 https://www.wikidata.org/wiki/Q133805
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
