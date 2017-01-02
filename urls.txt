@@ -23476,3 +23476,5 @@ http://campus-map.stanford.edu
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 http://cvgl.stanford.edu/projects/jackrabbot/
 http://hci.stanford.edu
+http://www.commondreams.org/resist
+http://www.commondreams.org
