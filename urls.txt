@@ -23948,3 +23948,6 @@ https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
 http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
