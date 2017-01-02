@@ -23413,3 +23413,4 @@ http://sph.unc.edu/students/prospective-students/
 http://sph.unc.edu/resource-pages/map-and-directions/
 https://sph.unc.edu/cphm/well-served/
 http://sph.unc.edu/resource-pages/reputation/
+http://www.cdc.gov/tb/publications/factseries/exposure_eng.htm
