@@ -23426,3 +23426,5 @@ https://www.hhs.gov/open
 https://jobs.cdc.gov
 https://www.cdc.gov/funding
 http://www.cdc.gov/library/
+http://www.commondreams.org
+http://www.commondreams.org/resist
