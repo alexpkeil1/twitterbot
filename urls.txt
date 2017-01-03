@@ -24468,3 +24468,5 @@ http://feeds.feedburner.com/izquotes
 http://izquotes.com/quotes/love
 http://izquotes.com/quote/247693
 http://izquotes.com/author/james-madison
+http://www.commondreams.org
+http://www.commondreams.org/resist
