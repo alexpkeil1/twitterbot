@@ -23969,3 +23969,5 @@ http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
 https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://clopinet.com/isabelle/Projects/NIPS2013/
 https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=752317387
+http://www.commondreams.org/resist
+http://www.commondreams.org
