@@ -24855,3 +24855,10 @@ http://www.cdc.gov/media/
 https://wwwn.cdc.gov/dcs/RequestForm.aspx
 http://www.cdc.gov/VitalSigns/
 https://www.cdc.gov/az/h.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
