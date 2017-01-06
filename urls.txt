@@ -24388,3 +24388,10 @@ https://www.hsph.harvard.edu/news/hsph-in-the-news/preparedness-leadership-tsa/
 https://www.hsph.harvard.edu/faculty-affairs/
 https://www.hsph.harvard.edu/campaign/
 https://www.hsph.harvard.edu/news/magazine-digital-editions/
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
