@@ -24895,3 +24895,6 @@ https://www.hsph.harvard.edu/news/why-public-health/
 https://www.hsph.harvard.edu/admissions/
 https://www.hsph.harvard.edu/campaign/
 https://www.hsph.harvard.edu/news/hsph-in-the-news/obamacare-defenders-ready/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
