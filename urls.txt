@@ -24059,3 +24059,5 @@ http://sph.unc.edu/nciph/nciph-home/
 http://sph.unc.edu/events-calendar/
 http://unc.edu/
 http://sph.unc.edu
+http://www.commondreams.org
+http://www.commondreams.org/resist
