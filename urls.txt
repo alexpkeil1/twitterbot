@@ -24344,3 +24344,6 @@ http://www.learn.motion.com
 http://abel.math.umu.se/~frankw/lion.html
 http://www.math.utah.edu/~cherk/hiawatha.html
 http://www.math.utah.edu/~cherk/index.html
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
