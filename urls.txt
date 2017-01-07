@@ -25836,3 +25836,6 @@ http://campus-map.stanford.edu
 http://www.stanford.edu/site/copyright.html
 http://visit.stanford.edu/plan/maps.html
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
