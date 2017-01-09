@@ -26572,3 +26572,10 @@ https://www.hsph.harvard.edu/searches/
 https://www.hsph.harvard.edu/faculty-affairs/postdoctoral-research-fellows/
 https://www.hsph.harvard.edu/admissions/degree-programs/
 https://www.hsph.harvard.edu/deans-office/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
