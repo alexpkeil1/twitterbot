@@ -26276,3 +26276,10 @@ http://sph.unc.edu/students/current-students/
 http://sph.unc.edu/resource-pages/map-and-directions/
 http://sph.unc.edu/resource-pages/deans-message/
 http://sph.unc.edu/sph-news/cscc-awarded-new-aric-contract/
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
