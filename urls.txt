@@ -26213,3 +26213,6 @@ http://www.edwardtufte.com/tufte/hill
 https://eu.wikipedia.org/wiki/Epidemiologia
 https://tt.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
 https://nl.wikipedia.org/wiki/Epidemiologie
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
