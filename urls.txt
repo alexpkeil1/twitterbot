@@ -24921,3 +24921,6 @@ https://tr.wikipedia.org/wiki/Epidemiyoloji
 https://bs.wikipedia.org/wiki/Epidemiologija
 https://ja.wikipedia.org/wiki/%E7%96%AB%E5%AD%A6
 https://commons.wikimedia.org/wiki/Category:Public_health
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
