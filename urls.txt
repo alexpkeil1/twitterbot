@@ -24128,3 +24128,5 @@ http://webinar.sciencemag.org
 http://science.sciencemag.org/content/354/6317/1257
 http://www.sciencemag.org/authors/information-authors
 http://science.sciencemag.org/content/355/6320/28
+http://www.commondreams.org/resist
+http://www.commondreams.org
