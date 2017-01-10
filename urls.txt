@@ -24153,3 +24153,5 @@ http://cs.stanford.edu/degrees/undergrad/
 http://campus-map.stanford.edu
 http://ai.stanford.edu
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://www.commondreams.org/resist
+http://www.commondreams.org
