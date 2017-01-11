@@ -25934,3 +25934,5 @@ http://hci.stanford.edu
 http://www.stanford.edu/search/
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 http://cs.stanford.edu/degrees/undergrad/
+http://www.commondreams.org/resist
+http://www.commondreams.org
