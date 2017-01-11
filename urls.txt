@@ -25996,3 +25996,10 @@ http://www.radiologyinfo.org/sp/glossary/glossary.cfm?gid=216
 http://www.radiologyinfo.org/sp/info.cfm?pg=gamma_knife#terapia-generalidades
 http://www.radiologyinfo.org/sp/info.cfm?pg=gamma_knife#terapia-operadores
 http://www.radiologyinfo.org/sp/info.cfm?pg=stereotactic
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
