@@ -25152,3 +25152,5 @@ https://medlineplus.gov/listserv.html
 https://www.nlm.nih.gov/
 https://www.nlm.nih.gov
 https://medlineplus.gov/
+http://www.commondreams.org/resist
+http://www.commondreams.org
