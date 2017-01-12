@@ -25103,3 +25103,5 @@ http://hci.stanford.edu
 https://cs.stanford.edu/internal
 http://cs.stanford.edu/degrees/undergrad/
 http://www.stanford.edu/search/
+http://www.commondreams.org
+http://www.commondreams.org/resist
