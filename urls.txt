@@ -24141,3 +24141,5 @@ http://izquotes.com/authors/search/popular
 http://izquotes.com/quote/209573
 http://izquotes.com/contact/
 http://izquotes.com/quotes/history
+http://www.commondreams.org/resist
+http://www.commondreams.org
