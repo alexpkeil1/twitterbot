@@ -24402,3 +24402,5 @@ http://www.nytimes.com/section/magazine
 http://www.nytimes.com/section/upshot
 http://www.nytimes.com/section/insider
 http://www.nytimes.com/pages/business/international/index.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
