@@ -24656,3 +24656,6 @@ http://unc.edu/
 http://sph.unc.edu/students/life-in-chapel-hill/
 https://sph.unc.edu/comm/sph-news/
 http://sph.unc.edu/students/admitted-students/
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
