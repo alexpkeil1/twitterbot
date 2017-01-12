@@ -26756,3 +26756,10 @@ https://sph.unc.edu/students/students-home/
 http://sph.unc.edu/gift/make-a-gift/
 http://sph.unc.edu/nciph/nciph-home/
 https://sph.unc.edu/cphm/food-for-all/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
