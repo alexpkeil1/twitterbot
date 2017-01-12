@@ -24404,3 +24404,10 @@ http://www.nytimes.com/section/insider
 http://www.nytimes.com/pages/business/international/index.html
 http://www.commondreams.org
 http://www.commondreams.org/resist
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
