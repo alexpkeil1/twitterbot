@@ -24939,3 +24939,5 @@ http://www.ics.uci.edu/%7Edechter
 http://bayes.cs.ucla.edu/csl_papers.html
 http://bayes.cs.ucla.edu/jp_home.html
 http://www.cs.ucla.edu/%7Ejudea
+http://www.commondreams.org/resist
+http://www.commondreams.org
