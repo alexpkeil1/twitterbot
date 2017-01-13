@@ -25177,3 +25177,10 @@ http://science.sciencemag.org/content/355/6321/166
 http://stm.sciencemag.org
 http://www.commondreams.org
 http://www.commondreams.org/resist
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
