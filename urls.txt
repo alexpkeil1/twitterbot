@@ -26399,3 +26399,5 @@ http://www.newsobserver.com/news/local/community/chapel-hill-news/
 https://www.pinterest.com/newsobserver/
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-opinion
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-obituaries
+http://www.commondreams.org
+http://www.commondreams.org/resist
