@@ -26537,3 +26537,10 @@ https://www.cdc.gov/az/o.html
 https://www.cdc.gov/funding
 http://www.cdc.gov/VitalSigns/
 http://wwwnc.cdc.gov/eid
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
