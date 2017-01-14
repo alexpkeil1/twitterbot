@@ -26305,3 +26305,5 @@ http://www.nytimes.com/pages/world/index.html
 http://www.nytimes.com/pages/books/index.html
 http://www.nytimes.com/pages/arts/television/index.html
 https://www.nytimes.com/2017/01/13/us/politics/affordable-care-act-senate-budget.html
+http://www.commondreams.org/resist
+http://www.commondreams.org
