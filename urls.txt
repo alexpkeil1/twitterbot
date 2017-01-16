@@ -24353,3 +24353,5 @@ http://campus-map.stanford.edu
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
 http://www.stanford.edu/search/
 http://cs.stanford.edu/group/manips/ocean-one.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
