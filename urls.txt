@@ -26761,3 +26761,5 @@ https://medlineplus.gov/index.html
 https://medlineplus.gov/druginformation.html
 http://www.nih.gov
 http://www.hhs.gov
+http://www.commondreams.org/resist
+http://www.commondreams.org
