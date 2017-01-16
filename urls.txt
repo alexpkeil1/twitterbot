@@ -26737,3 +26737,10 @@ http://izquotes.com/authors/search/comedians
 http://izquotes.com/author/walter-savage-landor
 http://izquotes.com/author/w.-c.-fields
 http://izquotes.com/quotes/love
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
