@@ -24451,3 +24451,10 @@ http://campus-map.stanford.edu
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://adminguide.stanford.edu/ch6contents.html
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
