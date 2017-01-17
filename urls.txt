@@ -24414,3 +24414,10 @@ https://sph.unc.edu/cphm/mhealth/
 https://sph.unc.edu/category/school_news/
 http://sph.unc.edu/resource-pages/reputation/
 https://sph.unc.edu/events-calendar/
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
