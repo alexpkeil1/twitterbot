@@ -24323,3 +24323,5 @@ http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_
 http://www.nytimes.com/
 http://www.nytimes.com/section/books
 http://www.nytimes.com/video
+http://www.commondreams.org
+http://www.commondreams.org/resist
