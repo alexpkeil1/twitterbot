@@ -25230,3 +25230,5 @@ http://www.nytimes.com/pages/national/index.html
 https://www.nytimes.com/2017/01/16/arts/design/irma-boom-bookmaker-vermeer-prize-amsterdam-library.html
 http://www.nytimes.com/pages/movies/index.html
 https://www.nytimes.com/2017/01/14/opinion/sunday/judd-apatow-freaking-out-over-donald-trump.html
+http://www.commondreams.org
+http://www.commondreams.org/resist
