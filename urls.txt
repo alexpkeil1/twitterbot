@@ -24325,3 +24325,10 @@ http://www.nytimes.com/section/books
 http://www.nytimes.com/video
 http://www.commondreams.org
 http://www.commondreams.org/resist
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
