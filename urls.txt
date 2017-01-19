@@ -26996,3 +26996,10 @@ https://sph.unc.edu/sph-news/ese-researchers-awarded-large-supercomputing-grant-
 http://sph.unc.edu/resource-pages/deans-message/
 http://sph.unc.edu/resource-pages/our-people-cau/
 https://sph.unc.edu/category/school_news/
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
