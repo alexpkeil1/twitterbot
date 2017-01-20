@@ -24507,3 +24507,10 @@ https://www.pinterest.com/newsobserver/
 http://events.triangle.com
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-community
 http://www.newsobserver.com/
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
