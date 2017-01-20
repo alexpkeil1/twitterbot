@@ -24811,3 +24811,10 @@ http://worldif.economist.com/
 http://marketingsolutions.economist.com/
 http://press.economist.com/
 http://www.economistgroup.com/results_and_governance/governance/privacy/
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
