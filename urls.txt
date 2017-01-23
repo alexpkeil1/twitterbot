@@ -25342,3 +25342,5 @@ https://wikimediafoundation.org/
 https://zh.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6
 https://eu.wikipedia.org/wiki/Epidemiologia
 https://es.wikipedia.org/wiki/Epidemiolog%C3%ADa
+http://www.commondreams.org
+http://www.commondreams.org/resist
