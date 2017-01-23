@@ -24563,3 +24563,5 @@ https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
 http://www.edwardtufte.com/tufte/hill
 http://www.eurosurveillance.org
 https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_t%E1%BB%85_h%E1%BB%8Dc
+http://www.commondreams.org
+http://www.commondreams.org/resist
