@@ -24594,3 +24594,10 @@ https://www.nytimes.com/2017/01/22/arts/music/jukedeck-artificial-intelligence-s
 http://www.nytimes.com/interactive/2017/01/19/travel/what-to-do-36-hours-in-galveston-texas.html
 http://www.nytimes.com/tpnav
 http://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
