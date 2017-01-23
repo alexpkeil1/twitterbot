@@ -24784,3 +24784,5 @@ https://medlineplus.gov/fordevelopers.html
 https://medlineplus.gov/copyright.html
 https://medlineplus.gov/listserv.html
 https://www.nlm.nih.gov/
+http://www.commondreams.org
+http://www.commondreams.org/resist
