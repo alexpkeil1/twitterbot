@@ -25778,3 +25778,10 @@ https://www.nytimes.com/2017/01/23/movies/star-wars-jedi-temple.html
 http://www.nytimes.com/interactive/blogs/directory.html
 http://www.nytimes.com/pages/world/index.html
 https://www.nytimes.com/2017/01/22/books/the-evenings-a-dutch-classic-arrives-in-english-it-only-took-70-years.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
