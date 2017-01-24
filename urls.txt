@@ -25553,3 +25553,5 @@ http://www.nytimes.com/ref/classifieds/
 https://www.nytimes.com/column/whats-selling-now
 http://mobile.nytimes.com/
 http://www.nytimes.com/2016/10/28/us/bundy-brothers-acquitted-in-takeover-of-oregon-wildlife-refuge.html
+http://wwwcf2.nlm.nih.gov/nlm_eresources/eresources/search_database.cfm
+http://www.nytimes.com/2016/07/18/movies/ghostbusters-is-no-2-behind-secret-life-of-pets-but-sonys-giddy.html
