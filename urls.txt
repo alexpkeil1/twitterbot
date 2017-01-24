@@ -25552,3 +25552,4 @@ http://www.nytimes.com/video/the-daily-360
 http://www.nytimes.com/ref/classifieds/
 https://www.nytimes.com/column/whats-selling-now
 http://mobile.nytimes.com/
+http://www.nytimes.com/2016/10/28/us/bundy-brothers-acquitted-in-takeover-of-oregon-wildlife-refuge.html
