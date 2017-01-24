@@ -26146,3 +26146,10 @@ https://be-x-old.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D
 https://wikimediafoundation.org/wiki/Privacy_policy
 http://www.cred.be
 https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
