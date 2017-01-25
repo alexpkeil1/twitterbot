@@ -26627,3 +26627,5 @@ https://www.wikidata.org/wiki/Q5054566
 http://www.edwardtufte.com/tufte/hill
 http://www.britannica.com/EBchecked/topic/1442615/causal-inference
 https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.commondreams.org/resist
+http://www.commondreams.org
