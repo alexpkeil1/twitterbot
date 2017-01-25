@@ -24946,3 +24946,16 @@ https://ga.wikipedia.org/wiki/Eipid%C3%A9imeola%C3%ADocht
 https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1
 http://id.ndl.go.jp/auth/ndlna/00561888
 https://be.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D1%8F%D0%BB%D0%BE%D0%B3%D1%96%D1%8F
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=759316265
+https://www.wikidata.org/wiki/Q5054566
+http://www.skleinberg.org/teaching/CI15/index.html
+http://webdav.tuebingen.mpg.de/causality/
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
+https://wikimediafoundation.org/wiki/Cookie_statement
+https://wikimediafoundation.org/
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
