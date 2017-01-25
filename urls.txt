@@ -24840,3 +24840,18 @@ http://www.ph.ucla.edu/epi/snow/importance.html
 http://www.iea-europe.org/index.htm
 https://ko.wikipedia.org/wiki/%EC%97%AD%ED%95%99_(%EC%9D%98%ED%95%99)
 
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/24/sports/tennis/mirjana-lucic-baroni-australian-open.html
+http://www.nytimes.com/pages/arts/international/index.html
+http://www.nytimes.com/pages/topics/
+https://www.nytimes.com/2017/01/24/well/move/the-right-way-to-fall.html
+http://cn.nytimes.com
+https://www.nytimes.com/2017/01/23/travel/shanghai-shikumen-architecture-homes-china.html
+https://www.nytimes.com/2017/01/24/books/review/patriots-sana-krasikov.html
+https://www.nytimes.com/2017/01/23/sports/football/nfl-playoffs-leave-fans-hungering-for-a-close-super-bowl.html
+http://www.nytimes.com/interactive/2017/movies/oscars-2017-nominees-ballot.html
+http://www.nytimes.com/es/
+https://www.nytimes.com/video/us/politics/100000004892467/trump-expected-to-order-mexican-border-wall.html
+https://www.nytimes.com/2017/01/23/opinion/why-buzzfeed-news-published-the-dossier.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/pages/corrections/index.html
