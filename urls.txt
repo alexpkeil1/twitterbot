@@ -26276,3 +26276,10 @@ https://wikimediafoundation.org/
 https://secure.actblue.com/contribute/page/independent-media?amount=15.00&recurring=yes
 http://www.commondreams.org
 http://www.commondreams.org/resist
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
