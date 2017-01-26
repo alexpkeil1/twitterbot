@@ -26048,3 +26048,6 @@ http://izquotes.com/authors/search/statisticians
 http://lslintranet1.umassmed.edu
 http://www.umassmed.edu
 http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
