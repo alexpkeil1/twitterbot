@@ -25901,3 +25901,6 @@ https://commons.wikimedia.org/wiki/Category:Statistics
 https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%8B%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B0%E0%AE%B5%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D
 https://id.wikipedia.org/wiki/Epidemiologi
 https://www.wikidata.org/wiki/Q133805
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
