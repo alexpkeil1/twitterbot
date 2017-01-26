@@ -25780,3 +25780,6 @@ http://cs.stanford.edu/group/manips/ocean-one.html
 http://wellness.stanford.edu/
 http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://ai.stanford.edu
+http://www.commondreams.org/resist
+https://secure.actblue.com/contribute/page/independent-media?amount=15.00&recurring=yes
+http://www.commondreams.org
