@@ -26986,3 +26986,18 @@ http://www.ilstu.edu/~gcramsey/Gallery.html
 http://www.ilstu.edu/~gcramsey
 http://www.se16.info/hgb/
 
+http://campus-map.stanford.edu
+http://engineering.stanford.edu/connect/alumni
+http://www.stanford.edu/site/copyright.html
+http://visit.stanford.edu/plan/maps.html
+https://cs.stanford.edu/internal
+http://ai.stanford.edu
+http://www.stanford.edu/search/
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+http://adminguide.stanford.edu/ch6contents.html
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://cs.stanford.edu/degrees/undergrad/
+http://wellness.stanford.edu/
+https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
+http://hci.stanford.edu
+https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
