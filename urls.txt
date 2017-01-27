@@ -27001,3 +27001,6 @@ http://wellness.stanford.edu/
 https://engineering.stanford.edu/news/machine-learning-uses-satellite-data-zero-poverty-pockets
 http://hci.stanford.edu
 https://engineering.stanford.edu/news/smartphone-speech-recognition-faster-and-more-accurate-typing
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
