@@ -26857,3 +26857,16 @@ http://www.se16.info/hgb/jokebook.htm
 http://www.statcounter.com/
 http://www.xs4all.nl/~jcdverha/scijokes/
 http://www.netfunny.com/rhf/jokes/90q2/stats.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.skleinberg.org/teaching/CI15/index.html
+https://www.wikidata.org/wiki/Q5054566
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=759316265
+http://webdav.tuebingen.mpg.de/causality/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://wikimediafoundation.org/
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
