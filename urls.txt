@@ -25135,3 +25135,16 @@ http://www.math.utah.edu/~elena target=
 http://www.math.utah.edu/~elena
 http://extremetracking.com/open?login=jokemath
 http://www.math.utah.edu/~cherk/hiawatha.html
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://www.edwardtufte.com/tufte/hill
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=762247687
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/wiki/Privacy_policy
+https://wikimediafoundation.org/
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://www.wikidata.org/wiki/Q5054566
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://webdav.tuebingen.mpg.de/causality/
