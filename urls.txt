@@ -25509,3 +25509,10 @@ http://sph.unc.edu/nciph/community-engaged-learning/
 http://sph.unc.edu/nciph/culture-of-health/
 https://sph.unc.edu/comm/sph-news/
 https://sph.unc.edu/cphm/well-served/
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
