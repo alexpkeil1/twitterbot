@@ -25814,3 +25814,6 @@ http://izquotes.com/quote/188699
 http://izquotes.com/authors/search/lawyers
 http://izquotes.com/quote/281305
 http://izquotes.com/quotes/money/7
+http://dx.doi.org/10.1002/mdc3.12286
+http://www.cdc.gov/tb/publications/posters/default.htm
+http://www.nytimes.com/2016/05/11/books/review/cecils-pride-and-prairie-dog-song.html?rref=collection%2Fcolumn%2FChildrens Books
