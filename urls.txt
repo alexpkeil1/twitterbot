@@ -25452,3 +25452,6 @@ http://www.cs.ucla.edu/%7Edarwiche
 http://www.cs.ucla.edu/%7Ekaoru
 http://bayes.cs.ucla.edu/bib.html
 http://www.ics.uci.edu/%7Edechter
+http://www.commondreams.org/resist
+https://secure.actblue.com/contribute/page/independent-media?amount=15.00&recurring=yes
+http://www.commondreams.org
