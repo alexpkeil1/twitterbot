@@ -25914,3 +25914,10 @@ https://www.nytimes.com/2017/01/30/world/europe/donald-trump-us-alllies.html
 http://www.umassmed.edu
 http://library.umassmed.edu/ebpph/top25.cfm
 http://lslintranet1.umassmed.edu
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
