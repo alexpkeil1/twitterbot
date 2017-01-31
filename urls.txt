@@ -25232,3 +25232,6 @@ http://www.riskanalytica.com/?q=node/70
 http://www.cjeb.ca/
 https://sl.wikipedia.org/wiki/Epidemiologija
 https://ja.wikipedia.org/wiki/%E7%96%AB%E5%AD%A6
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
