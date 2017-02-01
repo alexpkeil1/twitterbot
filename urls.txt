@@ -25544,3 +25544,10 @@ https://www.cdc.gov/mmwr/cme/weekly_conted.html
 https://www.cdc.gov/mmwr/volumes/65/wr/mm6547e1.htm?s_cid=mm6547e1_w#F2_up
 https://www.cdc.gov/mmwr/statehealth/index.html
 https://www.cdc.gov/az/y.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
