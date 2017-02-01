@@ -25597,3 +25597,10 @@ https://jobs.cdc.gov
 http://www.cdc.gov/VitalSigns/
 https://www.cdc.gov/az/q.html
 https://www.cdc.gov/az/c.html
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/csl_papers.html
