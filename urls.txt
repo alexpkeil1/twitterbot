@@ -25782,3 +25782,10 @@ http://jobs.economist.com/
 http://www.economist.com/newsletters
 http://debates.economist.com/
 https://subscription.economist.com/DE/EngCore/Search/subscription-offers
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/bib.html
