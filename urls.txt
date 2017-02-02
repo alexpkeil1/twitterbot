@@ -26213,3 +26213,6 @@ http://www.nih.gov/
 https://www.nlm.nih.gov/
 https://medlineplus.gov/privacy.html
 http://www.nih.gov
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/independent-media?amount=15.00&recurring=yes
+http://www.commondreams.org/resist
