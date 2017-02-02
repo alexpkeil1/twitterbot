@@ -26008,3 +26008,10 @@ http://izquotes.com/quotes/women
 http://pinterest.com/izquotes/
 http://izquotes.com/author/hedy-lamarr
 http://izquotes.com/quotes/people
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
