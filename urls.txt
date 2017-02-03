@@ -26026,3 +26026,6 @@ https://sph.unc.edu/events-calendar/
 http://sph.unc.edu/resource-pages/sph-departments/
 http://sph.unc.edu
 http://sph.unc.edu/resource-pages/our-people-cau/
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
