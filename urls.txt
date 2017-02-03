@@ -25653,3 +25653,4 @@ http://izquotes.com/author/franz-kafka
 http://izquotes.com/author/robert-browning
 http://izquotes.com/authors/search/scientists
 http://izquotes.com/
+http://www.nytimes.com/2016/04/20/us/politics/new-york-primary.html
