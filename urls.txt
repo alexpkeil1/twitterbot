@@ -26543,3 +26543,6 @@ http://izquotes.com/quotes/government
 http://izquotes.com/author/jose-marti
 http://izquotes.com/privacy
 http://izquotes.com/quotes/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
