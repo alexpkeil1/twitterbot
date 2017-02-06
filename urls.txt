@@ -26513,3 +26513,18 @@ http://www.se16.info/hgb/
 http://www.se16.info/hgb/jokebook.htm
 http://www.statcounter.com/
 
+http://sunetid.cs.stanford.edu/backup
+http://wellness.stanford.edu/
+http://engineering.stanford.edu/connect/alumni
+https://cs.stanford.edu/internal
+http://visit.stanford.edu/plan/maps.html
+http://ai.stanford.edu
+http://adminguide.stanford.edu/ch6contents.html
+http://www.stanford.edu/site/copyright.html
+http://www.stanford.edu/search/
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+http://cs.stanford.edu/group/manips/ocean-one.html
+https://sunetid.cs.stanford.edu/restore
+http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
+https://engineering.stanford.edu/news/how-researchers-trained-algorithm-diagnose-skin-cancer
+http://cvgl.stanford.edu/projects/jackrabbot/
