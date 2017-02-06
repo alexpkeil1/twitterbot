@@ -25689,3 +25689,6 @@ http://bayes.cs.ucla.edu/csl_papers.html
 http://www.cs.ucla.edu/%7Edarwiche
 http://www.cs.ucla.edu/%7Ekaoru
 http://www.ics.uci.edu/%7Edechter
+http://www.commondreams.org
+http://www.commondreams.org/resist
+https://secure.actblue.com/contribute/page/independent-media?amount=15.00&recurring=yes
