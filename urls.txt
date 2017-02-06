@@ -26561,3 +26561,6 @@ http://izquotes.com/quotes/life
 https://plus.google.com/+Izquotes/
 http://izquotes.com/authors/search/scientists
 http://izquotes.com/authors/search/musicians
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
