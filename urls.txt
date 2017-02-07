@@ -27151,3 +27151,6 @@ https://www.nytimes.com/module/insider-events
 https://www.nytimes.com/pages/books/index.html
 https://www.nytimes.com/interactive/2017/01/10/insider/events/will-shortz-meet-the-puzzle-master.html
 http://www.nytimes.com/section/obituaries
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
