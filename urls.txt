@@ -26631,3 +26631,6 @@ http://science.sciencemag.org/content/355/6324/468
 http://immunology.sciencemag.org/content/2/8/eaai8371
 http://www.aaas.org/page/employment-aaas
 http://science.sciencemag.org/user/login?destination=/front
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
