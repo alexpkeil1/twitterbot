@@ -26647,3 +26647,10 @@ http://clopinet.com/isabelle/Projects/NIPS2013/
 http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
 https://wikimediafoundation.org/wiki/Cookie_statement
 https://wikimediafoundation.org/wiki/Privacy_policy
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.ics.uci.edu/%7Edechter
