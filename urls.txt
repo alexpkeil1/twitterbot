@@ -28181,3 +28181,6 @@ http://sph.unc.edu/research/gil/
 http://sph.unc.edu/epid/epidemiology-landing/
 https://sph.unc.edu/cphm/food-for-all/
 http://www.nytimes.com/2016/07/05/nytnow/hillary-clinton-wimbledon-nasa-your-tuesday-evening-briefing.html
+http://www.nytimes.com/2016/10/28/us/politics/hillary-clinton-michelle-obama.html
+http://www.cdc.gov/tb/publications/reportsarticles/default.htm
+http://www.nytimes.com/2016/05/05/sports/golf/adam-scott-olympics-rio-de-janeiro-gold-has-little-luster.html
