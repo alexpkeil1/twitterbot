@@ -27526,3 +27526,6 @@ http://radio.economist.com/
 http://films.economist.com/
 https://execed.economist.com/
 http://debates.economist.com/
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/independent-media?amount=15.00
+http://www.commondreams.org/resist
