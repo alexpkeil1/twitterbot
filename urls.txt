@@ -26680,3 +26680,6 @@ https://www.cdc.gov/cdctv
 http://www.cdc.gov/library/
 https://www.cdc.gov/od/foia
 https://wwwn.cdc.gov/dcs/RequestForm.aspx
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
