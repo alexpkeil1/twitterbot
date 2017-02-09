@@ -27235,3 +27235,10 @@ http://www.nytimes.com/section/obituaries
 http://www.nytimes.com/hdleftnav
 https://www.nytimes.com/2017/02/08/realestate/700000-homes-in-california-tennessee-and-vermont.html
 https://www.nytimes.com/2017/02/08/opinion/after-mr-trumps-din-the-quiet-grandeur-of-the-courts.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
