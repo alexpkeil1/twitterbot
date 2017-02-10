@@ -26554,3 +26554,16 @@ https://wikimediafoundation.org/wiki/Privacy_policy
 https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B4%D5%A1%D5%B3%D5%A1%D6%80%D5%A1%D5%AF%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6
 https://skydrive.live.com/?cid=ec4d1867f6389ec0&id=EC4D1867F6389EC0%21183
 https://sa.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=762247687
+http://www.edwardtufte.com/tufte/hill
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+https://www.wikidata.org/wiki/Q5054566
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+http://clopinet.com/isabelle/Projects/NIPS2013/
+https://wikimediafoundation.org/
+http://webdav.tuebingen.mpg.de/causality/
+https://wikimediafoundation.org/wiki/Privacy_policy
