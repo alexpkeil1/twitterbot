@@ -26569,3 +26569,10 @@ https://www.nlm.nih.gov
 http://www.nih.gov/
 https://medlineplus.gov/mplusdictionary.html
 https://medlineplus.gov/videosandcooltools.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
