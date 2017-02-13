@@ -27272,3 +27272,10 @@ http://izquotes.com/quotes/love
 http://izquotes.com/copyright
 http://izquotes.com/author/richard-brinsley-sheridan
 http://izquotes.com/author/thomas-hardy
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ejudea
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/bib.html
