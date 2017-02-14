@@ -29370,3 +29370,10 @@ http://physics.pnas.org/
 http://frontmatter.pnas.org/
 http://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game
 http://www.nasonline.org/
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
