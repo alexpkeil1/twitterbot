@@ -26773,3 +26773,6 @@ http://apps.who.int/medicinedocs/en/d/Js6170e/4.html
 https://pl.wikipedia.org/wiki/Epidemiologia
 https://ms.wikipedia.org/wiki/Epidemiologi
 https://ca.wikipedia.org/wiki/Epidemiologia
+http://www.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
