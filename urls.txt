@@ -26870,3 +26870,10 @@ https://www.nytimes.com/pages/arts/dance/index.html
 https://www.nytimes.com/2017/02/09/automobiles/autoreviews/video-review-porsche-panamera-now-has-looks-to-match-its-speed-and-luxury.html
 https://www.nytimes.com/pages/opinion/index.html
 http://mobile.nytimes.com/
+http://www.ics.uci.edu/%7Edechter
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
