@@ -26618,3 +26618,6 @@ http://www.economist.com/cookies-info
 http://www.theworldin.com/
 http://www.economistgroup.com/results_and_governance/governance/privacy/
 https://execed.economist.com/
+http://www.commondreams.org/resist
+https://secure.actblue.com/contribute/page/independent-media?amount=15.00
+http://www.commondreams.org
