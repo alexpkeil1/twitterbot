@@ -27134,3 +27134,10 @@ https://www.hsph.harvard.edu/news/magazine-digital-editions/
 https://www.hsph.harvard.edu/admissions/
 https://www.hsph.harvard.edu/admissions/why-harvard-chan/
 http://theforum.sph.harvard.edu/
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
