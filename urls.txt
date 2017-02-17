@@ -27884,3 +27884,6 @@ http://www-cs.stanford.edu/sites/default/webauth/login?destination=node
 http://ai.stanford.edu
 http://cvgl.stanford.edu/projects/jackrabbot/
 https://engineering.stanford.edu/news/balancing-design-and-technology-tackle-grand-global-challenges
+http://www.commondreams.org/resist
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/independent-media
