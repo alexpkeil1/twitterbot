@@ -27253,3 +27253,6 @@ https://www.usa.gov/
 http://www.cdc.gov/media/
 http://www.cdc.gov/library/
 https://oig.hhs.gov
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/independent-media
+http://www.commondreams.org/resist
