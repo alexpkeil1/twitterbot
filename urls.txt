@@ -28364,3 +28364,10 @@ https://cts.sciencemag.org/scc/login.html;jsessionid=A99A8B34CD07506DDEF791E0C91
 http://science.sciencemag.org/content/355/6326/690
 http://immunology.sciencemag.org/content/2/8/eaag2152
 https://plus.google.com/104077269810469435941/posts
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
