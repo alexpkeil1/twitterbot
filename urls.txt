@@ -29080,3 +29080,6 @@ http://www.stanford.edu/search/
 https://engineering.stanford.edu/news/how-researchers-trained-algorithm-diagnose-skin-cancer
 http://cs.stanford.edu/degrees/undergrad/
 https://cs.stanford.edu/internal
+http://www.commondreams.org/resist
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/independent-media
