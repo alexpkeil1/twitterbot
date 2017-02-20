@@ -29151,3 +29151,10 @@ http://www.sciencemag.jp/
 http://www.unep.org/oare/
 http://science.sciencemag.org/content/355/6326/690
 http://stm.sciencemag.org/content/9/377/eaag1809
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://www.cs.ucla.edu/%7Ekaoru
