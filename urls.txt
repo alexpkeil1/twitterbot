@@ -29596,3 +29596,6 @@ http://izquotes.com/authors/search/popular
 http://izquotes.com/author/hunter-s.-thompson
 http://izquotes.com/author/samuel-butler-(novelist)
 http://izquotes.com/author/james-anthony-froude
+http://www.nytimes.com/interactive/2017/01/11/us/politics/live-video-analysis-donald-trumps-press-conference.html
+http://www.nytimes.com/2016/10/20/well/family/how-to-break-up-with-a-friend.html
+http://cooking.nytimes.com/68861692/3215047-our-20-most-popular-recipes-of-summer-2016
