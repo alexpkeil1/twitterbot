@@ -27249,3 +27249,6 @@ http://spiderbites.nytimes.com
 https://www.nytimes.com/pages/fashion/index.html
 http://www.nytimes.com/es/
 https://www.nytimes.com/2017/02/20/science/hubble-constant-universe-expanding-speed.html
+http://library.umassmed.edu/ebpph/top25.cfm
+http://lslintranet1.umassmed.edu
+http://www.umassmed.edu
