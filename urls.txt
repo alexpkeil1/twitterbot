@@ -28767,3 +28767,7 @@ http://events.triangle.com
 http://www.newsobserver.com/news/local/community/chapel-hill-news/chn-sports
 https://plus.google.com/u/0/+newsandobserver/
 https://secure.newsobserver.com/newsubscription/
+http://www.commondreams.org/jobs
+http://www.commondreams.org/resist
+http://www.commondreams.org
+https://secure.actblue.com/contribute/page/independent-media
