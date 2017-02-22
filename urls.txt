@@ -28505,3 +28505,6 @@ http://highwire.stanford.edu/
 http://intl.pnas.org
 http://www.pbs.org/newshour/rundown/superbug-appears-spreading-stealthily-u-s-hospitals-study-finds/
 http://frontmatter.pnas.org
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
