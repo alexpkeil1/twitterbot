@@ -27978,3 +27978,6 @@ http://www.edwardtufte.com/tufte/hill
 http://www.epi-perspectives.com/content/1/1/3
 https://tt.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
 http://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.22.1.189
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
+http://www.umassmed.edu
