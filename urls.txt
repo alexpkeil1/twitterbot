@@ -29285,3 +29285,10 @@ https://www.wikidata.org/wiki/Q133805
 http://www.ph.ucla.edu/epi/snow/importance.html
 https://books.google.com/books?id=Hgnnhu1ym-8C&dq=Morabia,+Alfredo.+ed.+(2004)+A+History+of+Epidemiologic+Methods&printsec=frontcover&source=bn&hl=es&ei=U4ARSvbaEJGUjAew8LnCBg&sa=X&oi=book_result&ct=result&resnum=4
 https://sco.wikipedia.org/wiki/Epidemiology
+http://bayes.cs.ucla.edu/csl_papers.html
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/jp_home.html
+http://www.cs.ucla.edu/%7Ejudea
