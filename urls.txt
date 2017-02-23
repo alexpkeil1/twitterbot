@@ -27730,3 +27730,10 @@ http://ai.stanford.edu
 http://hci.stanford.edu
 http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
 http://campus-map.stanford.edu
+http://www.ics.uci.edu/%7Edechter
+http://bayes.cs.ucla.edu/bib.html
+http://www.cs.ucla.edu/%7Ejudea
+http://www.cs.ucla.edu/%7Ekaoru
+http://www.cs.ucla.edu/%7Edarwiche
+http://bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/csl_papers.html
