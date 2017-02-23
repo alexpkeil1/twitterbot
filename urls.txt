@@ -27874,3 +27874,7 @@ https://cs.stanford.edu/internal
 http://ai.stanford.edu
 http://hci.stanford.edu
 http://cvgl.stanford.edu/projects/jackrabbot/
+http://www.commondreams.org
+http://www.commondreams.org/jobs
+https://secure.actblue.com/contribute/page/independent-media
+http://www.commondreams.org/resist
