@@ -27923,3 +27923,6 @@ https://www.hsph.harvard.edu/admissions/why-harvard-chan/
 https://ecpe.sph.harvard.edu/programs.cfm?CSID=CP0000&pg=cluster&CLID=1&loc=l&loc=l
 https://www.hsph.harvard.edu/news/features/phd-student-christalyn-rhodes-named-harvard-horizons-scholar/
 https://www.hsph.harvard.edu/news/magazine-digital-editions/
+http://www.umassmed.edu
+http://lslintranet1.umassmed.edu
+http://library.umassmed.edu/ebpph/top25.cfm
