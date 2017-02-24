@@ -28530,3 +28530,16 @@ http://www.npr.org/templates/story/story.php?storyId=3935461
 https://it.wikipedia.org/wiki/Epidemiologia
 http://apps.who.int/medicinedocs/en/d/Js6170e/4.html
 https://nl.wikipedia.org/wiki/Epidemiologie
+https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+http://clopinet.com/isabelle/Projects/NIPS2013/
+http://www.mhhe.com/socscience/psychology/shaugh/ch01_concepts.html
+https://www.wikidata.org/wiki/Q5054566
+http://www.britannica.com/EBchecked/topic/1442615/causal-inference
+http://www.edwardtufte.com/tufte/hill
+http://www.bios.unc.edu/~mhudgens/bios/776/2015/bios776.html
+https://wikimediafoundation.org/wiki/Cookie_statement
+http://webdav.tuebingen.mpg.de/causality/
+https://en.wikipedia.org/w/index.php?title=Causal_inference&oldid=762247687
+http://www.skleinberg.org/teaching/CI15/index.html
+https://wikimediafoundation.org/
+https://wikimediafoundation.org/wiki/Privacy_policy
