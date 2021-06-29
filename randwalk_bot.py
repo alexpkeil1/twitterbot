@@ -15,11 +15,11 @@ if os.sys.platform == 'darwin':
     base ="/Users/akeil"
 else:
     base = "/home/akeil"
-root = base + "/Documents/programming_examples/python/twitterbot/"
+root = base + "/repo/twitterbot/"
 os.chdir(root)
 
 # set twitter api parameters
-import mybotapi as mpi # need to cd into this directory
+import _settings as mpi # need to cd into this directory
 t_keys = mpi.get_keys()
 
 

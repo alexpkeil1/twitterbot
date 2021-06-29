@@ -15,15 +15,15 @@ else:
     base = "/home/akeil/"
 
 
-os.chdir(base + "Documents/programming_examples/python/twitterbot/")
-import mybotapi as mpi  # need to cd into this directory
+os.chdir(base + "repo/twitterbot/")
+import _settings as mpi # need to cd into this directory
 os.environ['PATH'] += "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
 t_keys = mpi.get_keys()
 outdir = '/tmp/'
 
 
-path = base + "Documents/programming_examples/python/twitterbot/"
+path = base + "repo/twitterbot/"
 with open('{}img_urls.txt'.format(path)) as fu:
     lns = 0
     for line in fu.readlines():

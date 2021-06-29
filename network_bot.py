@@ -30,11 +30,11 @@ if os.sys.platform == 'darwin':
 else:
     base = "/home/akeil/"
 
-root = base + "Documents/programming_examples/python/twitterbot/"
+root = base + "repo/twitterbot/"
 os.chdir(root)
 
 # set twitter api parameters
-import mybotapi as mpi # need to cd into this directory
+import _settings as mpi # need to cd into this directory
 t_keys = mpi.get_keys()
 
 
@@ -172,7 +172,7 @@ def lookupURLs():
     From a stored file of old URLs searched, turn the old URLs into a set
     '''
     pastURLs = {}
-    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    with open(base + "repo/twitterbot/urls.txt", 
               'r', encoding='utf-8') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
@@ -184,7 +184,7 @@ def addURLstolist(URLlist):
     Add the newest URLs to the file with old URLs
     '''
     URLset = set(URLlist)
-    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    with open(base + "repo/twitterbot/urls.txt", 
               'a', encoding='utf-8') as f:
         for URL in URLset:
             f.writelines(URL + '\n')

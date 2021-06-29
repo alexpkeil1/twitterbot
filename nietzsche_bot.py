@@ -13,9 +13,9 @@ if os.sys.platform == 'darwin':
 else:
     base = "/home/akeil"
 
-os.chdir(base + "/Documents/programming_examples/python/twitterbot/")
+os.chdir(base + "/repo/twitterbot/")
 
-import mybotapi as mpi # need to cd into this directory
+import _settings as mpi # need to cd into this directory
 
 t_keys = mpi.get_keys()
 
@@ -34,7 +34,7 @@ divs = rt.cssselect('div')
 quote = [a.text for a in rt.cssselect('div.quote')][0].replace('\n', '').replace('\t', '')
 
 
-first_tweet = base + '/Documents/programming_examples/python/twitterbot/Nietzsche_tweet.txt'
+first_tweet = base + '/repo/twitterbot/Nietzsche_tweet.txt'
 with open(first_tweet, 'w+') as f:
     f.write(quote.strip() + ' (Nietzsche)')
 

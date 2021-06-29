@@ -26,8 +26,8 @@ if os.sys.platform == 'darwin':
     base = "/Users/akeil/"
 else:
     base = "/home/akeil/"
-os.chdir(base + "Documents/programming_examples/python/twitterbot/")
-import mybotapi as mpi  # need to cd into this directory
+os.chdir(base + "repo/twitterbot/")
+import _settings as mpi # need to cd into this directory
 os.environ['PATH'] += "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
 t_keys = mpi.get_keys()

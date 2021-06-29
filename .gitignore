@@ -74,3 +74,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+.DS_Store
+Nietzsche_tweet.txt
+*.txt

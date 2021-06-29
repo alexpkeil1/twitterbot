@@ -29,8 +29,8 @@ def maketweet(tweetit):
     '''
     Tweet the contents of a string variable
     '''
-    os.chdir(base + "Documents/programming_examples/python/twitterbot/")
-    import mybotapi as mpi  # need to cd into this directory
+    os.chdir(base + "repo/twitterbot/")
+	import _settings as mpi # need to cd into this directory
     t_keys = mpi.get_keys()
     auth = tweepy.OAuthHandler(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'])
     auth.set_access_token(t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
@@ -43,7 +43,7 @@ def lookuptweets():
     From a stored file of old tweets, turn the old tweets into a dictionary
     '''
     pasttweets = {}
-    with open(base + "Documents/programming_examples/python/twitterbot/tweets.txt", 
+    with open(base + "repo/twitterbot/tweets.txt", 
               'r') as f:
         for l in f.readlines():
             pasttweets[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
@@ -54,7 +54,7 @@ def addtweettolist(tweetit):
     '''
     Add the newest tweet to the file with old tweets
     '''
-    with open(base + "Documents/programming_examples/python/twitterbot/tweets.txt", 
+    with open(base + "repo/twitterbot/tweets.txt", 
               'a') as f:
         f.writelines(tweetit + '\n')
 
@@ -122,8 +122,8 @@ def lookupURLs():
     From a stored file of old URLs searched, turn the old URLs into a set
     '''
     pastURLs = {}
-    #with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
-    with open(base + "Documents/programming_examples/python/twitterbot/img_urls.txt", 
+    #with open(base + "repo/twitterbot/urls.txt", 
+    with open(base + "repo/twitterbot/img_urls.txt", 
               'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
@@ -135,7 +135,7 @@ def addURLstolist(URLlist):
     Add the newest URLs to the file with old URLs
     '''
     URLset = set(URLlist)
-    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    with open(base + "repo/twitterbot/urls.txt", 
               'a') as f:
         for URL in URLset:
             f.writelines(URL + '\n')
@@ -166,12 +166,12 @@ def sortURLs():
     Sort all of the URLs in a file
     '''
     pastURLs = {}
-    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    with open(base + "repo/twitterbot/urls.txt", 
               'r') as f:
         for l in f.readlines():
             pastURLs[l.strip().replace('\n', '  ').replace('\r', '  ')] = 1
     sortedList = sorted(list(set(ban_urls(pastURLs))))
-    with open(base + "Documents/programming_examples/python/twitterbot/urls.txt", 
+    with open(base + "repo/twitterbot/urls.txt", 
               'w') as f:
         for URL in sortedList:
             f.writelines(URL + '\n')

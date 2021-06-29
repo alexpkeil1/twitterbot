@@ -1,6 +1,6 @@
-#!/usr/bin/env python
+#!/opt/anaconda3/envs/twitterbot/bin/python
 from TwitterAPI import TwitterAPI
-from mpl_toolkits.basemap import Basemap, cm
+#from mpl_toolkits.basemap import Basemap, cm
 import matplotlib.pyplot as plt
 import os
 import numpy as np
@@ -8,17 +8,19 @@ from numpy import random
 import requests
 from lxml import html
 
-
 # ask if OSX
 if os.sys.platform == 'darwin':
     base ="/Users/akeil"
 else:
     base = "/home/akeil"
 
-root = base + "/Documents/programming_examples/python/twitterbot/"
+
+
+
+root = base + "/repo/twitterbot/"
 os.chdir(root)
 # set twitter api parameters
-import mybotapi as mpi # need to cd into this directory
+import _settings as mpi # need to cd into this directory
 t_keys = mpi.get_keys()
 api = TwitterAPI(t_keys['CONSUMER_KEY'], t_keys['CONSUMER_SECRET'], t_keys['ACCESS_KEY'], t_keys['ACCESS_SECRET'])
 

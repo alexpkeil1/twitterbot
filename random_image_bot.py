@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.5
 __version__ = 0.1
 
 import requests
@@ -69,7 +68,7 @@ def tweet_with_image(tweet_text, png_file):
         base ="/Users/akeil/"
     else:
         base = "/home/akeil/"
-    root = base + "Documents/programming_examples/python/twitterbot/"
+    root = base + "repo/twitterbot/"
     os.chdir(root)
     # set twitter api parameters
     import mybotapi as mpi # need to cd into this directory

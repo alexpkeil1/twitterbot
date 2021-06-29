@@ -19,12 +19,12 @@ if os.sys.platform == 'darwin':
 else:
     base = "/home/akeil/"
 
-os.chdir(base + "Documents/programming_examples/python/twitterbot/")
-import mybotapi as mpi  # need to cd into this directory
+os.chdir(base + "repo/twitterbot/")
+import _settings as mpi # need to cd into this directory
 os.environ['PATH'] += "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 t_keys = mpi.get_keys()
 outdir = '/tmp/'
-path = base + "Documents/programming_examples/python/twitterbot/"
+path = base + "repo/twitterbot/"
 
 
 def site_root(url):
@@ -109,7 +109,7 @@ def addURLtolist(URL):
     '''
     Add the newest URLs to the file with old URLs
     '''
-    with open(base + "Documents/programming_examples/python/twitterbot/img_urls.txt", 
+    with open(base + "repo/twitterbot/img_urls.txt", 
               'a', encoding='utf-8') as f:
         f.writelines(URL + '\n')
 
@@ -118,7 +118,7 @@ def addURLtoTweetedlist(URL):
     '''
     Add the newest URLs to the file with old URLs
     '''
-    with open(base + "Documents/programming_examples/python/twitterbot/img_urls_tweeted.txt", 
+    with open(base + "repo/twitterbot/img_urls_tweeted.txt", 
               'a', encoding='utf-8') as f:
         f.writelines(URL + '\n')
 
@@ -128,7 +128,7 @@ def alreadyTweetedlist():
     Add the newest URLs to the file with old URLs
     '''
     tweets = set([])
-    with open(base + "Documents/programming_examples/python/twitterbot/img_urls_tweeted.txt", 
+    with open(base + "repo/twitterbot/img_urls_tweeted.txt", 
               'r', encoding='utf-8') as f:
         for URL in f.readlines():
             tweets.add(URL.strip().replace('\n', '  ').replace('\r', '  '))
@@ -139,7 +139,7 @@ def cleanURLlist():
     '''
     Clean up the URL list
     '''
-    fl = "Documents/programming_examples/python/twitterbot/img_urls.txt"
+    fl = "repo/twitterbot/img_urls.txt"
     links = set([])
     with open(base + fl, 'r', encoding='utf-8') as f:
         for URL in f.readlines():
@@ -157,7 +157,7 @@ def readimgURLfile():
     get URLs from the file with old URLs
     '''
     URLlist=[]
-    fl = "Documents/programming_examples/python/twitterbot/img_urls.txt"
+    fl = "repo/twitterbot/img_urls.txt"
     with open(base + fl, 'r', encoding='utf-8') as f:
         for URL in f.readlines():
             URLlist.append(URL)
@@ -170,7 +170,7 @@ def getallURLS():
     get URLs from the file with old URLs
     '''
     URLlist=[]
-    fl =  "Documents/programming_examples/python/twitterbot/urls.txt"
+    fl =  "repo/twitterbot/urls.txt"
     with open(base + fl, 'r', encoding='utf-8') as f:
         for URL in f.readlines():
             URLlist.append(URL)

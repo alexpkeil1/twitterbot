@@ -13,14 +13,14 @@ if os.sys.platform == 'darwin':
 else:
     base = "/home/akeil"
 
-os.chdir(base + "/Documents/programming_examples/python/twitterbot/")
-import mybotapi as mpi # need to cd into this directory
+os.chdir(base + "/repo/twitterbot/")
+import _settings as mpi # need to cd into this directory
 t_keys = mpi.get_keys()
 outdir = '/tmp/'
 
 
-first_tweet = base + "/Documents/programming_examples/python/twitterbot/" + 'test_tweet.txt'
-joke_tweet = base + "/Documents/programming_examples/python/twitterbot/" + 'jokes.txt'
+first_tweet = base + "/repo/twitterbot/" + 'test_tweet.txt'
+joke_tweet = base + "/repo/twitterbot/" + 'jokes.txt'
 joke_file = outdir + 'jokefile'
 
 joke_urls = ['http://www.textfiles.com/humor/TAGLINES/cookie.' + 
@@ -35,7 +35,7 @@ def get_jokes(joke_urls):
         ).text).replace('\n', '').replace('\r', '')
     with open(joke_file, 'w+') as f:
         for joke in jokepage.split('%%'):
-            if joke.strip() is not '':
+            if joke.strip() != '':
                 f.writelines(joke.strip().replace('\t', ' ') + '\n')
 
 def tweet(textfile):
